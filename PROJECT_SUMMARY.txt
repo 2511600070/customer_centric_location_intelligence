@@ -1,0 +1,18 @@
+Customer-Centric Location Intelligence — Prototype V2
+
+Business objectives:
+- Customer retention
+- Market share protection
+- New customer acquisition
+
+Core novelty:
+From ordinary site selection into customer-centric strategic location intelligence.
+
+Main output scores:
+- Customer Density Score
+- Retention Risk Score
+- Market Share Defense Score
+- New Customer Potential Score
+- Accessibility Score
+- Competition Pressure Score
+- Strategic Location Score
