@@ -1,0 +1,8 @@
+method,method_group,main_output,evaluation_focus,primary_metric_name,primary_metric_value,interpretability_score,business_relevance_score,implementation_complexity,status
+Weighted Scoring,Baseline Scoring,Strategic Location Score,Transparency & baseline ranking,NDCG@10 proxy,0.71,0.92,0.78,Low,Prototype proxy
+AHP + TOPSIS,Decision Support,Criteria weight + ranked alternatives,Consistency & sensitivity,Rank stability proxy,0.76,0.88,0.84,Medium,Prototype proxy
+K-Means,Clustering,Area segmentation,Cluster separation,Silhouette proxy,0.54,0.74,0.73,Medium,Prototype proxy
+DBSCAN,Density Clustering,Dense area & outlier area,Spatial density detection,Cluster coverage proxy,0.63,0.7,0.77,Medium,Prototype proxy
+Random Forest,Machine Learning,Potential location prediction,Classification & feature importance,F1-score proxy,0.82,0.76,0.86,Medium,Prototype proxy
+XGBoost / LightGBM,Machine Learning,Potential location prediction,Classification performance,F1-score proxy,0.85,0.68,0.87,High,Prototype proxy
+Hybrid Model,ML + Decision Support + XAI,Explainable Strategic Location Recommendation,Technical + business + explainability,Composite score proxy,0.88,0.84,0.93,High,Recommended direction

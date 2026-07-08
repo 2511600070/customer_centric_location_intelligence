@@ -1,0 +1,9 @@
+﻿item,value
+Project,Customer-Centric Location Intelligence
+Dataset Version,Dummy Dataset V1
+Scope Cities,"Jakarta, Bandung, Semarang, Yogyakarta, Surabaya"
+Total Customers,5500
+Customer per City,Jakarta 1200; Bandung 1100; Semarang 1050; Yogyakarta 1000; Surabaya 1150
+Main Modeling Unit,Area/Grid Level using dummy H3-like index
+Important Note,"All values are synthetic/dummy for research prototyping, not actual business/customer data."
+Privacy Note,No personal customer identity is included. Coordinates are synthetic and should be replaced with anonymized/agregated real data for research.

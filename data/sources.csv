@@ -1,0 +1,7 @@
+﻿source_name,url,usage
+BPS API / data statistik wilayah,https://webapi.bps.go.id/,Referensi sumber data demografi/populasi ketika memakai data nyata
+BPS PPID API guide,https://ppid.bps.go.id/upload/doc/LW11_BPS_WEBAPI_1647413405.pdf,Panduan API BPS untuk pengambilan data statistik
+Ina-Geoportal BIG,https://tanahair.indonesia.go.id/portal-web,Referensi data geospasial Indonesia
+OpenStreetMap,https://www.openstreetmap.org/,"Referensi POI, jalan, fasilitas umum, dan objek peta"
+Geofabrik Indonesia OSM extracts,https://download.geofabrik.de/asia/indonesia.html,Alternatif download data OSM Indonesia
+H3 Hexagonal Hierarchical Geospatial Indexing System,https://h3geo.org/,Referensi grid H3 untuk agregasi spasial

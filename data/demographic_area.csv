@@ -1,0 +1,151 @@
+﻿area_id,city,province,district,subdistrict,h3_index,centroid_latitude,centroid_longitude,population_count,population_density,household_count,productive_age_ratio,avg_income_index,economic_activity_index,urbanization_level,data_year,data_source
+AREA_JKT_001,Jakarta,DKI Jakarta,Cilandak,Lebak Bulus,H3_JKT_001,-6.280494,106.798506,37144,22310.6,9661,0.723,48.91,64.83,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_002,Jakarta,DKI Jakarta,Pasar Minggu,Ragunan,H3_JKT_002,-6.283044,106.854733,38463,21773.95,11070,0.605,88.07,60.82,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_003,Jakarta,DKI Jakarta,Cilandak,Cilandak Barat,H3_JKT_003,-6.278462,106.795032,47213,23611.67,12488,0.718,70.98,78.11,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_004,Jakarta,DKI Jakarta,Kembangan,Meruya Utara,H3_JKT_004,-6.211778,106.741564,52260,16973.79,13619,0.692,75.76,48.36,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_005,Jakarta,DKI Jakarta,Menteng,Menteng,H3_JKT_005,-6.20422,106.811835,43010,23505.24,10791,0.644,47.98,87.92,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_006,Jakarta,DKI Jakarta,Kelapa Gading,Kelapa Gading Timur,H3_JKT_006,-6.158843,106.913992,63322,15678.38,16917,0.724,62.97,55.31,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_007,Jakarta,DKI Jakarta,Pasar Minggu,Jati Padang,H3_JKT_007,-6.295723,106.832265,58674,19407.6,14076,0.718,45.52,78.87,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_008,Jakarta,DKI Jakarta,Duren Sawit,Klender,H3_JKT_008,-6.209801,106.910392,45261,25606.43,11492,0.661,49.79,74.39,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_009,Jakarta,DKI Jakarta,Kebayoran Baru,Gandaria Utara,H3_JKT_009,-6.254297,106.790906,51788,24302.11,12899,0.629,47.61,86.27,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_010,Jakarta,DKI Jakarta,Kelapa Gading,Kelapa Gading Barat,H3_JKT_010,-6.173616,106.880478,45370,19387.43,12043,0.734,86.8,80.5,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_011,Jakarta,DKI Jakarta,Duren Sawit,Duren Sawit,H3_JKT_011,-6.222796,106.9159,29378,20236.32,8761,0.615,48.19,74.66,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_012,Jakarta,DKI Jakarta,Menteng,Cikini,H3_JKT_012,-6.213656,106.828306,58976,15401.96,16290,0.645,49.24,75.97,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_013,Jakarta,DKI Jakarta,Kebayoran Baru,Gandaria Utara,H3_JKT_013,-6.251943,106.805275,44295,14682.26,12004,0.602,53.26,66.74,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_014,Jakarta,DKI Jakarta,Kebayoran Baru,Gandaria Utara,H3_JKT_014,-6.216109,106.793694,38899,17689.8,10717,0.718,85.61,52.74,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_015,Jakarta,DKI Jakarta,Duren Sawit,Pondok Kelapa,H3_JKT_015,-6.22333,106.91832,63533,12853.41,18442,0.588,66.46,88.21,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_016,Jakarta,DKI Jakarta,Menteng,Cikini,H3_JKT_016,-6.218531,106.849258,44135,20104.87,14039,0.593,74.58,71.57,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_017,Jakarta,DKI Jakarta,Kembangan,Meruya Utara,H3_JKT_017,-6.216611,106.742329,28610,18416.0,6814,0.739,48.3,55.02,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_018,Jakarta,DKI Jakarta,Kembangan,Joglo,H3_JKT_018,-6.217067,106.712124,62664,12109.52,15670,0.628,74.85,89.13,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_019,Jakarta,DKI Jakarta,Cengkareng,Duri Kosambi,H3_JKT_019,-6.142108,106.751301,61122,18839.45,14922,0.715,49.15,64.91,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_020,Jakarta,DKI Jakarta,Pasar Minggu,Jati Padang,H3_JKT_020,-6.291423,106.836817,37768,19638.26,9399,0.673,51.66,50.99,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_021,Jakarta,DKI Jakarta,Menteng,Cikini,H3_JKT_021,-6.20059,106.823281,54632,25633.72,13921,0.728,55.65,52.64,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_022,Jakarta,DKI Jakarta,Pasar Minggu,Ragunan,H3_JKT_022,-6.278272,106.816306,45485,14228.77,11748,0.641,46.74,67.12,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_023,Jakarta,DKI Jakarta,Menteng,Menteng,H3_JKT_023,-6.202791,106.838776,46292,16916.05,12646,0.689,82.96,60.56,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_024,Jakarta,DKI Jakarta,Pasar Minggu,Pejaten Timur,H3_JKT_024,-6.297927,106.856388,61516,13619.04,15042,0.61,47.0,65.49,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_025,Jakarta,DKI Jakarta,Pasar Minggu,Pejaten Timur,H3_JKT_025,-6.269957,106.846546,48572,21287.42,15004,0.724,67.82,76.34,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_026,Jakarta,DKI Jakarta,Kelapa Gading,Kelapa Gading Timur,H3_JKT_026,-6.165595,106.89826,28026,16254.25,8413,0.706,72.3,60.15,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_027,Jakarta,DKI Jakarta,Cilandak,Cilandak Barat,H3_JKT_027,-6.293733,106.814322,49966,13307.42,12048,0.618,58.97,82.91,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_028,Jakarta,DKI Jakarta,Menteng,Gondangdia,H3_JKT_028,-6.197334,106.821421,43989,14066.0,11406,0.723,83.72,86.62,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_029,Jakarta,DKI Jakarta,Cilandak,Cilandak Barat,H3_JKT_029,-6.310775,106.802829,62808,25830.49,16726,0.732,85.11,73.79,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_JKT_030,Jakarta,DKI Jakarta,Duren Sawit,Klender,H3_JKT_030,-6.248055,106.916182,46173,22721.39,12569,0.68,57.36,48.64,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_001,Bandung,Jawa Barat,Ujungberung,Pasanggrahan,H3_BDG_001,-6.909225,107.703822,31356,11639.7,8679,0.59,82.48,63.31,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_002,Bandung,Jawa Barat,Buahbatu,Margasari,H3_BDG_002,-6.948588,107.653379,35636,16222.67,9629,0.677,54.92,55.31,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_003,Bandung,Jawa Barat,Cicendo,Husein,H3_BDG_003,-6.875495,107.572669,18883,17976.22,5034,0.686,48.78,65.14,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_004,Bandung,Jawa Barat,Cicendo,Pajajaran,H3_BDG_004,-6.910209,107.618029,26266,17184.02,7261,0.7,47.34,89.74,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_005,Bandung,Jawa Barat,Gedebage,Cisaranten Kidul,H3_BDG_005,-6.945156,107.696881,33517,15364.05,9009,0.615,76.48,81.04,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_006,Bandung,Jawa Barat,Coblong,Sekeloa,H3_BDG_006,-6.911288,107.597908,40195,17988.29,11442,0.731,53.92,72.83,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_007,Bandung,Jawa Barat,Gedebage,Rancabolang,H3_BDG_007,-6.931143,107.693875,35456,12712.16,10108,0.661,60.36,84.93,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_008,Bandung,Jawa Barat,Cicendo,Husein,H3_BDG_008,-6.898476,107.602033,26850,14775.04,6530,0.704,65.92,83.81,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_009,Bandung,Jawa Barat,Gedebage,Rancabolang,H3_BDG_009,-6.968072,107.699623,29023,8315.7,7190,0.609,54.55,82.5,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_010,Bandung,Jawa Barat,Coblong,Sekeloa,H3_BDG_010,-6.886335,107.623238,42843,10643.56,11822,0.694,65.17,45.81,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_011,Bandung,Jawa Barat,Buahbatu,Margasari,H3_BDG_011,-6.962728,107.650962,29528,15731.4,8689,0.62,50.43,54.05,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_012,Bandung,Jawa Barat,Ujungberung,Pasirwangi,H3_BDG_012,-6.931151,107.686178,27273,18785.62,6791,0.627,61.24,59.21,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_013,Bandung,Jawa Barat,Ujungberung,Cigending,H3_BDG_013,-6.904554,107.686744,36810,11127.73,10150,0.635,88.45,56.87,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_014,Bandung,Jawa Barat,Sukajadi,Sukabungah,H3_BDG_014,-6.879863,107.608443,20791,18933.1,6436,0.702,72.28,82.16,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_015,Bandung,Jawa Barat,Buahbatu,Sekejati,H3_BDG_015,-6.948843,107.640232,21251,18423.49,6384,0.614,74.72,52.38,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_016,Bandung,Jawa Barat,Sukajadi,Sukabungah,H3_BDG_016,-6.89132,107.605504,20332,15561.23,4939,0.706,73.13,76.08,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_017,Bandung,Jawa Barat,Coblong,Sekeloa,H3_BDG_017,-6.867191,107.618791,42541,17066.64,10342,0.65,66.09,59.29,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_018,Bandung,Jawa Barat,Ujungberung,Cigending,H3_BDG_018,-6.917999,107.705186,25501,18581.02,6344,0.672,87.79,91.98,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_019,Bandung,Jawa Barat,Buahbatu,Sekejati,H3_BDG_019,-6.938356,107.65647,44681,13408.98,13961,0.636,60.0,76.5,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_020,Bandung,Jawa Barat,Antapani,Antapani Tengah,H3_BDG_020,-6.908984,107.661178,28593,9275.14,7239,0.718,82.12,45.05,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_021,Bandung,Jawa Barat,Cicendo,Husein,H3_BDG_021,-6.904492,107.58092,22293,18204.4,6223,0.692,50.46,90.74,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_022,Bandung,Jawa Barat,Gedebage,Cisaranten Kidul,H3_BDG_022,-6.940598,107.689055,39224,17153.57,10751,0.695,67.9,57.85,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_023,Bandung,Jawa Barat,Antapani,Antapani Kidul,H3_BDG_023,-6.914151,107.6535,27052,16499.43,6696,0.634,80.45,57.56,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_024,Bandung,Jawa Barat,Cicendo,Husein,H3_BDG_024,-6.915719,107.58635,42997,13977.73,11940,0.631,53.49,77.78,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_025,Bandung,Jawa Barat,Gedebage,Cimincrang,H3_BDG_025,-6.978309,107.720326,22984,13448.62,7318,0.66,71.56,85.88,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_026,Bandung,Jawa Barat,Ujungberung,Pasanggrahan,H3_BDG_026,-6.909351,107.696112,29093,14855.85,8224,0.593,59.79,76.69,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_027,Bandung,Jawa Barat,Antapani,Antapani Tengah,H3_BDG_027,-6.898594,107.667064,25454,16214.43,7115,0.596,73.52,86.01,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_028,Bandung,Jawa Barat,Buahbatu,Margasari,H3_BDG_028,-6.953141,107.645788,36544,15499.8,11080,0.608,72.43,62.98,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_029,Bandung,Jawa Barat,Ujungberung,Pasanggrahan,H3_BDG_029,-6.892352,107.69828,40203,14012.58,12637,0.731,89.44,59.06,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_BDG_030,Bandung,Jawa Barat,Coblong,Sekeloa,H3_BDG_030,-6.885745,107.626581,27695,18919.61,8086,0.736,74.62,57.9,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_001,Semarang,Jawa Tengah,Pedurungan,Tlogosari Kulon,H3_SMG_001,-6.984602,110.465435,19176,10729.56,5069,0.688,77.44,75.98,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_002,Semarang,Jawa Tengah,Semarang Barat,Manyaran,H3_SMG_002,-6.989208,110.366782,22705,11727.33,6894,0.601,69.27,90.66,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_003,Semarang,Jawa Tengah,Gunungpati,Sekaran,H3_SMG_003,-7.092789,110.413289,27346,13666.04,8401,0.735,83.71,79.04,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_004,Semarang,Jawa Tengah,Semarang Barat,Kalibanteng Kidul,H3_SMG_004,-6.976791,110.370064,34031,7359.45,9670,0.682,61.72,76.72,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_005,Semarang,Jawa Tengah,Genuk,Karangroto,H3_SMG_005,-6.95323,110.462484,33274,8674.66,10226,0.731,58.7,68.15,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_006,Semarang,Jawa Tengah,Semarang Barat,Krapyak,H3_SMG_006,-7.002264,110.371615,25594,10894.3,6371,0.679,87.26,58.15,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_007,Semarang,Jawa Tengah,Pedurungan,Tlogosari Kulon,H3_SMG_007,-7.017839,110.464866,13984,8583.26,4226,0.6,83.16,66.37,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_008,Semarang,Jawa Tengah,Banyumanik,Pudakpayung,H3_SMG_008,-7.065127,110.406086,18788,10277.45,4703,0.617,79.85,82.07,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_009,Semarang,Jawa Tengah,Tembalang,Tembalang,H3_SMG_009,-7.060454,110.436675,23738,12109.86,7061,0.632,52.84,47.46,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_010,Semarang,Jawa Tengah,Tembalang,Sendangmulyo,H3_SMG_010,-7.06711,110.441522,13420,11545.19,3273,0.685,58.57,75.24,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_011,Semarang,Jawa Tengah,Semarang Tengah,Sekayu,H3_SMG_011,-6.97959,110.417194,16860,5591.14,4955,0.681,69.68,60.28,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_012,Semarang,Jawa Tengah,Gunungpati,Patemon,H3_SMG_012,-7.099864,110.369678,35620,12789.43,9968,0.722,63.62,83.89,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_013,Semarang,Jawa Tengah,Genuk,Genuksari,H3_SMG_013,-6.96104,110.483919,15054,8886.89,3841,0.64,50.86,47.82,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_014,Semarang,Jawa Tengah,Semarang Tengah,Miroto,H3_SMG_014,-6.971042,110.400865,31674,7812.04,9855,0.661,51.96,67.66,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_015,Semarang,Jawa Tengah,Semarang Tengah,Sekayu,H3_SMG_015,-6.965698,110.388125,32105,11074.79,8648,0.677,74.6,77.59,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_016,Semarang,Jawa Tengah,Banyumanik,Banyumanik,H3_SMG_016,-7.078105,110.409084,36280,10698.55,11577,0.699,54.68,64.73,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_017,Semarang,Jawa Tengah,Tembalang,Tembalang,H3_SMG_017,-7.047757,110.455674,34084,5734.23,9500,0.648,72.32,64.47,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_018,Semarang,Jawa Tengah,Semarang Barat,Manyaran,H3_SMG_018,-6.98682,110.358826,31638,5493.04,9515,0.731,79.53,80.92,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_019,Semarang,Jawa Tengah,Banyumanik,Srondol Kulon,H3_SMG_019,-7.089717,110.413963,14361,8573.64,3667,0.65,65.69,48.66,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_020,Semarang,Jawa Tengah,Pedurungan,Tlogosari Kulon,H3_SMG_020,-6.972262,110.499702,34597,13277.93,10821,0.715,55.95,72.68,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_021,Semarang,Jawa Tengah,Semarang Barat,Krapyak,H3_SMG_021,-6.994883,110.351039,37435,8144.38,9598,0.711,81.68,56.1,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_022,Semarang,Jawa Tengah,Gunungpati,Patemon,H3_SMG_022,-7.095299,110.38035,36899,10215.21,9586,0.721,73.93,91.37,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_023,Semarang,Jawa Tengah,Gunungpati,Patemon,H3_SMG_023,-7.08663,110.394031,14431,7793.67,4011,0.589,82.43,48.61,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_024,Semarang,Jawa Tengah,Gunungpati,Patemon,H3_SMG_024,-7.086242,110.386535,33359,6694.16,8859,0.66,88.1,66.17,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_025,Semarang,Jawa Tengah,Genuk,Terboyo Wetan,H3_SMG_025,-6.976936,110.490921,31982,6428.72,9111,0.625,63.39,60.9,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_026,Semarang,Jawa Tengah,Pedurungan,Gemah,H3_SMG_026,-6.986294,110.497437,16927,8000.26,4524,0.603,60.74,90.48,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_027,Semarang,Jawa Tengah,Gunungpati,Patemon,H3_SMG_027,-7.08897,110.395528,36208,13974.48,8823,0.595,75.17,68.9,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_028,Semarang,Jawa Tengah,Banyumanik,Banyumanik,H3_SMG_028,-7.061348,110.42231,28635,11937.87,7125,0.721,46.7,60.83,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_029,Semarang,Jawa Tengah,Gunungpati,Sekaran,H3_SMG_029,-7.070298,110.378987,25463,8278.69,6543,0.735,72.48,80.36,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SMG_030,Semarang,Jawa Tengah,Banyumanik,Srondol Kulon,H3_SMG_030,-7.086629,110.43548,27128,11924.95,6857,0.66,63.84,52.62,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_001,Yogyakarta,DI Yogyakarta,Gondokusuman,Terban,H3_YGY_001,-7.786471,110.363968,19340,5254.88,5902,0.652,68.1,84.06,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_002,Yogyakarta,DI Yogyakarta,Mantrijeron,Mantrijeron,H3_YGY_002,-7.827799,110.355889,22285,6520.85,6458,0.596,77.16,60.76,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_003,Yogyakarta,DI Yogyakarta,Mantrijeron,Mantrijeron,H3_YGY_003,-7.820168,110.356391,10622,6803.32,2643,0.668,77.73,69.81,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_004,Yogyakarta,DI Yogyakarta,Mantrijeron,Suryodiningratan,H3_YGY_004,-7.797911,110.364783,29553,9324.48,7787,0.672,77.33,58.69,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_005,Yogyakarta,DI Yogyakarta,Kotagede,Rejowinangun,H3_YGY_005,-7.816642,110.40605,26633,9487.37,7545,0.655,73.61,91.11,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_006,Yogyakarta,DI Yogyakarta,Kasihan Bantul,Bangunjiwo,H3_YGY_006,-7.843562,110.33307,11452,7670.69,3298,0.683,82.37,77.18,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_007,Yogyakarta,DI Yogyakarta,Gondokusuman,Terban,H3_YGY_007,-7.783968,110.381459,11373,7340.36,3305,0.644,81.69,67.25,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_008,Yogyakarta,DI Yogyakarta,Kotagede,Prenggan,H3_YGY_008,-7.821844,110.408102,24409,12551.74,6923,0.736,67.33,68.38,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_009,Yogyakarta,DI Yogyakarta,Kasihan Bantul,Bangunjiwo,H3_YGY_009,-7.821765,110.352068,12623,7451.28,3685,0.651,77.29,52.83,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_010,Yogyakarta,DI Yogyakarta,Mlati Sleman,Sinduadi,H3_YGY_010,-7.718058,110.362349,31993,10237.61,9141,0.708,75.57,89.78,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_011,Yogyakarta,DI Yogyakarta,Kotagede,Purbayan,H3_YGY_011,-7.848993,110.422338,29827,5880.94,8296,0.639,64.98,48.61,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_012,Yogyakarta,DI Yogyakarta,Umbulharjo,Muja Muju,H3_YGY_012,-7.821872,110.387071,13858,6855.99,4092,0.651,89.84,58.42,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_013,Yogyakarta,DI Yogyakarta,Mantrijeron,Suryodiningratan,H3_YGY_013,-7.797116,110.355624,31883,7626.83,10053,0.667,85.11,85.01,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_014,Yogyakarta,DI Yogyakarta,Umbulharjo,Warungboto,H3_YGY_014,-7.807696,110.378486,10861,7748.07,2912,0.655,89.24,51.1,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_015,Yogyakarta,DI Yogyakarta,Mantrijeron,Suryodiningratan,H3_YGY_015,-7.816911,110.351793,31048,5167.49,8594,0.663,50.78,83.97,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_016,Yogyakarta,DI Yogyakarta,Kasihan Bantul,Bangunjiwo,H3_YGY_016,-7.821084,110.347864,15307,7403.95,3944,0.635,87.34,87.06,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_017,Yogyakarta,DI Yogyakarta,Depok Sleman,Maguwoharjo,H3_YGY_017,-7.756699,110.413514,29026,5887.75,7589,0.695,72.23,84.6,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_018,Yogyakarta,DI Yogyakarta,Mlati Sleman,Tlogoadi,H3_YGY_018,-7.743188,110.381165,30938,4772.57,7586,0.667,73.89,59.2,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_019,Yogyakarta,DI Yogyakarta,Mantrijeron,Gedongkiwo,H3_YGY_019,-7.827067,110.356801,14707,7313.24,3780,0.697,83.73,90.84,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_020,Yogyakarta,DI Yogyakarta,Umbulharjo,Warungboto,H3_YGY_020,-7.807551,110.389993,30164,8263.21,7252,0.724,81.61,88.89,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_021,Yogyakarta,DI Yogyakarta,Mantrijeron,Gedongkiwo,H3_YGY_021,-7.790383,110.360197,24982,13200.18,7487,0.636,47.27,68.26,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_022,Yogyakarta,DI Yogyakarta,Kotagede,Prenggan,H3_YGY_022,-7.832872,110.379815,11482,8105.23,3080,0.611,69.9,48.46,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_023,Yogyakarta,DI Yogyakarta,Gondokusuman,Baciro,H3_YGY_023,-7.799787,110.391208,28279,12950.54,7194,0.612,67.91,68.5,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_024,Yogyakarta,DI Yogyakarta,Depok Sleman,Condongcatur,H3_YGY_024,-7.753265,110.425378,15324,8036.59,4055,0.715,71.72,68.84,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_025,Yogyakarta,DI Yogyakarta,Gondokusuman,Kotabaru,H3_YGY_025,-7.76724,110.375999,30619,4739.82,8453,0.735,80.23,81.48,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_026,Yogyakarta,DI Yogyakarta,Kasihan Bantul,Bangunjiwo,H3_YGY_026,-7.842262,110.358234,11034,9653.13,2850,0.611,64.85,64.68,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_027,Yogyakarta,DI Yogyakarta,Mlati Sleman,Sinduadi,H3_YGY_027,-7.740953,110.368495,28379,7425.45,7412,0.664,59.12,53.14,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_028,Yogyakarta,DI Yogyakarta,Mlati Sleman,Sinduadi,H3_YGY_028,-7.748244,110.379752,19142,9522.78,5718,0.736,58.39,58.58,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_029,Yogyakarta,DI Yogyakarta,Kotagede,Rejowinangun,H3_YGY_029,-7.833685,110.415226,22441,12561.84,6350,0.635,79.79,51.88,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_YGY_030,Yogyakarta,DI Yogyakarta,Umbulharjo,Muja Muju,H3_YGY_030,-7.805573,110.401253,18900,5735.46,5003,0.674,55.91,76.48,Low,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_001,Surabaya,Jawa Timur,Gubeng,Gubeng,H3_SBY_001,-7.262836,112.758494,36333,16834.71,8929,0.656,74.27,80.53,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_002,Surabaya,Jawa Timur,Wonokromo,Darmo,H3_SBY_002,-7.293634,112.734139,53602,20035.62,12771,0.644,67.29,89.02,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_003,Surabaya,Jawa Timur,Kenjeran,Sidotopo Wetan,H3_SBY_003,-7.239773,112.806228,40180,14926.95,9723,0.716,66.06,54.06,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_004,Surabaya,Jawa Timur,Sukolilo,Keputih,H3_SBY_004,-7.304389,112.788658,43019,19273.76,10526,0.712,68.19,49.08,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_005,Surabaya,Jawa Timur,Rungkut,Kalirungkut,H3_SBY_005,-7.329933,112.784107,32894,15989.53,8818,0.622,61.18,56.11,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_006,Surabaya,Jawa Timur,Sukolilo,Gebang Putih,H3_SBY_006,-7.292274,112.781068,35043,16375.51,10488,0.601,51.89,80.14,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_007,Surabaya,Jawa Timur,Rungkut,Medokan Ayu,H3_SBY_007,-7.319651,112.762927,51610,18448.45,14031,0.665,61.28,88.11,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_008,Surabaya,Jawa Timur,Wiyung,Jajar Tunggal,H3_SBY_008,-7.311938,112.689429,39017,10091.3,10656,0.709,65.4,69.12,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_009,Surabaya,Jawa Timur,Wonokromo,Darmo,H3_SBY_009,-7.300416,112.722236,36883,13134.35,11634,0.739,87.06,48.24,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_010,Surabaya,Jawa Timur,Tandes,Tandes,H3_SBY_010,-7.267817,112.703938,51495,20005.38,14649,0.593,88.39,86.1,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_011,Surabaya,Jawa Timur,Rungkut,Kalirungkut,H3_SBY_011,-7.310757,112.763635,38171,17082.0,10319,0.665,82.05,56.63,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_012,Surabaya,Jawa Timur,Tandes,Balongsari,H3_SBY_012,-7.271129,112.66739,30886,11472.98,9618,0.585,71.9,78.05,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_013,Surabaya,Jawa Timur,Wonokromo,Darmo,H3_SBY_013,-7.275756,112.767357,49731,19996.76,13319,0.672,79.76,83.46,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_014,Surabaya,Jawa Timur,Gubeng,Airlangga,H3_SBY_014,-7.286902,112.748987,24536,20667.48,5932,0.687,80.36,59.98,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_015,Surabaya,Jawa Timur,Sukolilo,Gebang Putih,H3_SBY_015,-7.281809,112.791772,52974,9691.49,14905,0.647,68.85,63.26,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_016,Surabaya,Jawa Timur,Rungkut,Medokan Ayu,H3_SBY_016,-7.309929,112.784716,42756,9474.57,13445,0.709,71.44,76.56,Medium,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_017,Surabaya,Jawa Timur,Rungkut,Kalirungkut,H3_SBY_017,-7.315174,112.779585,52964,11911.12,14068,0.613,86.18,70.95,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_018,Surabaya,Jawa Timur,Wiyung,Jajar Tunggal,H3_SBY_018,-7.339133,112.688584,38384,18139.55,11118,0.613,59.08,47.15,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_019,Surabaya,Jawa Timur,Sukolilo,Gebang Putih,H3_SBY_019,-7.279821,112.805781,41670,19000.35,11418,0.685,75.82,57.09,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_020,Surabaya,Jawa Timur,Gubeng,Gubeng,H3_SBY_020,-7.268377,112.769626,53044,19672.37,12661,0.733,68.58,84.44,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_021,Surabaya,Jawa Timur,Tegalsari,Tegalsari,H3_SBY_021,-7.266432,112.739432,37942,13478.41,10038,0.687,72.74,67.71,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_022,Surabaya,Jawa Timur,Sukolilo,Menur Pumpungan,H3_SBY_022,-7.264147,112.799363,37109,18674.01,9049,0.597,49.33,52.0,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_023,Surabaya,Jawa Timur,Tandes,Manukan Kulon,H3_SBY_023,-7.258663,112.688283,30400,12599.7,7579,0.593,89.63,75.55,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_024,Surabaya,Jawa Timur,Tegalsari,Keputran,H3_SBY_024,-7.278801,112.741011,41541,20727.95,9958,0.723,86.36,55.8,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_025,Surabaya,Jawa Timur,Sukolilo,Keputih,H3_SBY_025,-7.273539,112.787864,28877,20145.2,8380,0.734,71.42,80.36,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_026,Surabaya,Jawa Timur,Tandes,Tandes,H3_SBY_026,-7.256624,112.672579,47759,17876.94,12031,0.69,48.53,80.04,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_027,Surabaya,Jawa Timur,Tandes,Manukan Kulon,H3_SBY_027,-7.239536,112.68393,31956,18402.58,8887,0.617,69.89,62.65,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_028,Surabaya,Jawa Timur,Tegalsari,Tegalsari,H3_SBY_028,-7.259957,112.744424,48686,16606.81,12440,0.631,49.79,45.24,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_029,Surabaya,Jawa Timur,Tandes,Manukan Kulon,H3_SBY_029,-7.245857,112.689143,26049,16163.09,6573,0.718,45.56,64.45,High,2026,Dummy BPS-like + synthetic geospatial grid
+AREA_SBY_030,Surabaya,Jawa Timur,Tandes,Tandes,H3_SBY_030,-7.245398,112.694309,39158,10751.22,11924,0.624,58.49,81.79,Medium,2026,Dummy BPS-like + synthetic geospatial grid

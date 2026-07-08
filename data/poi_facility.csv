@@ -1,0 +1,581 @@
+﻿poi_id,poi_name,poi_category,poi_subcategory,city,district,latitude,longitude,poi_weight,visitor_potential,h3_index,data_source
+POI_JKT_001,Shop House Jakarta 1,Commercial,Shop House,Jakarta,Menteng,-6.21221,106.853333,0.47,Medium,H3_JKT_016,Dummy OSM/POI proxy
+POI_JKT_002,Hospital Jakarta 2,Health,Hospital,Jakarta,Menteng,-6.214216,106.834994,0.5,Medium,H3_JKT_012,Dummy OSM/POI proxy
+POI_JKT_003,Training Center Jakarta 3,Education,Training Center,Jakarta,Cengkareng,-6.143367,106.749095,0.57,High,H3_JKT_019,Dummy OSM/POI proxy
+POI_JKT_004,Apartment Jakarta 4,Residential,Apartment,Jakarta,Kebayoran Baru,-6.226965,106.789893,0.88,Medium,H3_JKT_014,Dummy OSM/POI proxy
+POI_JKT_005,Bus Stop Jakarta 5,Transportation,Bus Stop,Jakarta,Kembangan,-6.221014,106.710184,0.54,Medium,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_006,Gas Station Jakarta 6,Fuel & Mobility,Gas Station,Jakarta,Cilandak,-6.323662,106.802659,0.87,High,H3_JKT_029,Dummy OSM/POI proxy
+POI_JKT_007,University Jakarta 7,Education,University,Jakarta,Pasar Minggu,-6.283363,106.852128,0.98,Low,H3_JKT_020,Dummy OSM/POI proxy
+POI_JKT_008,School Jakarta 8,Education,School,Jakarta,Menteng,-6.197822,106.811363,1.0,High,H3_JKT_005,Dummy OSM/POI proxy
+POI_JKT_009,Parking Area Jakarta 9,Fuel & Mobility,Parking Area,Jakarta,Menteng,-6.208323,106.820591,0.87,Low,H3_JKT_005,Dummy OSM/POI proxy
+POI_JKT_010,Shop House Jakarta 10,Commercial,Shop House,Jakarta,Kebayoran Baru,-6.247431,106.799579,0.95,Low,H3_JKT_013,Dummy OSM/POI proxy
+POI_JKT_011,Public Service Office Jakarta 11,Public Service,Public Service Office,Jakarta,Kelapa Gading,-6.162997,106.900479,0.72,High,H3_JKT_026,Dummy OSM/POI proxy
+POI_JKT_012,Apartment Jakarta 12,Residential,Apartment,Jakarta,Pasar Minggu,-6.263083,106.843039,0.42,Medium,H3_JKT_025,Dummy OSM/POI proxy
+POI_JKT_013,Shop House Jakarta 13,Commercial,Shop House,Jakarta,Menteng,-6.193951,106.818159,0.78,High,H3_JKT_028,Dummy OSM/POI proxy
+POI_JKT_014,Mall Jakarta 14,Commercial,Mall,Jakarta,Pasar Minggu,-6.291955,106.840118,0.75,High,H3_JKT_020,Dummy OSM/POI proxy
+POI_JKT_015,University Jakarta 15,Education,University,Jakarta,Kebayoran Baru,-6.25264,106.803499,0.66,Medium,H3_JKT_013,Dummy OSM/POI proxy
+POI_JKT_016,Shop House Jakarta 16,Commercial,Shop House,Jakarta,Cilandak,-6.30868,106.798181,0.53,Medium,H3_JKT_029,Dummy OSM/POI proxy
+POI_JKT_017,Station Jakarta 17,Transportation,Station,Jakarta,Menteng,-6.193082,106.820679,0.55,High,H3_JKT_028,Dummy OSM/POI proxy
+POI_JKT_018,Parking Area Jakarta 18,Fuel & Mobility,Parking Area,Jakarta,Duren Sawit,-6.224088,106.924504,0.77,Low,H3_JKT_015,Dummy OSM/POI proxy
+POI_JKT_019,Clinic Jakarta 19,Health,Clinic,Jakarta,Duren Sawit,-6.223906,106.908207,0.91,Low,H3_JKT_015,Dummy OSM/POI proxy
+POI_JKT_020,Gas Station Jakarta 20,Fuel & Mobility,Gas Station,Jakarta,Kembangan,-6.219284,106.748943,0.44,High,H3_JKT_017,Dummy OSM/POI proxy
+POI_JKT_021,Mall Jakarta 21,Commercial,Mall,Jakarta,Cilandak,-6.30678,106.813453,0.89,Low,H3_JKT_029,Dummy OSM/POI proxy
+POI_JKT_022,Shop House Jakarta 22,Commercial,Shop House,Jakarta,Pasar Minggu,-6.284394,106.850125,0.89,High,H3_JKT_002,Dummy OSM/POI proxy
+POI_JKT_023,Station Jakarta 23,Transportation,Station,Jakarta,Kebayoran Baru,-6.253815,106.80122,0.67,Medium,H3_JKT_013,Dummy OSM/POI proxy
+POI_JKT_024,Housing Complex Jakarta 24,Residential,Housing Complex,Jakarta,Kelapa Gading,-6.163601,106.911102,0.46,Medium,H3_JKT_006,Dummy OSM/POI proxy
+POI_JKT_025,Gas Station Jakarta 25,Fuel & Mobility,Gas Station,Jakarta,Pasar Minggu,-6.299223,106.862176,0.46,High,H3_JKT_024,Dummy OSM/POI proxy
+POI_JKT_026,Apartment Jakarta 26,Residential,Apartment,Jakarta,Pasar Minggu,-6.275384,106.83933,0.52,Medium,H3_JKT_025,Dummy OSM/POI proxy
+POI_JKT_027,Training Center Jakarta 27,Education,Training Center,Jakarta,Kembangan,-6.203418,106.743067,0.77,High,H3_JKT_017,Dummy OSM/POI proxy
+POI_JKT_028,University Jakarta 28,Education,University,Jakarta,Kelapa Gading,-6.176756,106.889221,0.81,High,H3_JKT_026,Dummy OSM/POI proxy
+POI_JKT_029,Clinic Jakarta 29,Health,Clinic,Jakarta,Menteng,-6.196627,106.81794,0.49,Medium,H3_JKT_021,Dummy OSM/POI proxy
+POI_JKT_030,Office Center Jakarta 30,Commercial,Office Center,Jakarta,Pasar Minggu,-6.2789,106.815937,1.0,Medium,H3_JKT_022,Dummy OSM/POI proxy
+POI_JKT_031,Terminal Jakarta 31,Transportation,Terminal,Jakarta,Kembangan,-6.218925,106.721045,0.66,Medium,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_032,Bus Stop Jakarta 32,Transportation,Bus Stop,Jakarta,Kebayoran Baru,-6.254959,106.800338,0.93,Medium,H3_JKT_009,Dummy OSM/POI proxy
+POI_JKT_033,School Jakarta 33,Education,School,Jakarta,Pasar Minggu,-6.286953,106.825867,0.87,High,H3_JKT_007,Dummy OSM/POI proxy
+POI_JKT_034,Terminal Jakarta 34,Transportation,Terminal,Jakarta,Kebayoran Baru,-6.251074,106.806324,0.67,Medium,H3_JKT_013,Dummy OSM/POI proxy
+POI_JKT_035,Housing Complex Jakarta 35,Residential,Housing Complex,Jakarta,Kebayoran Baru,-6.255526,106.791945,0.81,High,H3_JKT_009,Dummy OSM/POI proxy
+POI_JKT_036,Pharmacy Jakarta 36,Health,Pharmacy,Jakarta,Cilandak,-6.295817,106.805426,0.76,Medium,H3_JKT_027,Dummy OSM/POI proxy
+POI_JKT_037,Housing Complex Jakarta 37,Residential,Housing Complex,Jakarta,Duren Sawit,-6.259637,106.915649,0.9,High,H3_JKT_030,Dummy OSM/POI proxy
+POI_JKT_038,Clinic Jakarta 38,Health,Clinic,Jakarta,Kelapa Gading,-6.155622,106.917335,0.88,Low,H3_JKT_006,Dummy OSM/POI proxy
+POI_JKT_039,Apartment Jakarta 39,Residential,Apartment,Jakarta,Pasar Minggu,-6.277532,106.820507,0.92,Medium,H3_JKT_022,Dummy OSM/POI proxy
+POI_JKT_040,Housing Complex Jakarta 40,Residential,Housing Complex,Jakarta,Kelapa Gading,-6.165927,106.903256,0.9,Medium,H3_JKT_026,Dummy OSM/POI proxy
+POI_JKT_041,Workshop Jakarta 41,Fuel & Mobility,Workshop,Jakarta,Pasar Minggu,-6.290357,106.850694,0.66,Low,H3_JKT_002,Dummy OSM/POI proxy
+POI_JKT_042,Training Center Jakarta 42,Education,Training Center,Jakarta,Kembangan,-6.220329,106.745748,0.39,Low,H3_JKT_017,Dummy OSM/POI proxy
+POI_JKT_043,Housing Complex Jakarta 43,Residential,Housing Complex,Jakarta,Menteng,-6.210775,106.816042,0.94,Medium,H3_JKT_005,Dummy OSM/POI proxy
+POI_JKT_044,Mall Jakarta 44,Commercial,Mall,Jakarta,Menteng,-6.202965,106.805011,0.76,Low,H3_JKT_005,Dummy OSM/POI proxy
+POI_JKT_045,Station Jakarta 45,Transportation,Station,Jakarta,Duren Sawit,-6.226724,106.91712,0.85,High,H3_JKT_011,Dummy OSM/POI proxy
+POI_JKT_046,School Jakarta 46,Education,School,Jakarta,Pasar Minggu,-6.265559,106.851194,0.63,Medium,H3_JKT_025,Dummy OSM/POI proxy
+POI_JKT_047,Market Jakarta 47,Commercial,Market,Jakarta,Menteng,-6.228031,106.847211,0.97,Medium,H3_JKT_016,Dummy OSM/POI proxy
+POI_JKT_048,Gas Station Jakarta 48,Fuel & Mobility,Gas Station,Jakarta,Pasar Minggu,-6.269415,106.846607,0.83,Low,H3_JKT_025,Dummy OSM/POI proxy
+POI_JKT_049,Parking Area Jakarta 49,Fuel & Mobility,Parking Area,Jakarta,Menteng,-6.198722,106.843051,0.73,Low,H3_JKT_023,Dummy OSM/POI proxy
+POI_JKT_050,Parking Area Jakarta 50,Fuel & Mobility,Parking Area,Jakarta,Cilandak,-6.272186,106.792926,0.69,High,H3_JKT_003,Dummy OSM/POI proxy
+POI_JKT_051,Mall Jakarta 51,Commercial,Mall,Jakarta,Duren Sawit,-6.229902,106.926684,0.58,Low,H3_JKT_011,Dummy OSM/POI proxy
+POI_JKT_052,Housing Complex Jakarta 52,Residential,Housing Complex,Jakarta,Kelapa Gading,-6.154597,106.914505,0.99,Low,H3_JKT_006,Dummy OSM/POI proxy
+POI_JKT_053,Training Center Jakarta 53,Education,Training Center,Jakarta,Pasar Minggu,-6.295133,106.861395,0.77,Low,H3_JKT_024,Dummy OSM/POI proxy
+POI_JKT_054,Parking Area Jakarta 54,Fuel & Mobility,Parking Area,Jakarta,Kebayoran Baru,-6.250827,106.796967,0.74,Low,H3_JKT_013,Dummy OSM/POI proxy
+POI_JKT_055,School Jakarta 55,Education,School,Jakarta,Pasar Minggu,-6.275431,106.817194,0.64,Low,H3_JKT_022,Dummy OSM/POI proxy
+POI_JKT_056,Pharmacy Jakarta 56,Health,Pharmacy,Jakarta,Kembangan,-6.211779,106.719712,0.76,Medium,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_057,Terminal Jakarta 57,Transportation,Terminal,Jakarta,Kebayoran Baru,-6.224419,106.792628,0.81,Medium,H3_JKT_014,Dummy OSM/POI proxy
+POI_JKT_058,Apartment Jakarta 58,Residential,Apartment,Jakarta,Cilandak,-6.295879,106.824617,0.67,High,H3_JKT_027,Dummy OSM/POI proxy
+POI_JKT_059,Workshop Jakarta 59,Fuel & Mobility,Workshop,Jakarta,Pasar Minggu,-6.290155,106.831316,0.62,Low,H3_JKT_007,Dummy OSM/POI proxy
+POI_JKT_060,Mall Jakarta 60,Commercial,Mall,Jakarta,Pasar Minggu,-6.285644,106.848376,0.5,Low,H3_JKT_002,Dummy OSM/POI proxy
+POI_JKT_061,School Jakarta 61,Education,School,Jakarta,Pasar Minggu,-6.273719,106.808633,0.45,Low,H3_JKT_022,Dummy OSM/POI proxy
+POI_JKT_062,Market Jakarta 62,Commercial,Market,Jakarta,Pasar Minggu,-6.262828,106.841687,0.65,Medium,H3_JKT_025,Dummy OSM/POI proxy
+POI_JKT_063,Market Jakarta 63,Commercial,Market,Jakarta,Kebayoran Baru,-6.249574,106.77964,0.9,Medium,H3_JKT_009,Dummy OSM/POI proxy
+POI_JKT_064,Bus Stop Jakarta 64,Transportation,Bus Stop,Jakarta,Kelapa Gading,-6.165788,106.895586,0.84,Low,H3_JKT_026,Dummy OSM/POI proxy
+POI_JKT_065,Workshop Jakarta 65,Fuel & Mobility,Workshop,Jakarta,Cilandak,-6.283718,106.794229,0.93,High,H3_JKT_001,Dummy OSM/POI proxy
+POI_JKT_066,Gas Station Jakarta 66,Fuel & Mobility,Gas Station,Jakarta,Kebayoran Baru,-6.258125,106.79485,0.42,Medium,H3_JKT_009,Dummy OSM/POI proxy
+POI_JKT_067,Clinic Jakarta 67,Health,Clinic,Jakarta,Duren Sawit,-6.225853,106.911958,0.62,Low,H3_JKT_015,Dummy OSM/POI proxy
+POI_JKT_068,Training Center Jakarta 68,Education,Training Center,Jakarta,Kembangan,-6.198402,106.746729,0.45,Medium,H3_JKT_004,Dummy OSM/POI proxy
+POI_JKT_069,Office Center Jakarta 69,Commercial,Office Center,Jakarta,Duren Sawit,-6.2456,106.921508,0.58,Low,H3_JKT_030,Dummy OSM/POI proxy
+POI_JKT_070,Terminal Jakarta 70,Transportation,Terminal,Jakarta,Menteng,-6.194203,106.820894,0.95,Low,H3_JKT_028,Dummy OSM/POI proxy
+POI_JKT_071,Market Jakarta 71,Commercial,Market,Jakarta,Cilandak,-6.302706,106.806221,0.36,High,H3_JKT_029,Dummy OSM/POI proxy
+POI_JKT_072,Workshop Jakarta 72,Fuel & Mobility,Workshop,Jakarta,Kembangan,-6.217312,106.738114,0.97,Medium,H3_JKT_017,Dummy OSM/POI proxy
+POI_JKT_073,Market Jakarta 73,Commercial,Market,Jakarta,Kembangan,-6.225427,106.746286,0.66,High,H3_JKT_017,Dummy OSM/POI proxy
+POI_JKT_074,Station Jakarta 74,Transportation,Station,Jakarta,Pasar Minggu,-6.274201,106.809805,0.99,Low,H3_JKT_022,Dummy OSM/POI proxy
+POI_JKT_075,Station Jakarta 75,Transportation,Station,Jakarta,Cilandak,-6.287244,106.79827,0.67,Low,H3_JKT_001,Dummy OSM/POI proxy
+POI_JKT_076,Public Service Office Jakarta 76,Public Service,Public Service Office,Jakarta,Cilandak,-6.277553,106.810906,0.38,Low,H3_JKT_003,Dummy OSM/POI proxy
+POI_JKT_077,Bus Stop Jakarta 77,Transportation,Bus Stop,Jakarta,Kembangan,-6.216072,106.709905,0.64,High,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_078,University Jakarta 78,Education,University,Jakarta,Duren Sawit,-6.226181,106.919305,0.67,High,H3_JKT_015,Dummy OSM/POI proxy
+POI_JKT_079,University Jakarta 79,Education,University,Jakarta,Cilandak,-6.273112,106.800197,0.89,High,H3_JKT_001,Dummy OSM/POI proxy
+POI_JKT_080,Terminal Jakarta 80,Transportation,Terminal,Jakarta,Pasar Minggu,-6.299509,106.833478,0.65,Medium,H3_JKT_020,Dummy OSM/POI proxy
+POI_JKT_081,Gas Station Jakarta 81,Fuel & Mobility,Gas Station,Jakarta,Menteng,-6.210646,106.823836,0.85,High,H3_JKT_012,Dummy OSM/POI proxy
+POI_JKT_082,Public Service Office Jakarta 82,Public Service,Public Service Office,Jakarta,Menteng,-6.219158,106.846373,0.84,Low,H3_JKT_016,Dummy OSM/POI proxy
+POI_JKT_083,Shop House Jakarta 83,Commercial,Shop House,Jakarta,Cilandak,-6.286042,106.796792,0.42,Low,H3_JKT_001,Dummy OSM/POI proxy
+POI_JKT_084,Training Center Jakarta 84,Education,Training Center,Jakarta,Menteng,-6.218821,106.843109,0.52,Low,H3_JKT_016,Dummy OSM/POI proxy
+POI_JKT_085,University Jakarta 85,Education,University,Jakarta,Pasar Minggu,-6.293322,106.843199,0.47,Medium,H3_JKT_007,Dummy OSM/POI proxy
+POI_JKT_086,Government Office Jakarta 86,Public Service,Government Office,Jakarta,Kembangan,-6.201535,106.736476,0.73,Medium,H3_JKT_004,Dummy OSM/POI proxy
+POI_JKT_087,Terminal Jakarta 87,Transportation,Terminal,Jakarta,Duren Sawit,-6.218654,106.923599,0.69,Low,H3_JKT_015,Dummy OSM/POI proxy
+POI_JKT_088,Housing Complex Jakarta 88,Residential,Housing Complex,Jakarta,Kembangan,-6.207768,106.707339,0.94,High,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_089,School Jakarta 89,Education,School,Jakarta,Cengkareng,-6.135119,106.756621,0.74,Medium,H3_JKT_019,Dummy OSM/POI proxy
+POI_JKT_090,Housing Complex Jakarta 90,Residential,Housing Complex,Jakarta,Kembangan,-6.20337,106.740614,0.85,Medium,H3_JKT_017,Dummy OSM/POI proxy
+POI_JKT_091,Housing Complex Jakarta 91,Residential,Housing Complex,Jakarta,Kebayoran Baru,-6.255013,106.806212,0.62,High,H3_JKT_013,Dummy OSM/POI proxy
+POI_JKT_092,Public Service Office Jakarta 92,Public Service,Public Service Office,Jakarta,Cilandak,-6.306602,106.796526,0.55,High,H3_JKT_029,Dummy OSM/POI proxy
+POI_JKT_093,Mall Jakarta 93,Commercial,Mall,Jakarta,Duren Sawit,-6.245506,106.92418,0.54,Medium,H3_JKT_030,Dummy OSM/POI proxy
+POI_JKT_094,Terminal Jakarta 94,Transportation,Terminal,Jakarta,Duren Sawit,-6.256939,106.90394,0.68,High,H3_JKT_030,Dummy OSM/POI proxy
+POI_JKT_095,Market Jakarta 95,Commercial,Market,Jakarta,Menteng,-6.200068,106.815586,0.73,High,H3_JKT_021,Dummy OSM/POI proxy
+POI_JKT_096,Shop House Jakarta 96,Commercial,Shop House,Jakarta,Menteng,-6.198277,106.834401,0.36,Low,H3_JKT_023,Dummy OSM/POI proxy
+POI_JKT_097,Market Jakarta 97,Commercial,Market,Jakarta,Cilandak,-6.282419,106.794991,0.84,Low,H3_JKT_001,Dummy OSM/POI proxy
+POI_JKT_098,Station Jakarta 98,Transportation,Station,Jakarta,Kelapa Gading,-6.168722,106.872699,0.54,High,H3_JKT_010,Dummy OSM/POI proxy
+POI_JKT_099,Office Center Jakarta 99,Commercial,Office Center,Jakarta,Pasar Minggu,-6.273387,106.861982,0.83,Low,H3_JKT_002,Dummy OSM/POI proxy
+POI_JKT_100,Bus Stop Jakarta 100,Transportation,Bus Stop,Jakarta,Pasar Minggu,-6.297109,106.866865,0.87,Medium,H3_JKT_024,Dummy OSM/POI proxy
+POI_JKT_101,Bus Stop Jakarta 101,Transportation,Bus Stop,Jakarta,Menteng,-6.214227,106.848537,0.98,Medium,H3_JKT_023,Dummy OSM/POI proxy
+POI_JKT_102,Training Center Jakarta 102,Education,Training Center,Jakarta,Kembangan,-6.217137,106.720477,0.86,Medium,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_103,Pharmacy Jakarta 103,Health,Pharmacy,Jakarta,Cilandak,-6.29617,106.806006,0.84,High,H3_JKT_027,Dummy OSM/POI proxy
+POI_JKT_104,Terminal Jakarta 104,Transportation,Terminal,Jakarta,Pasar Minggu,-6.293044,106.855274,0.47,High,H3_JKT_024,Dummy OSM/POI proxy
+POI_JKT_105,Hospital Jakarta 105,Health,Hospital,Jakarta,Cilandak,-6.278745,106.79202,0.38,Medium,H3_JKT_003,Dummy OSM/POI proxy
+POI_JKT_106,Hospital Jakarta 106,Health,Hospital,Jakarta,Kembangan,-6.221045,106.709806,0.56,High,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_107,School Jakarta 107,Education,School,Jakarta,Duren Sawit,-6.240767,106.912675,0.85,High,H3_JKT_030,Dummy OSM/POI proxy
+POI_JKT_108,Parking Area Jakarta 108,Fuel & Mobility,Parking Area,Jakarta,Pasar Minggu,-6.299233,106.837281,0.58,High,H3_JKT_020,Dummy OSM/POI proxy
+POI_JKT_109,Mall Jakarta 109,Commercial,Mall,Jakarta,Duren Sawit,-6.233248,106.914539,0.45,High,H3_JKT_011,Dummy OSM/POI proxy
+POI_JKT_110,Shop House Jakarta 110,Commercial,Shop House,Jakarta,Kembangan,-6.216319,106.716213,0.57,Medium,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_111,Pharmacy Jakarta 111,Health,Pharmacy,Jakarta,Kelapa Gading,-6.193492,106.876622,0.89,High,H3_JKT_010,Dummy OSM/POI proxy
+POI_JKT_112,University Jakarta 112,Education,University,Jakarta,Cilandak,-6.292747,106.80286,0.75,High,H3_JKT_001,Dummy OSM/POI proxy
+POI_JKT_113,Housing Complex Jakarta 113,Residential,Housing Complex,Jakarta,Duren Sawit,-6.217665,106.91765,0.42,Medium,H3_JKT_008,Dummy OSM/POI proxy
+POI_JKT_114,Government Office Jakarta 114,Public Service,Government Office,Jakarta,Kembangan,-6.207603,106.706229,0.59,High,H3_JKT_018,Dummy OSM/POI proxy
+POI_JKT_115,Shop House Jakarta 115,Commercial,Shop House,Jakarta,Duren Sawit,-6.220181,106.91598,0.68,Low,H3_JKT_015,Dummy OSM/POI proxy
+POI_JKT_116,Apartment Jakarta 116,Residential,Apartment,Jakarta,Kelapa Gading,-6.161727,106.911038,0.76,Low,H3_JKT_006,Dummy OSM/POI proxy
+POI_JKT_117,Station Jakarta 117,Transportation,Station,Jakarta,Menteng,-6.194229,106.832257,0.92,High,H3_JKT_028,Dummy OSM/POI proxy
+POI_JKT_118,Market Jakarta 118,Commercial,Market,Jakarta,Pasar Minggu,-6.270025,106.84308,0.65,Medium,H3_JKT_025,Dummy OSM/POI proxy
+POI_JKT_119,School Jakarta 119,Education,School,Jakarta,Pasar Minggu,-6.281046,106.858844,0.4,Low,H3_JKT_002,Dummy OSM/POI proxy
+POI_JKT_120,Clinic Jakarta 120,Health,Clinic,Jakarta,Duren Sawit,-6.253878,106.918029,0.56,Medium,H3_JKT_030,Dummy OSM/POI proxy
+POI_JKT_121,School Jakarta 121,Education,School,Jakarta,Pasar Minggu,-6.283523,106.809842,0.84,High,H3_JKT_022,Dummy OSM/POI proxy
+POI_JKT_122,Government Office Jakarta 122,Public Service,Government Office,Jakarta,Pasar Minggu,-6.287486,106.860263,0.54,High,H3_JKT_002,Dummy OSM/POI proxy
+POI_JKT_123,Bus Stop Jakarta 123,Transportation,Bus Stop,Jakarta,Kelapa Gading,-6.172999,106.87407,0.61,High,H3_JKT_010,Dummy OSM/POI proxy
+POI_JKT_124,Mall Jakarta 124,Commercial,Mall,Jakarta,Cilandak,-6.276581,106.803022,0.87,High,H3_JKT_001,Dummy OSM/POI proxy
+POI_JKT_125,Apartment Jakarta 125,Residential,Apartment,Jakarta,Kelapa Gading,-6.177342,106.89244,0.98,High,H3_JKT_010,Dummy OSM/POI proxy
+POI_BDG_001,Market Bandung 1,Commercial,Market,Bandung,Cicendo,-6.9117,107.5784,0.43,Low,H3_BDG_021,Dummy OSM/POI proxy
+POI_BDG_002,Market Bandung 2,Commercial,Market,Bandung,Buahbatu,-6.941714,107.665853,0.94,Medium,H3_BDG_019,Dummy OSM/POI proxy
+POI_BDG_003,Mall Bandung 3,Commercial,Mall,Bandung,Gedebage,-6.928894,107.697467,0.89,Low,H3_BDG_007,Dummy OSM/POI proxy
+POI_BDG_004,Pharmacy Bandung 4,Health,Pharmacy,Bandung,Cicendo,-6.903189,107.608649,0.96,High,H3_BDG_004,Dummy OSM/POI proxy
+POI_BDG_005,Station Bandung 5,Transportation,Station,Bandung,Buahbatu,-6.949409,107.6424,0.41,High,H3_BDG_015,Dummy OSM/POI proxy
+POI_BDG_006,Shop House Bandung 6,Commercial,Shop House,Bandung,Buahbatu,-6.943936,107.663468,0.5,Medium,H3_BDG_019,Dummy OSM/POI proxy
+POI_BDG_007,School Bandung 7,Education,School,Bandung,Antapani,-6.911697,107.667159,0.75,Medium,H3_BDG_020,Dummy OSM/POI proxy
+POI_BDG_008,Shop House Bandung 8,Commercial,Shop House,Bandung,Antapani,-6.90878,107.639339,0.46,Medium,H3_BDG_023,Dummy OSM/POI proxy
+POI_BDG_009,Workshop Bandung 9,Fuel & Mobility,Workshop,Bandung,Cicendo,-6.898887,107.595624,0.9,Low,H3_BDG_008,Dummy OSM/POI proxy
+POI_BDG_010,Public Service Office Bandung 10,Public Service,Public Service Office,Bandung,Gedebage,-6.946101,107.690363,0.55,High,H3_BDG_022,Dummy OSM/POI proxy
+POI_BDG_011,Training Center Bandung 11,Education,Training Center,Bandung,Cicendo,-6.905971,107.620428,0.89,High,H3_BDG_004,Dummy OSM/POI proxy
+POI_BDG_012,Pharmacy Bandung 12,Health,Pharmacy,Bandung,Gedebage,-6.929036,107.694973,0.36,High,H3_BDG_007,Dummy OSM/POI proxy
+POI_BDG_013,Training Center Bandung 13,Education,Training Center,Bandung,Cicendo,-6.91353,107.576032,0.49,Low,H3_BDG_021,Dummy OSM/POI proxy
+POI_BDG_014,Pharmacy Bandung 14,Health,Pharmacy,Bandung,Ujungberung,-6.928207,107.706994,0.59,Low,H3_BDG_018,Dummy OSM/POI proxy
+POI_BDG_015,Workshop Bandung 15,Fuel & Mobility,Workshop,Bandung,Ujungberung,-6.890346,107.695765,0.68,Low,H3_BDG_029,Dummy OSM/POI proxy
+POI_BDG_016,Market Bandung 16,Commercial,Market,Bandung,Ujungberung,-6.910628,107.676807,0.87,High,H3_BDG_013,Dummy OSM/POI proxy
+POI_BDG_017,Training Center Bandung 17,Education,Training Center,Bandung,Gedebage,-6.938352,107.691783,0.72,High,H3_BDG_022,Dummy OSM/POI proxy
+POI_BDG_018,Gas Station Bandung 18,Fuel & Mobility,Gas Station,Bandung,Gedebage,-6.941207,107.682185,0.58,Low,H3_BDG_022,Dummy OSM/POI proxy
+POI_BDG_019,Market Bandung 19,Commercial,Market,Bandung,Gedebage,-6.978704,107.724689,0.78,High,H3_BDG_025,Dummy OSM/POI proxy
+POI_BDG_020,Parking Area Bandung 20,Fuel & Mobility,Parking Area,Bandung,Coblong,-6.892233,107.627832,0.38,High,H3_BDG_030,Dummy OSM/POI proxy
+POI_BDG_021,Training Center Bandung 21,Education,Training Center,Bandung,Buahbatu,-6.965932,107.647393,0.83,High,H3_BDG_011,Dummy OSM/POI proxy
+POI_BDG_022,Office Center Bandung 22,Commercial,Office Center,Bandung,Ujungberung,-6.921254,107.700481,0.77,Low,H3_BDG_018,Dummy OSM/POI proxy
+POI_BDG_023,Hospital Bandung 23,Health,Hospital,Bandung,Coblong,-6.872759,107.618216,0.91,Medium,H3_BDG_017,Dummy OSM/POI proxy
+POI_BDG_024,Market Bandung 24,Commercial,Market,Bandung,Ujungberung,-6.912633,107.696074,0.46,Low,H3_BDG_026,Dummy OSM/POI proxy
+POI_BDG_025,Station Bandung 25,Transportation,Station,Bandung,Coblong,-6.865132,107.621635,0.74,Low,H3_BDG_017,Dummy OSM/POI proxy
+POI_BDG_026,Clinic Bandung 26,Health,Clinic,Bandung,Gedebage,-6.941876,107.682298,0.66,Low,H3_BDG_022,Dummy OSM/POI proxy
+POI_BDG_027,University Bandung 27,Education,University,Bandung,Buahbatu,-6.936592,107.65672,0.72,Low,H3_BDG_019,Dummy OSM/POI proxy
+POI_BDG_028,Station Bandung 28,Transportation,Station,Bandung,Gedebage,-6.94254,107.694738,0.46,Low,H3_BDG_005,Dummy OSM/POI proxy
+POI_BDG_029,Apartment Bandung 29,Residential,Apartment,Bandung,Coblong,-6.860196,107.612098,0.88,Low,H3_BDG_017,Dummy OSM/POI proxy
+POI_BDG_030,Office Center Bandung 30,Commercial,Office Center,Bandung,Gedebage,-6.928677,107.691158,0.89,High,H3_BDG_007,Dummy OSM/POI proxy
+POI_BDG_031,Gas Station Bandung 31,Fuel & Mobility,Gas Station,Bandung,Gedebage,-6.950286,107.691865,0.46,High,H3_BDG_005,Dummy OSM/POI proxy
+POI_BDG_032,Apartment Bandung 32,Residential,Apartment,Bandung,Buahbatu,-6.961979,107.656835,0.42,Low,H3_BDG_011,Dummy OSM/POI proxy
+POI_BDG_033,Workshop Bandung 33,Fuel & Mobility,Workshop,Bandung,Coblong,-6.871692,107.608502,0.74,Low,H3_BDG_017,Dummy OSM/POI proxy
+POI_BDG_034,Apartment Bandung 34,Residential,Apartment,Bandung,Sukajadi,-6.886006,107.600371,0.84,Low,H3_BDG_016,Dummy OSM/POI proxy
+POI_BDG_035,Terminal Bandung 35,Transportation,Terminal,Bandung,Sukajadi,-6.891605,107.605432,0.96,High,H3_BDG_016,Dummy OSM/POI proxy
+POI_BDG_036,Office Center Bandung 36,Commercial,Office Center,Bandung,Cicendo,-6.905719,107.582221,0.69,Low,H3_BDG_021,Dummy OSM/POI proxy
+POI_BDG_037,Office Center Bandung 37,Commercial,Office Center,Bandung,Ujungberung,-6.915753,107.704863,0.94,High,H3_BDG_026,Dummy OSM/POI proxy
+POI_BDG_038,School Bandung 38,Education,School,Bandung,Buahbatu,-6.938646,107.66669,0.94,Low,H3_BDG_019,Dummy OSM/POI proxy
+POI_BDG_039,Office Center Bandung 39,Commercial,Office Center,Bandung,Coblong,-6.886366,107.623866,0.83,Low,H3_BDG_010,Dummy OSM/POI proxy
+POI_BDG_040,Market Bandung 40,Commercial,Market,Bandung,Buahbatu,-6.941234,107.659347,0.87,Medium,H3_BDG_019,Dummy OSM/POI proxy
+POI_BDG_041,University Bandung 41,Education,University,Bandung,Ujungberung,-6.933812,107.682439,0.91,Medium,H3_BDG_012,Dummy OSM/POI proxy
+POI_BDG_042,Shop House Bandung 42,Commercial,Shop House,Bandung,Buahbatu,-6.932325,107.656159,0.48,High,H3_BDG_019,Dummy OSM/POI proxy
+POI_BDG_043,Mall Bandung 43,Commercial,Mall,Bandung,Ujungberung,-6.914584,107.70167,0.51,Medium,H3_BDG_026,Dummy OSM/POI proxy
+POI_BDG_044,Office Center Bandung 44,Commercial,Office Center,Bandung,Buahbatu,-6.939408,107.644726,0.78,High,H3_BDG_019,Dummy OSM/POI proxy
+POI_BDG_045,Mall Bandung 45,Commercial,Mall,Bandung,Cicendo,-6.892699,107.606246,0.86,High,H3_BDG_008,Dummy OSM/POI proxy
+POI_BDG_046,Terminal Bandung 46,Transportation,Terminal,Bandung,Antapani,-6.903343,107.663092,0.76,Low,H3_BDG_020,Dummy OSM/POI proxy
+POI_BDG_047,Training Center Bandung 47,Education,Training Center,Bandung,Antapani,-6.9006,107.667926,0.49,Low,H3_BDG_027,Dummy OSM/POI proxy
+POI_BDG_048,University Bandung 48,Education,University,Bandung,Antapani,-6.90348,107.658617,0.78,Medium,H3_BDG_020,Dummy OSM/POI proxy
+POI_BDG_049,Apartment Bandung 49,Residential,Apartment,Bandung,Antapani,-6.903676,107.649782,0.77,Medium,H3_BDG_023,Dummy OSM/POI proxy
+POI_BDG_050,Pharmacy Bandung 50,Health,Pharmacy,Bandung,Ujungberung,-6.90265,107.700766,0.48,High,H3_BDG_001,Dummy OSM/POI proxy
+POI_BDG_051,Mall Bandung 51,Commercial,Mall,Bandung,Coblong,-6.873923,107.612842,0.58,High,H3_BDG_017,Dummy OSM/POI proxy
+POI_BDG_052,Apartment Bandung 52,Residential,Apartment,Bandung,Ujungberung,-6.898791,107.703613,0.58,Medium,H3_BDG_001,Dummy OSM/POI proxy
+POI_BDG_053,Market Bandung 53,Commercial,Market,Bandung,Ujungberung,-6.90474,107.684489,0.41,Medium,H3_BDG_013,Dummy OSM/POI proxy
+POI_BDG_054,Workshop Bandung 54,Fuel & Mobility,Workshop,Bandung,Cicendo,-6.924636,107.598937,0.53,High,H3_BDG_024,Dummy OSM/POI proxy
+POI_BDG_055,Office Center Bandung 55,Commercial,Office Center,Bandung,Gedebage,-6.935303,107.691758,0.61,Low,H3_BDG_007,Dummy OSM/POI proxy
+POI_BDG_056,University Bandung 56,Education,University,Bandung,Ujungberung,-6.919602,107.707714,0.68,Medium,H3_BDG_018,Dummy OSM/POI proxy
+POI_BDG_057,Shop House Bandung 57,Commercial,Shop House,Bandung,Ujungberung,-6.897713,107.683623,0.72,Low,H3_BDG_029,Dummy OSM/POI proxy
+POI_BDG_058,Office Center Bandung 58,Commercial,Office Center,Bandung,Gedebage,-6.983634,107.708708,0.91,Medium,H3_BDG_025,Dummy OSM/POI proxy
+POI_BDG_059,Clinic Bandung 59,Health,Clinic,Bandung,Cicendo,-6.923064,107.603693,0.79,Low,H3_BDG_004,Dummy OSM/POI proxy
+POI_BDG_060,Shop House Bandung 60,Commercial,Shop House,Bandung,Ujungberung,-6.910185,107.696025,0.89,Low,H3_BDG_026,Dummy OSM/POI proxy
+POI_BDG_061,Training Center Bandung 61,Education,Training Center,Bandung,Coblong,-6.886377,107.617749,0.71,Low,H3_BDG_010,Dummy OSM/POI proxy
+POI_BDG_062,Mall Bandung 62,Commercial,Mall,Bandung,Sukajadi,-6.887579,107.602576,0.97,High,H3_BDG_016,Dummy OSM/POI proxy
+POI_BDG_063,Housing Complex Bandung 63,Residential,Housing Complex,Bandung,Coblong,-6.8861,107.622205,0.51,Medium,H3_BDG_030,Dummy OSM/POI proxy
+POI_BDG_064,Hospital Bandung 64,Health,Hospital,Bandung,Gedebage,-6.928237,107.689054,0.86,Low,H3_BDG_007,Dummy OSM/POI proxy
+POI_BDG_065,Training Center Bandung 65,Education,Training Center,Bandung,Coblong,-6.886436,107.626613,0.91,Low,H3_BDG_030,Dummy OSM/POI proxy
+POI_BDG_066,Shop House Bandung 66,Commercial,Shop House,Bandung,Buahbatu,-6.97056,107.646627,0.93,Medium,H3_BDG_028,Dummy OSM/POI proxy
+POI_BDG_067,Pharmacy Bandung 67,Health,Pharmacy,Bandung,Sukajadi,-6.892124,107.60968,0.72,Low,H3_BDG_016,Dummy OSM/POI proxy
+POI_BDG_068,Parking Area Bandung 68,Fuel & Mobility,Parking Area,Bandung,Coblong,-6.865757,107.61822,0.58,High,H3_BDG_017,Dummy OSM/POI proxy
+POI_BDG_069,School Bandung 69,Education,School,Bandung,Gedebage,-6.980437,107.714014,0.8,Low,H3_BDG_025,Dummy OSM/POI proxy
+POI_BDG_070,Pharmacy Bandung 70,Health,Pharmacy,Bandung,Gedebage,-6.936015,107.692418,0.91,Low,H3_BDG_022,Dummy OSM/POI proxy
+POI_BDG_071,Clinic Bandung 71,Health,Clinic,Bandung,Ujungberung,-6.926134,107.706667,0.59,Medium,H3_BDG_018,Dummy OSM/POI proxy
+POI_BDG_072,Pharmacy Bandung 72,Health,Pharmacy,Bandung,Sukajadi,-6.879784,107.602725,0.61,Medium,H3_BDG_014,Dummy OSM/POI proxy
+POI_BDG_073,Mall Bandung 73,Commercial,Mall,Bandung,Coblong,-6.907526,107.589092,0.87,High,H3_BDG_006,Dummy OSM/POI proxy
+POI_BDG_074,Gas Station Bandung 74,Fuel & Mobility,Gas Station,Bandung,Sukajadi,-6.870627,107.620482,0.45,Low,H3_BDG_014,Dummy OSM/POI proxy
+POI_BDG_075,Mall Bandung 75,Commercial,Mall,Bandung,Coblong,-6.899618,107.597582,0.69,High,H3_BDG_006,Dummy OSM/POI proxy
+POI_BDG_076,Parking Area Bandung 76,Fuel & Mobility,Parking Area,Bandung,Buahbatu,-6.962801,107.662827,0.38,Low,H3_BDG_011,Dummy OSM/POI proxy
+POI_BDG_077,School Bandung 77,Education,School,Bandung,Antapani,-6.911486,107.647215,0.76,Medium,H3_BDG_023,Dummy OSM/POI proxy
+POI_BDG_078,Shop House Bandung 78,Commercial,Shop House,Bandung,Cicendo,-6.920614,107.592244,0.88,Medium,H3_BDG_024,Dummy OSM/POI proxy
+POI_BDG_079,Shop House Bandung 79,Commercial,Shop House,Bandung,Ujungberung,-6.89886,107.692413,0.48,High,H3_BDG_001,Dummy OSM/POI proxy
+POI_BDG_080,Station Bandung 80,Transportation,Station,Bandung,Cicendo,-6.899623,107.580285,0.56,High,H3_BDG_021,Dummy OSM/POI proxy
+POI_BDG_081,Parking Area Bandung 81,Fuel & Mobility,Parking Area,Bandung,Sukajadi,-6.8868,107.601747,0.54,High,H3_BDG_016,Dummy OSM/POI proxy
+POI_BDG_082,Workshop Bandung 82,Fuel & Mobility,Workshop,Bandung,Gedebage,-6.943225,107.691791,0.76,High,H3_BDG_005,Dummy OSM/POI proxy
+POI_BDG_083,Gas Station Bandung 83,Fuel & Mobility,Gas Station,Bandung,Ujungberung,-6.899715,107.689369,0.55,High,H3_BDG_013,Dummy OSM/POI proxy
+POI_BDG_084,Public Service Office Bandung 84,Public Service,Public Service Office,Bandung,Coblong,-6.887202,107.62969,0.91,Medium,H3_BDG_010,Dummy OSM/POI proxy
+POI_BDG_085,Office Center Bandung 85,Commercial,Office Center,Bandung,Cicendo,-6.918999,107.588318,0.37,High,H3_BDG_024,Dummy OSM/POI proxy
+POI_BDG_086,Terminal Bandung 86,Transportation,Terminal,Bandung,Cicendo,-6.899223,107.599698,0.46,Low,H3_BDG_008,Dummy OSM/POI proxy
+POI_BDG_087,University Bandung 87,Education,University,Bandung,Cicendo,-6.911532,107.617613,0.61,Low,H3_BDG_004,Dummy OSM/POI proxy
+POI_BDG_088,Hospital Bandung 88,Health,Hospital,Bandung,Cicendo,-6.898217,107.625051,0.6,Low,H3_BDG_004,Dummy OSM/POI proxy
+POI_BDG_089,Public Service Office Bandung 89,Public Service,Public Service Office,Bandung,Cicendo,-6.900706,107.599761,0.9,Low,H3_BDG_008,Dummy OSM/POI proxy
+POI_BDG_090,Bus Stop Bandung 90,Transportation,Bus Stop,Bandung,Buahbatu,-6.94416,107.648307,0.92,Medium,H3_BDG_002,Dummy OSM/POI proxy
+POI_BDG_091,Mall Bandung 91,Commercial,Mall,Bandung,Ujungberung,-6.923575,107.701606,0.84,High,H3_BDG_018,Dummy OSM/POI proxy
+POI_BDG_092,Shop House Bandung 92,Commercial,Shop House,Bandung,Sukajadi,-6.87408,107.604718,0.5,Low,H3_BDG_014,Dummy OSM/POI proxy
+POI_BDG_093,Office Center Bandung 93,Commercial,Office Center,Bandung,Buahbatu,-6.949157,107.645326,0.35,Low,H3_BDG_015,Dummy OSM/POI proxy
+POI_BDG_094,Pharmacy Bandung 94,Health,Pharmacy,Bandung,Ujungberung,-6.917614,107.686886,0.97,Medium,H3_BDG_012,Dummy OSM/POI proxy
+POI_BDG_095,University Bandung 95,Education,University,Bandung,Coblong,-6.883934,107.615513,0.87,High,H3_BDG_010,Dummy OSM/POI proxy
+POI_BDG_096,Pharmacy Bandung 96,Health,Pharmacy,Bandung,Ujungberung,-6.93535,107.68793,0.81,High,H3_BDG_012,Dummy OSM/POI proxy
+POI_BDG_097,Gas Station Bandung 97,Fuel & Mobility,Gas Station,Bandung,Ujungberung,-6.905066,107.693008,0.51,High,H3_BDG_013,Dummy OSM/POI proxy
+POI_BDG_098,Bus Stop Bandung 98,Transportation,Bus Stop,Bandung,Ujungberung,-6.911489,107.705768,0.88,Medium,H3_BDG_026,Dummy OSM/POI proxy
+POI_BDG_099,Gas Station Bandung 99,Fuel & Mobility,Gas Station,Bandung,Gedebage,-6.929246,107.696071,0.65,Medium,H3_BDG_007,Dummy OSM/POI proxy
+POI_BDG_100,Public Service Office Bandung 100,Public Service,Public Service Office,Bandung,Gedebage,-6.96762,107.700721,0.38,High,H3_BDG_009,Dummy OSM/POI proxy
+POI_BDG_101,Hospital Bandung 101,Health,Hospital,Bandung,Ujungberung,-6.909847,107.70686,0.63,Low,H3_BDG_001,Dummy OSM/POI proxy
+POI_BDG_102,School Bandung 102,Education,School,Bandung,Cicendo,-6.90396,107.602254,0.55,Medium,H3_BDG_008,Dummy OSM/POI proxy
+POI_BDG_103,Market Bandung 103,Commercial,Market,Bandung,Ujungberung,-6.936734,107.696297,0.97,Low,H3_BDG_012,Dummy OSM/POI proxy
+POI_BDG_104,Gas Station Bandung 104,Fuel & Mobility,Gas Station,Bandung,Gedebage,-6.971732,107.698605,0.93,Medium,H3_BDG_009,Dummy OSM/POI proxy
+POI_BDG_105,Market Bandung 105,Commercial,Market,Bandung,Antapani,-6.891203,107.674178,0.51,Medium,H3_BDG_027,Dummy OSM/POI proxy
+POI_BDG_106,Government Office Bandung 106,Public Service,Government Office,Bandung,Cicendo,-6.895405,107.611321,0.41,High,H3_BDG_008,Dummy OSM/POI proxy
+POI_BDG_107,Shop House Bandung 107,Commercial,Shop House,Bandung,Gedebage,-6.927896,107.692499,0.82,High,H3_BDG_007,Dummy OSM/POI proxy
+POI_BDG_108,Market Bandung 108,Commercial,Market,Bandung,Coblong,-6.885923,107.635139,0.48,Low,H3_BDG_030,Dummy OSM/POI proxy
+POI_BDG_109,Station Bandung 109,Transportation,Station,Bandung,Buahbatu,-6.952577,107.652166,0.36,Medium,H3_BDG_028,Dummy OSM/POI proxy
+POI_BDG_110,School Bandung 110,Education,School,Bandung,Buahbatu,-6.936601,107.656569,0.86,Medium,H3_BDG_019,Dummy OSM/POI proxy
+POI_SMG_001,Shop House Semarang 1,Commercial,Shop House,Semarang,Gunungpati,-7.086039,110.389532,0.67,High,H3_SMG_023,Dummy OSM/POI proxy
+POI_SMG_002,Market Semarang 2,Commercial,Market,Semarang,Pedurungan,-6.964233,110.502868,0.81,Low,H3_SMG_020,Dummy OSM/POI proxy
+POI_SMG_003,Shop House Semarang 3,Commercial,Shop House,Semarang,Genuk,-6.942723,110.461269,0.84,Medium,H3_SMG_005,Dummy OSM/POI proxy
+POI_SMG_004,Pharmacy Semarang 4,Health,Pharmacy,Semarang,Gunungpati,-7.093171,110.393227,0.51,Low,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_005,Public Service Office Semarang 5,Public Service,Public Service Office,Semarang,Banyumanik,-7.084819,110.407237,0.72,High,H3_SMG_016,Dummy OSM/POI proxy
+POI_SMG_006,Office Center Semarang 6,Commercial,Office Center,Semarang,Gunungpati,-7.101658,110.380856,0.94,High,H3_SMG_012,Dummy OSM/POI proxy
+POI_SMG_007,School Semarang 7,Education,School,Semarang,Semarang Barat,-7.012808,110.375086,0.7,Medium,H3_SMG_006,Dummy OSM/POI proxy
+POI_SMG_008,Workshop Semarang 8,Fuel & Mobility,Workshop,Semarang,Pedurungan,-6.987388,110.468083,0.36,Medium,H3_SMG_001,Dummy OSM/POI proxy
+POI_SMG_009,Bus Stop Semarang 9,Transportation,Bus Stop,Semarang,Genuk,-6.978529,110.482274,0.7,Medium,H3_SMG_025,Dummy OSM/POI proxy
+POI_SMG_010,Office Center Semarang 10,Commercial,Office Center,Semarang,Pedurungan,-7.017496,110.461411,0.53,Medium,H3_SMG_007,Dummy OSM/POI proxy
+POI_SMG_011,Market Semarang 11,Commercial,Market,Semarang,Semarang Barat,-6.997088,110.350715,0.89,Low,H3_SMG_021,Dummy OSM/POI proxy
+POI_SMG_012,Gas Station Semarang 12,Fuel & Mobility,Gas Station,Semarang,Semarang Barat,-6.999203,110.374053,0.37,High,H3_SMG_006,Dummy OSM/POI proxy
+POI_SMG_013,Office Center Semarang 13,Commercial,Office Center,Semarang,Gunungpati,-7.098175,110.394021,0.52,Medium,H3_SMG_027,Dummy OSM/POI proxy
+POI_SMG_014,Station Semarang 14,Transportation,Station,Semarang,Banyumanik,-7.051653,110.407196,0.78,Low,H3_SMG_008,Dummy OSM/POI proxy
+POI_SMG_015,Gas Station Semarang 15,Fuel & Mobility,Gas Station,Semarang,Semarang Tengah,-6.972051,110.395714,0.93,Medium,H3_SMG_015,Dummy OSM/POI proxy
+POI_SMG_016,Public Service Office Semarang 16,Public Service,Public Service Office,Semarang,Pedurungan,-6.995901,110.495666,0.89,Low,H3_SMG_026,Dummy OSM/POI proxy
+POI_SMG_017,Apartment Semarang 17,Residential,Apartment,Semarang,Pedurungan,-7.01434,110.467449,0.6,Low,H3_SMG_007,Dummy OSM/POI proxy
+POI_SMG_018,Terminal Semarang 18,Transportation,Terminal,Semarang,Tembalang,-7.050415,110.453005,0.84,Medium,H3_SMG_017,Dummy OSM/POI proxy
+POI_SMG_019,Training Center Semarang 19,Education,Training Center,Semarang,Gunungpati,-7.094211,110.382375,0.81,Medium,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_020,School Semarang 20,Education,School,Semarang,Gunungpati,-7.077063,110.376791,0.78,High,H3_SMG_029,Dummy OSM/POI proxy
+POI_SMG_021,Shop House Semarang 21,Commercial,Shop House,Semarang,Pedurungan,-6.966058,110.495341,1.0,Medium,H3_SMG_020,Dummy OSM/POI proxy
+POI_SMG_022,Parking Area Semarang 22,Fuel & Mobility,Parking Area,Semarang,Semarang Tengah,-6.9686,110.396157,0.51,High,H3_SMG_014,Dummy OSM/POI proxy
+POI_SMG_023,Shop House Semarang 23,Commercial,Shop House,Semarang,Pedurungan,-7.022037,110.469939,0.97,Low,H3_SMG_007,Dummy OSM/POI proxy
+POI_SMG_024,University Semarang 24,Education,University,Semarang,Gunungpati,-7.092215,110.382434,1.0,Medium,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_025,Mall Semarang 25,Commercial,Mall,Semarang,Pedurungan,-6.983458,110.470526,0.85,High,H3_SMG_001,Dummy OSM/POI proxy
+POI_SMG_026,Pharmacy Semarang 26,Health,Pharmacy,Semarang,Gunungpati,-7.096753,110.394976,0.72,Low,H3_SMG_027,Dummy OSM/POI proxy
+POI_SMG_027,Mall Semarang 27,Commercial,Mall,Semarang,Semarang Barat,-6.985506,110.371167,0.73,Low,H3_SMG_002,Dummy OSM/POI proxy
+POI_SMG_028,Gas Station Semarang 28,Fuel & Mobility,Gas Station,Semarang,Tembalang,-7.067488,110.433339,0.49,Low,H3_SMG_009,Dummy OSM/POI proxy
+POI_SMG_029,Office Center Semarang 29,Commercial,Office Center,Semarang,Gunungpati,-7.081019,110.39646,0.8,High,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_030,Housing Complex Semarang 30,Residential,Housing Complex,Semarang,Gunungpati,-7.078363,110.398065,0.6,Low,H3_SMG_027,Dummy OSM/POI proxy
+POI_SMG_031,Parking Area Semarang 31,Fuel & Mobility,Parking Area,Semarang,Banyumanik,-7.081966,110.43109,0.95,Low,H3_SMG_030,Dummy OSM/POI proxy
+POI_SMG_032,Workshop Semarang 32,Fuel & Mobility,Workshop,Semarang,Banyumanik,-7.066021,110.415636,0.36,High,H3_SMG_028,Dummy OSM/POI proxy
+POI_SMG_033,Training Center Semarang 33,Education,Training Center,Semarang,Genuk,-6.953812,110.485832,0.45,High,H3_SMG_013,Dummy OSM/POI proxy
+POI_SMG_034,Hospital Semarang 34,Health,Hospital,Semarang,Gunungpati,-7.096176,110.375686,0.98,High,H3_SMG_023,Dummy OSM/POI proxy
+POI_SMG_035,Mall Semarang 35,Commercial,Mall,Semarang,Banyumanik,-7.09931,110.418335,0.45,Medium,H3_SMG_019,Dummy OSM/POI proxy
+POI_SMG_036,Market Semarang 36,Commercial,Market,Semarang,Gunungpati,-7.097259,110.411894,0.61,Medium,H3_SMG_003,Dummy OSM/POI proxy
+POI_SMG_037,Station Semarang 37,Transportation,Station,Semarang,Genuk,-6.980894,110.491398,0.61,High,H3_SMG_025,Dummy OSM/POI proxy
+POI_SMG_038,Mall Semarang 38,Commercial,Mall,Semarang,Pedurungan,-7.017611,110.469582,0.63,High,H3_SMG_007,Dummy OSM/POI proxy
+POI_SMG_039,Market Semarang 39,Commercial,Market,Semarang,Banyumanik,-7.089602,110.429928,0.58,Medium,H3_SMG_030,Dummy OSM/POI proxy
+POI_SMG_040,Market Semarang 40,Commercial,Market,Semarang,Gunungpati,-7.099413,110.366052,0.58,Medium,H3_SMG_012,Dummy OSM/POI proxy
+POI_SMG_041,School Semarang 41,Education,School,Semarang,Pedurungan,-6.968373,110.497696,0.8,Low,H3_SMG_020,Dummy OSM/POI proxy
+POI_SMG_042,Government Office Semarang 42,Public Service,Government Office,Semarang,Genuk,-6.975407,110.492225,0.97,Low,H3_SMG_025,Dummy OSM/POI proxy
+POI_SMG_043,Parking Area Semarang 43,Fuel & Mobility,Parking Area,Semarang,Banyumanik,-7.052151,110.423106,0.42,Medium,H3_SMG_028,Dummy OSM/POI proxy
+POI_SMG_044,School Semarang 44,Education,School,Semarang,Banyumanik,-7.078365,110.404952,0.71,Medium,H3_SMG_016,Dummy OSM/POI proxy
+POI_SMG_045,Mall Semarang 45,Commercial,Mall,Semarang,Semarang Barat,-6.989835,110.350438,0.59,High,H3_SMG_018,Dummy OSM/POI proxy
+POI_SMG_046,School Semarang 46,Education,School,Semarang,Tembalang,-7.044024,110.457155,0.8,Medium,H3_SMG_017,Dummy OSM/POI proxy
+POI_SMG_047,Market Semarang 47,Commercial,Market,Semarang,Semarang Barat,-6.981151,110.370365,0.78,High,H3_SMG_002,Dummy OSM/POI proxy
+POI_SMG_048,Gas Station Semarang 48,Fuel & Mobility,Gas Station,Semarang,Gunungpati,-7.103146,110.381676,0.6,Medium,H3_SMG_012,Dummy OSM/POI proxy
+POI_SMG_049,Apartment Semarang 49,Residential,Apartment,Semarang,Tembalang,-7.042071,110.45175,0.74,Low,H3_SMG_017,Dummy OSM/POI proxy
+POI_SMG_050,Clinic Semarang 50,Health,Clinic,Semarang,Semarang Barat,-7.011057,110.36809,0.38,High,H3_SMG_006,Dummy OSM/POI proxy
+POI_SMG_051,Office Center Semarang 51,Commercial,Office Center,Semarang,Tembalang,-7.067151,110.440367,0.79,Medium,H3_SMG_010,Dummy OSM/POI proxy
+POI_SMG_052,Shop House Semarang 52,Commercial,Shop House,Semarang,Semarang Barat,-6.991693,110.343255,0.92,Low,H3_SMG_021,Dummy OSM/POI proxy
+POI_SMG_053,Apartment Semarang 53,Residential,Apartment,Semarang,Semarang Barat,-6.979409,110.36926,0.78,Low,H3_SMG_018,Dummy OSM/POI proxy
+POI_SMG_054,Mall Semarang 54,Commercial,Mall,Semarang,Gunungpati,-7.093036,110.39042,0.63,Medium,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_055,Bus Stop Semarang 55,Transportation,Bus Stop,Semarang,Banyumanik,-7.09057,110.434409,0.44,High,H3_SMG_030,Dummy OSM/POI proxy
+POI_SMG_056,Gas Station Semarang 56,Fuel & Mobility,Gas Station,Semarang,Gunungpati,-7.098696,110.38909,0.69,Low,H3_SMG_022,Dummy OSM/POI proxy
+POI_SMG_057,Apartment Semarang 57,Residential,Apartment,Semarang,Semarang Tengah,-6.975343,110.39443,0.45,Low,H3_SMG_014,Dummy OSM/POI proxy
+POI_SMG_058,Market Semarang 58,Commercial,Market,Semarang,Semarang Barat,-6.982205,110.369335,0.44,Low,H3_SMG_018,Dummy OSM/POI proxy
+POI_SMG_059,Office Center Semarang 59,Commercial,Office Center,Semarang,Genuk,-6.971985,110.489689,0.83,High,H3_SMG_025,Dummy OSM/POI proxy
+POI_SMG_060,Government Office Semarang 60,Public Service,Government Office,Semarang,Banyumanik,-7.08611,110.432676,0.47,High,H3_SMG_030,Dummy OSM/POI proxy
+POI_SMG_061,Pharmacy Semarang 61,Health,Pharmacy,Semarang,Pedurungan,-6.978412,110.494458,0.5,Low,H3_SMG_020,Dummy OSM/POI proxy
+POI_SMG_062,University Semarang 62,Education,University,Semarang,Gunungpati,-7.092137,110.378342,0.65,High,H3_SMG_012,Dummy OSM/POI proxy
+POI_SMG_063,Clinic Semarang 63,Health,Clinic,Semarang,Gunungpati,-7.103123,110.369853,0.48,Low,H3_SMG_012,Dummy OSM/POI proxy
+POI_SMG_064,Gas Station Semarang 64,Fuel & Mobility,Gas Station,Semarang,Semarang Tengah,-6.957929,110.394229,0.49,High,H3_SMG_014,Dummy OSM/POI proxy
+POI_SMG_065,Government Office Semarang 65,Public Service,Government Office,Semarang,Pedurungan,-7.011237,110.478253,0.64,High,H3_SMG_007,Dummy OSM/POI proxy
+POI_SMG_066,Bus Stop Semarang 66,Transportation,Bus Stop,Semarang,Banyumanik,-7.073284,110.404971,0.85,High,H3_SMG_016,Dummy OSM/POI proxy
+POI_SMG_067,Workshop Semarang 67,Fuel & Mobility,Workshop,Semarang,Gunungpati,-7.089418,110.39415,0.83,High,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_068,Market Semarang 68,Commercial,Market,Semarang,Semarang Barat,-6.993342,110.357975,0.89,Low,H3_SMG_018,Dummy OSM/POI proxy
+POI_SMG_069,Housing Complex Semarang 69,Residential,Housing Complex,Semarang,Gunungpati,-7.068609,110.378815,0.6,High,H3_SMG_029,Dummy OSM/POI proxy
+POI_SMG_070,Clinic Semarang 70,Health,Clinic,Semarang,Semarang Barat,-6.993308,110.369839,0.89,Medium,H3_SMG_002,Dummy OSM/POI proxy
+POI_SMG_071,Market Semarang 71,Commercial,Market,Semarang,Semarang Barat,-7.007046,110.359548,0.65,High,H3_SMG_006,Dummy OSM/POI proxy
+POI_SMG_072,Training Center Semarang 72,Education,Training Center,Semarang,Semarang Tengah,-6.957802,110.394926,0.96,High,H3_SMG_015,Dummy OSM/POI proxy
+POI_SMG_073,University Semarang 73,Education,University,Semarang,Semarang Barat,-6.98742,110.360033,0.64,High,H3_SMG_018,Dummy OSM/POI proxy
+POI_SMG_074,Clinic Semarang 74,Health,Clinic,Semarang,Gunungpati,-7.065817,110.381838,0.77,High,H3_SMG_029,Dummy OSM/POI proxy
+POI_SMG_075,Training Center Semarang 75,Education,Training Center,Semarang,Pedurungan,-6.984186,110.499507,0.64,Medium,H3_SMG_026,Dummy OSM/POI proxy
+POI_SMG_076,Office Center Semarang 76,Commercial,Office Center,Semarang,Gunungpati,-7.095151,110.397147,0.75,Low,H3_SMG_003,Dummy OSM/POI proxy
+POI_SMG_077,Market Semarang 77,Commercial,Market,Semarang,Genuk,-6.959525,110.47077,0.72,High,H3_SMG_013,Dummy OSM/POI proxy
+POI_SMG_078,School Semarang 78,Education,School,Semarang,Banyumanik,-7.057256,110.430848,0.62,Medium,H3_SMG_028,Dummy OSM/POI proxy
+POI_SMG_079,Parking Area Semarang 79,Fuel & Mobility,Parking Area,Semarang,Gunungpati,-7.087156,110.390211,0.93,Low,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_080,Bus Stop Semarang 80,Transportation,Bus Stop,Semarang,Pedurungan,-6.977582,110.465974,0.67,Low,H3_SMG_001,Dummy OSM/POI proxy
+POI_SMG_081,Apartment Semarang 81,Residential,Apartment,Semarang,Pedurungan,-6.970442,110.508319,0.64,Medium,H3_SMG_020,Dummy OSM/POI proxy
+POI_SMG_082,Station Semarang 82,Transportation,Station,Semarang,Gunungpati,-7.092538,110.420839,0.75,High,H3_SMG_003,Dummy OSM/POI proxy
+POI_SMG_083,Gas Station Semarang 83,Fuel & Mobility,Gas Station,Semarang,Gunungpati,-7.088166,110.39738,0.58,Low,H3_SMG_027,Dummy OSM/POI proxy
+POI_SMG_084,Training Center Semarang 84,Education,Training Center,Semarang,Banyumanik,-7.058695,110.418011,0.95,Low,H3_SMG_028,Dummy OSM/POI proxy
+POI_SMG_085,Mall Semarang 85,Commercial,Mall,Semarang,Semarang Barat,-6.974196,110.37423,0.78,High,H3_SMG_004,Dummy OSM/POI proxy
+POI_SMG_086,Mall Semarang 86,Commercial,Mall,Semarang,Pedurungan,-6.962504,110.497604,0.58,Low,H3_SMG_020,Dummy OSM/POI proxy
+POI_SMG_087,Parking Area Semarang 87,Fuel & Mobility,Parking Area,Semarang,Gunungpati,-7.096759,110.417594,0.39,Medium,H3_SMG_003,Dummy OSM/POI proxy
+POI_SMG_088,Shop House Semarang 88,Commercial,Shop House,Semarang,Gunungpati,-7.09198,110.396086,0.91,Medium,H3_SMG_027,Dummy OSM/POI proxy
+POI_SMG_089,Mall Semarang 89,Commercial,Mall,Semarang,Tembalang,-7.050513,110.447891,0.42,High,H3_SMG_017,Dummy OSM/POI proxy
+POI_SMG_090,Market Semarang 90,Commercial,Market,Semarang,Semarang Barat,-7.004001,110.351978,0.96,High,H3_SMG_021,Dummy OSM/POI proxy
+POI_SMG_091,Shop House Semarang 91,Commercial,Shop House,Semarang,Tembalang,-7.067586,110.449358,0.76,Low,H3_SMG_010,Dummy OSM/POI proxy
+POI_SMG_092,Office Center Semarang 92,Commercial,Office Center,Semarang,Pedurungan,-6.976037,110.49988,0.75,High,H3_SMG_020,Dummy OSM/POI proxy
+POI_SMG_093,Apartment Semarang 93,Residential,Apartment,Semarang,Tembalang,-7.062167,110.44606,0.87,High,H3_SMG_010,Dummy OSM/POI proxy
+POI_SMG_094,Pharmacy Semarang 94,Health,Pharmacy,Semarang,Banyumanik,-7.055145,110.422271,0.57,High,H3_SMG_028,Dummy OSM/POI proxy
+POI_SMG_095,Station Semarang 95,Transportation,Station,Semarang,Pedurungan,-6.99212,110.490339,0.52,Low,H3_SMG_026,Dummy OSM/POI proxy
+POI_SMG_096,Shop House Semarang 96,Commercial,Shop House,Semarang,Tembalang,-7.066795,110.438589,0.57,Medium,H3_SMG_010,Dummy OSM/POI proxy
+POI_SMG_097,Market Semarang 97,Commercial,Market,Semarang,Gunungpati,-7.084299,110.383106,0.89,High,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_098,Apartment Semarang 98,Residential,Apartment,Semarang,Banyumanik,-7.082298,110.403633,0.76,High,H3_SMG_016,Dummy OSM/POI proxy
+POI_SMG_099,Office Center Semarang 99,Commercial,Office Center,Semarang,Gunungpati,-7.068467,110.378094,0.69,High,H3_SMG_029,Dummy OSM/POI proxy
+POI_SMG_100,Terminal Semarang 100,Transportation,Terminal,Semarang,Gunungpati,-7.090239,110.385618,0.8,Medium,H3_SMG_024,Dummy OSM/POI proxy
+POI_SMG_101,Housing Complex Semarang 101,Residential,Housing Complex,Semarang,Gunungpati,-7.089841,110.408692,0.59,High,H3_SMG_003,Dummy OSM/POI proxy
+POI_SMG_102,Training Center Semarang 102,Education,Training Center,Semarang,Gunungpati,-7.095173,110.400688,0.91,Medium,H3_SMG_027,Dummy OSM/POI proxy
+POI_SMG_103,Workshop Semarang 103,Fuel & Mobility,Workshop,Semarang,Gunungpati,-7.08055,110.395255,0.67,Low,H3_SMG_023,Dummy OSM/POI proxy
+POI_SMG_104,Shop House Semarang 104,Commercial,Shop House,Semarang,Gunungpati,-7.098789,110.374654,0.42,Low,H3_SMG_012,Dummy OSM/POI proxy
+POI_SMG_105,Hospital Semarang 105,Health,Hospital,Semarang,Genuk,-6.978201,110.491387,0.66,High,H3_SMG_025,Dummy OSM/POI proxy
+POI_SMG_106,Clinic Semarang 106,Health,Clinic,Semarang,Genuk,-6.954035,110.455221,0.85,Low,H3_SMG_005,Dummy OSM/POI proxy
+POI_SMG_107,Workshop Semarang 107,Fuel & Mobility,Workshop,Semarang,Genuk,-6.978359,110.488053,0.82,Medium,H3_SMG_025,Dummy OSM/POI proxy
+POI_SMG_108,Government Office Semarang 108,Public Service,Government Office,Semarang,Genuk,-6.947119,110.484279,0.8,High,H3_SMG_013,Dummy OSM/POI proxy
+POI_SMG_109,University Semarang 109,Education,University,Semarang,Banyumanik,-7.0592,110.420515,0.85,High,H3_SMG_028,Dummy OSM/POI proxy
+POI_SMG_110,University Semarang 110,Education,University,Semarang,Tembalang,-7.069758,110.438368,0.48,Medium,H3_SMG_010,Dummy OSM/POI proxy
+POI_YGY_001,Office Center Yogyakarta 1,Commercial,Office Center,Yogyakarta,Kasihan Bantul,-7.824042,110.347856,0.45,Low,H3_YGY_009,Dummy OSM/POI proxy
+POI_YGY_002,Apartment Yogyakarta 2,Residential,Apartment,Yogyakarta,Gondokusuman,-7.784969,110.369334,0.56,Low,H3_YGY_001,Dummy OSM/POI proxy
+POI_YGY_003,Workshop Yogyakarta 3,Fuel & Mobility,Workshop,Yogyakarta,Gondokusuman,-7.799712,110.393514,0.75,Medium,H3_YGY_023,Dummy OSM/POI proxy
+POI_YGY_004,Mall Yogyakarta 4,Commercial,Mall,Yogyakarta,Mlati Sleman,-7.730434,110.383514,0.38,Medium,H3_YGY_018,Dummy OSM/POI proxy
+POI_YGY_005,University Yogyakarta 5,Education,University,Yogyakarta,Mantrijeron,-7.824312,110.363177,0.74,High,H3_YGY_002,Dummy OSM/POI proxy
+POI_YGY_006,Shop House Yogyakarta 6,Commercial,Shop House,Yogyakarta,Gondokusuman,-7.804018,110.401433,0.81,High,H3_YGY_023,Dummy OSM/POI proxy
+POI_YGY_007,Office Center Yogyakarta 7,Commercial,Office Center,Yogyakarta,Kasihan Bantul,-7.844675,110.357139,0.87,High,H3_YGY_026,Dummy OSM/POI proxy
+POI_YGY_008,University Yogyakarta 8,Education,University,Yogyakarta,Mantrijeron,-7.82069,110.343138,0.65,Low,H3_YGY_015,Dummy OSM/POI proxy
+POI_YGY_009,Training Center Yogyakarta 9,Education,Training Center,Yogyakarta,Kotagede,-7.822132,110.413797,0.47,High,H3_YGY_008,Dummy OSM/POI proxy
+POI_YGY_010,Parking Area Yogyakarta 10,Fuel & Mobility,Parking Area,Yogyakarta,Kotagede,-7.850417,110.422768,0.66,Medium,H3_YGY_011,Dummy OSM/POI proxy
+POI_YGY_011,Mall Yogyakarta 11,Commercial,Mall,Yogyakarta,Kasihan Bantul,-7.822202,110.353306,0.72,High,H3_YGY_016,Dummy OSM/POI proxy
+POI_YGY_012,Market Yogyakarta 12,Commercial,Market,Yogyakarta,Mantrijeron,-7.801897,110.372502,0.87,High,H3_YGY_004,Dummy OSM/POI proxy
+POI_YGY_013,Office Center Yogyakarta 13,Commercial,Office Center,Yogyakarta,Mantrijeron,-7.816589,110.356266,0.45,Medium,H3_YGY_015,Dummy OSM/POI proxy
+POI_YGY_014,School Yogyakarta 14,Education,School,Yogyakarta,Mantrijeron,-7.79398,110.348239,0.86,Medium,H3_YGY_013,Dummy OSM/POI proxy
+POI_YGY_015,Workshop Yogyakarta 15,Fuel & Mobility,Workshop,Yogyakarta,Mantrijeron,-7.828339,110.353327,0.79,High,H3_YGY_019,Dummy OSM/POI proxy
+POI_YGY_016,Public Service Office Yogyakarta 16,Public Service,Public Service Office,Yogyakarta,Umbulharjo,-7.79949,110.40657,0.56,Low,H3_YGY_030,Dummy OSM/POI proxy
+POI_YGY_017,Shop House Yogyakarta 17,Commercial,Shop House,Yogyakarta,Mlati Sleman,-7.738761,110.367871,0.42,High,H3_YGY_027,Dummy OSM/POI proxy
+POI_YGY_018,Parking Area Yogyakarta 18,Fuel & Mobility,Parking Area,Yogyakarta,Gondokusuman,-7.77605,110.376315,0.41,Low,H3_YGY_025,Dummy OSM/POI proxy
+POI_YGY_019,Market Yogyakarta 19,Commercial,Market,Yogyakarta,Kotagede,-7.833293,110.406411,0.64,Medium,H3_YGY_029,Dummy OSM/POI proxy
+POI_YGY_020,Bus Stop Yogyakarta 20,Transportation,Bus Stop,Yogyakarta,Mantrijeron,-7.794077,110.364177,0.56,High,H3_YGY_013,Dummy OSM/POI proxy
+POI_YGY_021,Housing Complex Yogyakarta 21,Residential,Housing Complex,Yogyakarta,Kasihan Bantul,-7.829974,110.351327,0.82,Medium,H3_YGY_026,Dummy OSM/POI proxy
+POI_YGY_022,Office Center Yogyakarta 22,Commercial,Office Center,Yogyakarta,Mantrijeron,-7.81341,110.346793,0.39,High,H3_YGY_003,Dummy OSM/POI proxy
+POI_YGY_023,Training Center Yogyakarta 23,Education,Training Center,Yogyakarta,Mantrijeron,-7.825364,110.350778,0.91,Low,H3_YGY_002,Dummy OSM/POI proxy
+POI_YGY_024,Office Center Yogyakarta 24,Commercial,Office Center,Yogyakarta,Kotagede,-7.828527,110.401401,0.61,Medium,H3_YGY_008,Dummy OSM/POI proxy
+POI_YGY_025,Hospital Yogyakarta 25,Health,Hospital,Yogyakarta,Mlati Sleman,-7.747015,110.381774,0.6,Medium,H3_YGY_018,Dummy OSM/POI proxy
+POI_YGY_026,Shop House Yogyakarta 26,Commercial,Shop House,Yogyakarta,Mlati Sleman,-7.732019,110.368352,0.44,Low,H3_YGY_027,Dummy OSM/POI proxy
+POI_YGY_027,Training Center Yogyakarta 27,Education,Training Center,Yogyakarta,Mantrijeron,-7.783795,110.35438,0.98,Low,H3_YGY_021,Dummy OSM/POI proxy
+POI_YGY_028,University Yogyakarta 28,Education,University,Yogyakarta,Mantrijeron,-7.812063,110.346613,0.8,Medium,H3_YGY_003,Dummy OSM/POI proxy
+POI_YGY_029,Training Center Yogyakarta 29,Education,Training Center,Yogyakarta,Umbulharjo,-7.817425,110.395092,0.6,Low,H3_YGY_020,Dummy OSM/POI proxy
+POI_YGY_030,Market Yogyakarta 30,Commercial,Market,Yogyakarta,Kasihan Bantul,-7.853818,110.327603,0.5,High,H3_YGY_006,Dummy OSM/POI proxy
+POI_YGY_031,Shop House Yogyakarta 31,Commercial,Shop House,Yogyakarta,Kasihan Bantul,-7.820135,110.352416,0.66,Medium,H3_YGY_009,Dummy OSM/POI proxy
+POI_YGY_032,Market Yogyakarta 32,Commercial,Market,Yogyakarta,Mantrijeron,-7.79181,110.372359,0.99,Medium,H3_YGY_004,Dummy OSM/POI proxy
+POI_YGY_033,Market Yogyakarta 33,Commercial,Market,Yogyakarta,Mantrijeron,-7.816657,110.360258,0.78,High,H3_YGY_015,Dummy OSM/POI proxy
+POI_YGY_034,Terminal Yogyakarta 34,Transportation,Terminal,Yogyakarta,Mantrijeron,-7.818622,110.351432,0.38,Medium,H3_YGY_003,Dummy OSM/POI proxy
+POI_YGY_035,Parking Area Yogyakarta 35,Fuel & Mobility,Parking Area,Yogyakarta,Mlati Sleman,-7.755697,110.384882,0.72,Medium,H3_YGY_018,Dummy OSM/POI proxy
+POI_YGY_036,Shop House Yogyakarta 36,Commercial,Shop House,Yogyakarta,Umbulharjo,-7.808088,110.380047,0.95,High,H3_YGY_014,Dummy OSM/POI proxy
+POI_YGY_037,Public Service Office Yogyakarta 37,Public Service,Public Service Office,Yogyakarta,Mlati Sleman,-7.711765,110.364906,0.46,Low,H3_YGY_010,Dummy OSM/POI proxy
+POI_YGY_038,Apartment Yogyakarta 38,Residential,Apartment,Yogyakarta,Kotagede,-7.833443,110.382239,0.68,Medium,H3_YGY_022,Dummy OSM/POI proxy
+POI_YGY_039,University Yogyakarta 39,Education,University,Yogyakarta,Kasihan Bantul,-7.822495,110.356634,0.83,High,H3_YGY_009,Dummy OSM/POI proxy
+POI_YGY_040,Apartment Yogyakarta 40,Residential,Apartment,Yogyakarta,Kasihan Bantul,-7.846677,110.328219,0.46,High,H3_YGY_006,Dummy OSM/POI proxy
+POI_YGY_041,Market Yogyakarta 41,Commercial,Market,Yogyakarta,Kotagede,-7.823232,110.410205,0.44,Low,H3_YGY_008,Dummy OSM/POI proxy
+POI_YGY_042,Office Center Yogyakarta 42,Commercial,Office Center,Yogyakarta,Mlati Sleman,-7.740388,110.364108,0.64,High,H3_YGY_027,Dummy OSM/POI proxy
+POI_YGY_043,Pharmacy Yogyakarta 43,Health,Pharmacy,Yogyakarta,Kasihan Bantul,-7.842468,110.331389,0.52,Low,H3_YGY_006,Dummy OSM/POI proxy
+POI_YGY_044,University Yogyakarta 44,Education,University,Yogyakarta,Mantrijeron,-7.834547,110.356904,0.97,High,H3_YGY_002,Dummy OSM/POI proxy
+POI_YGY_045,Office Center Yogyakarta 45,Commercial,Office Center,Yogyakarta,Kotagede,-7.825162,110.408636,0.92,Low,H3_YGY_008,Dummy OSM/POI proxy
+POI_YGY_046,Housing Complex Yogyakarta 46,Residential,Housing Complex,Yogyakarta,Mlati Sleman,-7.721912,110.365878,0.69,Low,H3_YGY_010,Dummy OSM/POI proxy
+POI_YGY_047,Housing Complex Yogyakarta 47,Residential,Housing Complex,Yogyakarta,Mantrijeron,-7.791772,110.363049,0.95,Medium,H3_YGY_004,Dummy OSM/POI proxy
+POI_YGY_048,Hospital Yogyakarta 48,Health,Hospital,Yogyakarta,Kotagede,-7.84926,110.430282,0.65,High,H3_YGY_011,Dummy OSM/POI proxy
+POI_YGY_049,Pharmacy Yogyakarta 49,Health,Pharmacy,Yogyakarta,Depok Sleman,-7.756618,110.423288,0.57,High,H3_YGY_024,Dummy OSM/POI proxy
+POI_YGY_050,Market Yogyakarta 50,Commercial,Market,Yogyakarta,Kasihan Bantul,-7.848843,110.32305,0.36,Low,H3_YGY_006,Dummy OSM/POI proxy
+POI_YGY_051,University Yogyakarta 51,Education,University,Yogyakarta,Depok Sleman,-7.762442,110.421262,0.51,Low,H3_YGY_017,Dummy OSM/POI proxy
+POI_YGY_052,Station Yogyakarta 52,Transportation,Station,Yogyakarta,Gondokusuman,-7.778345,110.360662,0.89,High,H3_YGY_001,Dummy OSM/POI proxy
+POI_YGY_053,School Yogyakarta 53,Education,School,Yogyakarta,Mantrijeron,-7.783383,110.364419,0.59,High,H3_YGY_021,Dummy OSM/POI proxy
+POI_YGY_054,Gas Station Yogyakarta 54,Fuel & Mobility,Gas Station,Yogyakarta,Mantrijeron,-7.819719,110.351175,0.51,Medium,H3_YGY_019,Dummy OSM/POI proxy
+POI_YGY_055,Housing Complex Yogyakarta 55,Residential,Housing Complex,Yogyakarta,Kotagede,-7.828604,110.377562,0.63,High,H3_YGY_022,Dummy OSM/POI proxy
+POI_YGY_056,Parking Area Yogyakarta 56,Fuel & Mobility,Parking Area,Yogyakarta,Gondokusuman,-7.766004,110.378001,0.86,Medium,H3_YGY_025,Dummy OSM/POI proxy
+POI_YGY_057,Market Yogyakarta 57,Commercial,Market,Yogyakarta,Mantrijeron,-7.797684,110.366593,0.47,Low,H3_YGY_013,Dummy OSM/POI proxy
+POI_YGY_058,Apartment Yogyakarta 58,Residential,Apartment,Yogyakarta,Kasihan Bantul,-7.823978,110.345461,0.67,Low,H3_YGY_016,Dummy OSM/POI proxy
+POI_YGY_059,Gas Station Yogyakarta 59,Fuel & Mobility,Gas Station,Yogyakarta,Mlati Sleman,-7.745333,110.379298,0.64,Medium,H3_YGY_018,Dummy OSM/POI proxy
+POI_YGY_060,School Yogyakarta 60,Education,School,Yogyakarta,Mantrijeron,-7.802018,110.362808,0.64,Medium,H3_YGY_004,Dummy OSM/POI proxy
+POI_YGY_061,Station Yogyakarta 61,Transportation,Station,Yogyakarta,Kotagede,-7.80855,110.40242,0.52,High,H3_YGY_005,Dummy OSM/POI proxy
+POI_YGY_062,Apartment Yogyakarta 62,Residential,Apartment,Yogyakarta,Kotagede,-7.863155,110.420965,0.67,Medium,H3_YGY_011,Dummy OSM/POI proxy
+POI_YGY_063,Gas Station Yogyakarta 63,Fuel & Mobility,Gas Station,Yogyakarta,Mantrijeron,-7.797589,110.355502,0.97,Medium,H3_YGY_013,Dummy OSM/POI proxy
+POI_YGY_064,Shop House Yogyakarta 64,Commercial,Shop House,Yogyakarta,Mantrijeron,-7.800462,110.369195,0.39,High,H3_YGY_004,Dummy OSM/POI proxy
+POI_YGY_065,Shop House Yogyakarta 65,Commercial,Shop House,Yogyakarta,Mantrijeron,-7.814344,110.359615,0.85,High,H3_YGY_003,Dummy OSM/POI proxy
+POI_YGY_066,School Yogyakarta 66,Education,School,Yogyakarta,Gondokusuman,-7.775329,110.379671,0.54,Medium,H3_YGY_007,Dummy OSM/POI proxy
+POI_YGY_067,Training Center Yogyakarta 67,Education,Training Center,Yogyakarta,Kotagede,-7.835287,110.41718,0.76,High,H3_YGY_029,Dummy OSM/POI proxy
+POI_YGY_068,School Yogyakarta 68,Education,School,Yogyakarta,Gondokusuman,-7.764103,110.384652,0.51,Medium,H3_YGY_007,Dummy OSM/POI proxy
+POI_YGY_069,Workshop Yogyakarta 69,Fuel & Mobility,Workshop,Yogyakarta,Mantrijeron,-7.822799,110.363323,0.89,Medium,H3_YGY_003,Dummy OSM/POI proxy
+POI_YGY_070,School Yogyakarta 70,Education,School,Yogyakarta,Gondokusuman,-7.791492,110.372136,0.61,Low,H3_YGY_001,Dummy OSM/POI proxy
+POI_YGY_071,Terminal Yogyakarta 71,Transportation,Terminal,Yogyakarta,Kasihan Bantul,-7.850988,110.36057,0.92,Low,H3_YGY_026,Dummy OSM/POI proxy
+POI_YGY_072,Market Yogyakarta 72,Commercial,Market,Yogyakarta,Depok Sleman,-7.750038,110.426139,0.77,Medium,H3_YGY_024,Dummy OSM/POI proxy
+POI_YGY_073,Apartment Yogyakarta 73,Residential,Apartment,Yogyakarta,Umbulharjo,-7.805174,110.409924,0.36,High,H3_YGY_030,Dummy OSM/POI proxy
+POI_YGY_074,Apartment Yogyakarta 74,Residential,Apartment,Yogyakarta,Mantrijeron,-7.831332,110.356887,0.73,Low,H3_YGY_002,Dummy OSM/POI proxy
+POI_YGY_075,Mall Yogyakarta 75,Commercial,Mall,Yogyakarta,Mantrijeron,-7.794186,110.366343,0.57,High,H3_YGY_004,Dummy OSM/POI proxy
+POI_YGY_076,Market Yogyakarta 76,Commercial,Market,Yogyakarta,Kotagede,-7.825103,110.378627,0.44,Low,H3_YGY_022,Dummy OSM/POI proxy
+POI_YGY_077,School Yogyakarta 77,Education,School,Yogyakarta,Gondokusuman,-7.768798,110.378614,0.44,Medium,H3_YGY_025,Dummy OSM/POI proxy
+POI_YGY_078,Terminal Yogyakarta 78,Transportation,Terminal,Yogyakarta,Kasihan Bantul,-7.84128,110.33693,0.73,Low,H3_YGY_006,Dummy OSM/POI proxy
+POI_YGY_079,Workshop Yogyakarta 79,Fuel & Mobility,Workshop,Yogyakarta,Mantrijeron,-7.805825,110.358029,0.36,Medium,H3_YGY_004,Dummy OSM/POI proxy
+POI_YGY_080,School Yogyakarta 80,Education,School,Yogyakarta,Mantrijeron,-7.811764,110.352184,0.74,Medium,H3_YGY_003,Dummy OSM/POI proxy
+POI_YGY_081,Bus Stop Yogyakarta 81,Transportation,Bus Stop,Yogyakarta,Umbulharjo,-7.809141,110.374673,0.77,High,H3_YGY_014,Dummy OSM/POI proxy
+POI_YGY_082,Mall Yogyakarta 82,Commercial,Mall,Yogyakarta,Mantrijeron,-7.818188,110.35073,0.47,Medium,H3_YGY_015,Dummy OSM/POI proxy
+POI_YGY_083,Housing Complex Yogyakarta 83,Residential,Housing Complex,Yogyakarta,Umbulharjo,-7.807882,110.390462,0.5,Low,H3_YGY_020,Dummy OSM/POI proxy
+POI_YGY_084,Housing Complex Yogyakarta 84,Residential,Housing Complex,Yogyakarta,Depok Sleman,-7.745217,110.40011,0.68,Medium,H3_YGY_017,Dummy OSM/POI proxy
+POI_YGY_085,Station Yogyakarta 85,Transportation,Station,Yogyakarta,Gondokusuman,-7.767891,110.379882,0.87,High,H3_YGY_025,Dummy OSM/POI proxy
+POI_YGY_086,Housing Complex Yogyakarta 86,Residential,Housing Complex,Yogyakarta,Mlati Sleman,-7.751784,110.379807,0.95,Low,H3_YGY_028,Dummy OSM/POI proxy
+POI_YGY_087,Mall Yogyakarta 87,Commercial,Mall,Yogyakarta,Mantrijeron,-7.795346,110.362357,0.87,Medium,H3_YGY_021,Dummy OSM/POI proxy
+POI_YGY_088,School Yogyakarta 88,Education,School,Yogyakarta,Mantrijeron,-7.824475,110.354192,0.86,Medium,H3_YGY_002,Dummy OSM/POI proxy
+POI_YGY_089,School Yogyakarta 89,Education,School,Yogyakarta,Depok Sleman,-7.758136,110.405602,0.56,Low,H3_YGY_017,Dummy OSM/POI proxy
+POI_YGY_090,Bus Stop Yogyakarta 90,Transportation,Bus Stop,Yogyakarta,Depok Sleman,-7.752903,110.428254,0.5,Low,H3_YGY_024,Dummy OSM/POI proxy
+POI_YGY_091,Mall Yogyakarta 91,Commercial,Mall,Yogyakarta,Depok Sleman,-7.756271,110.428364,0.66,Medium,H3_YGY_024,Dummy OSM/POI proxy
+POI_YGY_092,Apartment Yogyakarta 92,Residential,Apartment,Yogyakarta,Mantrijeron,-7.826063,110.363931,0.47,Medium,H3_YGY_002,Dummy OSM/POI proxy
+POI_YGY_093,Mall Yogyakarta 93,Commercial,Mall,Yogyakarta,Kotagede,-7.82768,110.393993,0.48,Low,H3_YGY_005,Dummy OSM/POI proxy
+POI_YGY_094,Station Yogyakarta 94,Transportation,Station,Yogyakarta,Mantrijeron,-7.828356,110.358747,0.65,Medium,H3_YGY_002,Dummy OSM/POI proxy
+POI_YGY_095,Gas Station Yogyakarta 95,Fuel & Mobility,Gas Station,Yogyakarta,Kasihan Bantul,-7.837391,110.327726,0.86,High,H3_YGY_006,Dummy OSM/POI proxy
+POI_YGY_096,Apartment Yogyakarta 96,Residential,Apartment,Yogyakarta,Umbulharjo,-7.797422,110.396111,0.67,Low,H3_YGY_020,Dummy OSM/POI proxy
+POI_YGY_097,Office Center Yogyakarta 97,Commercial,Office Center,Yogyakarta,Mantrijeron,-7.828837,110.366348,0.83,Low,H3_YGY_019,Dummy OSM/POI proxy
+POI_YGY_098,Mall Yogyakarta 98,Commercial,Mall,Yogyakarta,Kotagede,-7.815597,110.403054,0.45,High,H3_YGY_008,Dummy OSM/POI proxy
+POI_YGY_099,School Yogyakarta 99,Education,School,Yogyakarta,Kotagede,-7.827131,110.416911,0.85,Low,H3_YGY_029,Dummy OSM/POI proxy
+POI_YGY_100,Office Center Yogyakarta 100,Commercial,Office Center,Yogyakarta,Umbulharjo,-7.8043,110.369863,0.41,Medium,H3_YGY_014,Dummy OSM/POI proxy
+POI_YGY_101,School Yogyakarta 101,Education,School,Yogyakarta,Kotagede,-7.823987,110.402359,0.49,Medium,H3_YGY_008,Dummy OSM/POI proxy
+POI_YGY_102,Hospital Yogyakarta 102,Health,Hospital,Yogyakarta,Mlati Sleman,-7.70918,110.363241,0.46,Medium,H3_YGY_010,Dummy OSM/POI proxy
+POI_YGY_103,Market Yogyakarta 103,Commercial,Market,Yogyakarta,Mlati Sleman,-7.741619,110.378763,0.44,High,H3_YGY_028,Dummy OSM/POI proxy
+POI_YGY_104,Clinic Yogyakarta 104,Health,Clinic,Yogyakarta,Mantrijeron,-7.803659,110.34893,0.35,High,H3_YGY_013,Dummy OSM/POI proxy
+POI_YGY_105,Shop House Yogyakarta 105,Commercial,Shop House,Yogyakarta,Mantrijeron,-7.825106,110.355419,0.84,High,H3_YGY_003,Dummy OSM/POI proxy
+POI_YGY_106,Mall Yogyakarta 106,Commercial,Mall,Yogyakarta,Umbulharjo,-7.806973,110.387596,0.92,High,H3_YGY_020,Dummy OSM/POI proxy
+POI_YGY_107,Training Center Yogyakarta 107,Education,Training Center,Yogyakarta,Umbulharjo,-7.806855,110.402726,0.6,Medium,H3_YGY_030,Dummy OSM/POI proxy
+POI_YGY_108,University Yogyakarta 108,Education,University,Yogyakarta,Umbulharjo,-7.804078,110.396838,0.39,High,H3_YGY_020,Dummy OSM/POI proxy
+POI_YGY_109,Clinic Yogyakarta 109,Health,Clinic,Yogyakarta,Gondokusuman,-7.76703,110.378937,0.66,High,H3_YGY_025,Dummy OSM/POI proxy
+POI_YGY_110,Apartment Yogyakarta 110,Residential,Apartment,Yogyakarta,Mlati Sleman,-7.748042,110.369604,0.56,Medium,H3_YGY_028,Dummy OSM/POI proxy
+POI_SBY_001,Bus Stop Surabaya 1,Transportation,Bus Stop,Surabaya,Rungkut,-7.309714,112.78153,0.64,High,H3_SBY_017,Dummy OSM/POI proxy
+POI_SBY_002,Parking Area Surabaya 2,Fuel & Mobility,Parking Area,Surabaya,Rungkut,-7.317431,112.770835,0.7,Medium,H3_SBY_017,Dummy OSM/POI proxy
+POI_SBY_003,Terminal Surabaya 3,Transportation,Terminal,Surabaya,Sukolilo,-7.271532,112.788099,0.96,Low,H3_SBY_015,Dummy OSM/POI proxy
+POI_SBY_004,Housing Complex Surabaya 4,Residential,Housing Complex,Surabaya,Rungkut,-7.314555,112.766041,0.47,Low,H3_SBY_007,Dummy OSM/POI proxy
+POI_SBY_005,School Surabaya 5,Education,School,Surabaya,Sukolilo,-7.306683,112.782016,0.92,High,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_006,University Surabaya 6,Education,University,Surabaya,Tegalsari,-7.259076,112.738008,0.44,Medium,H3_SBY_021,Dummy OSM/POI proxy
+POI_SBY_007,Market Surabaya 7,Commercial,Market,Surabaya,Gubeng,-7.28746,112.751077,0.92,Low,H3_SBY_014,Dummy OSM/POI proxy
+POI_SBY_008,Housing Complex Surabaya 8,Residential,Housing Complex,Surabaya,Tandes,-7.244209,112.686826,0.77,Medium,H3_SBY_027,Dummy OSM/POI proxy
+POI_SBY_009,Office Center Surabaya 9,Commercial,Office Center,Surabaya,Rungkut,-7.317426,112.786741,0.93,Medium,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_010,Gas Station Surabaya 10,Fuel & Mobility,Gas Station,Surabaya,Sukolilo,-7.308141,112.782644,0.85,Low,H3_SBY_006,Dummy OSM/POI proxy
+POI_SBY_011,Office Center Surabaya 11,Commercial,Office Center,Surabaya,Rungkut,-7.321915,112.781844,0.45,High,H3_SBY_005,Dummy OSM/POI proxy
+POI_SBY_012,Hospital Surabaya 12,Health,Hospital,Surabaya,Tandes,-7.26291,112.696133,0.78,Low,H3_SBY_010,Dummy OSM/POI proxy
+POI_SBY_013,Hospital Surabaya 13,Health,Hospital,Surabaya,Sukolilo,-7.284436,112.780761,0.64,Medium,H3_SBY_006,Dummy OSM/POI proxy
+POI_SBY_014,Pharmacy Surabaya 14,Health,Pharmacy,Surabaya,Sukolilo,-7.287159,112.782201,0.57,Medium,H3_SBY_006,Dummy OSM/POI proxy
+POI_SBY_015,Mall Surabaya 15,Commercial,Mall,Surabaya,Sukolilo,-7.284795,112.791131,0.37,Medium,H3_SBY_015,Dummy OSM/POI proxy
+POI_SBY_016,University Surabaya 16,Education,University,Surabaya,Sukolilo,-7.270397,112.786332,0.98,High,H3_SBY_025,Dummy OSM/POI proxy
+POI_SBY_017,Shop House Surabaya 17,Commercial,Shop House,Surabaya,Rungkut,-7.320072,112.780395,0.96,High,H3_SBY_017,Dummy OSM/POI proxy
+POI_SBY_018,Training Center Surabaya 18,Education,Training Center,Surabaya,Sukolilo,-7.26597,112.785923,0.57,Low,H3_SBY_022,Dummy OSM/POI proxy
+POI_SBY_019,Market Surabaya 19,Commercial,Market,Surabaya,Tegalsari,-7.27394,112.746844,0.55,Medium,H3_SBY_024,Dummy OSM/POI proxy
+POI_SBY_020,Parking Area Surabaya 20,Fuel & Mobility,Parking Area,Surabaya,Gubeng,-7.271709,112.773791,0.75,Low,H3_SBY_020,Dummy OSM/POI proxy
+POI_SBY_021,Shop House Surabaya 21,Commercial,Shop House,Surabaya,Sukolilo,-7.278982,112.808144,0.9,High,H3_SBY_019,Dummy OSM/POI proxy
+POI_SBY_022,Housing Complex Surabaya 22,Residential,Housing Complex,Surabaya,Sukolilo,-7.262353,112.804294,0.74,Low,H3_SBY_022,Dummy OSM/POI proxy
+POI_SBY_023,Bus Stop Surabaya 23,Transportation,Bus Stop,Surabaya,Tandes,-7.23836,112.703738,0.59,Medium,H3_SBY_030,Dummy OSM/POI proxy
+POI_SBY_024,Clinic Surabaya 24,Health,Clinic,Surabaya,Gubeng,-7.265162,112.764581,0.71,Low,H3_SBY_001,Dummy OSM/POI proxy
+POI_SBY_025,Housing Complex Surabaya 25,Residential,Housing Complex,Surabaya,Tegalsari,-7.277162,112.736338,0.87,Medium,H3_SBY_024,Dummy OSM/POI proxy
+POI_SBY_026,Apartment Surabaya 26,Residential,Apartment,Surabaya,Tegalsari,-7.274656,112.734053,0.44,Medium,H3_SBY_024,Dummy OSM/POI proxy
+POI_SBY_027,Housing Complex Surabaya 27,Residential,Housing Complex,Surabaya,Rungkut,-7.295995,112.790862,0.84,Low,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_028,Shop House Surabaya 28,Commercial,Shop House,Surabaya,Gubeng,-7.269403,112.762405,0.81,Low,H3_SBY_001,Dummy OSM/POI proxy
+POI_SBY_029,Clinic Surabaya 29,Health,Clinic,Surabaya,Rungkut,-7.321361,112.769683,0.88,Medium,H3_SBY_007,Dummy OSM/POI proxy
+POI_SBY_030,Office Center Surabaya 30,Commercial,Office Center,Surabaya,Tandes,-7.245772,112.681493,0.37,Low,H3_SBY_027,Dummy OSM/POI proxy
+POI_SBY_031,Pharmacy Surabaya 31,Health,Pharmacy,Surabaya,Rungkut,-7.326506,112.778249,0.77,Medium,H3_SBY_005,Dummy OSM/POI proxy
+POI_SBY_032,Training Center Surabaya 32,Education,Training Center,Surabaya,Gubeng,-7.287787,112.747849,0.85,Medium,H3_SBY_014,Dummy OSM/POI proxy
+POI_SBY_033,Shop House Surabaya 33,Commercial,Shop House,Surabaya,Kenjeran,-7.246537,112.80245,0.91,High,H3_SBY_003,Dummy OSM/POI proxy
+POI_SBY_034,Market Surabaya 34,Commercial,Market,Surabaya,Sukolilo,-7.270963,112.806335,0.36,Medium,H3_SBY_022,Dummy OSM/POI proxy
+POI_SBY_035,Mall Surabaya 35,Commercial,Mall,Surabaya,Sukolilo,-7.297495,112.792221,0.44,Low,H3_SBY_006,Dummy OSM/POI proxy
+POI_SBY_036,Clinic Surabaya 36,Health,Clinic,Surabaya,Wonokromo,-7.303433,112.722847,0.38,Medium,H3_SBY_002,Dummy OSM/POI proxy
+POI_SBY_037,Station Surabaya 37,Transportation,Station,Surabaya,Rungkut,-7.325368,112.778695,0.47,Low,H3_SBY_017,Dummy OSM/POI proxy
+POI_SBY_038,Public Service Office Surabaya 38,Public Service,Public Service Office,Surabaya,Gubeng,-7.260561,112.761554,0.8,Medium,H3_SBY_020,Dummy OSM/POI proxy
+POI_SBY_039,Terminal Surabaya 39,Transportation,Terminal,Surabaya,Wonokromo,-7.305235,112.727877,0.58,Low,H3_SBY_009,Dummy OSM/POI proxy
+POI_SBY_040,University Surabaya 40,Education,University,Surabaya,Gubeng,-7.267662,112.763442,0.57,Low,H3_SBY_001,Dummy OSM/POI proxy
+POI_SBY_041,Pharmacy Surabaya 41,Health,Pharmacy,Surabaya,Sukolilo,-7.303689,112.792471,0.93,High,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_042,Workshop Surabaya 42,Fuel & Mobility,Workshop,Surabaya,Tandes,-7.253285,112.680483,0.81,Low,H3_SBY_023,Dummy OSM/POI proxy
+POI_SBY_043,Market Surabaya 43,Commercial,Market,Surabaya,Gubeng,-7.284536,112.751115,0.36,Medium,H3_SBY_014,Dummy OSM/POI proxy
+POI_SBY_044,Station Surabaya 44,Transportation,Station,Surabaya,Tandes,-7.262665,112.69244,0.74,Medium,H3_SBY_010,Dummy OSM/POI proxy
+POI_SBY_045,Government Office Surabaya 45,Public Service,Government Office,Surabaya,Sukolilo,-7.292379,112.778055,0.43,High,H3_SBY_006,Dummy OSM/POI proxy
+POI_SBY_046,Bus Stop Surabaya 46,Transportation,Bus Stop,Surabaya,Rungkut,-7.327697,112.786353,0.4,High,H3_SBY_005,Dummy OSM/POI proxy
+POI_SBY_047,Gas Station Surabaya 47,Fuel & Mobility,Gas Station,Surabaya,Sukolilo,-7.266682,112.788678,0.63,Low,H3_SBY_025,Dummy OSM/POI proxy
+POI_SBY_048,Training Center Surabaya 48,Education,Training Center,Surabaya,Sukolilo,-7.306479,112.788481,0.43,Medium,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_049,Training Center Surabaya 49,Education,Training Center,Surabaya,Wonokromo,-7.290937,112.734313,0.43,High,H3_SBY_002,Dummy OSM/POI proxy
+POI_SBY_050,Mall Surabaya 50,Commercial,Mall,Surabaya,Rungkut,-7.317426,112.768049,0.41,High,H3_SBY_007,Dummy OSM/POI proxy
+POI_SBY_051,Housing Complex Surabaya 51,Residential,Housing Complex,Surabaya,Wonokromo,-7.30748,112.731681,0.86,High,H3_SBY_009,Dummy OSM/POI proxy
+POI_SBY_052,Market Surabaya 52,Commercial,Market,Surabaya,Wiyung,-7.305535,112.694027,0.36,Low,H3_SBY_008,Dummy OSM/POI proxy
+POI_SBY_053,Clinic Surabaya 53,Health,Clinic,Surabaya,Tandes,-7.25392,112.697142,0.35,High,H3_SBY_023,Dummy OSM/POI proxy
+POI_SBY_054,Housing Complex Surabaya 54,Residential,Housing Complex,Surabaya,Sukolilo,-7.309738,112.794614,0.64,Low,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_055,Parking Area Surabaya 55,Fuel & Mobility,Parking Area,Surabaya,Sukolilo,-7.29868,112.784378,0.61,Medium,H3_SBY_006,Dummy OSM/POI proxy
+POI_SBY_056,Mall Surabaya 56,Commercial,Mall,Surabaya,Sukolilo,-7.310068,112.788807,0.54,High,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_057,University Surabaya 57,Education,University,Surabaya,Wonokromo,-7.289973,112.737396,0.74,Medium,H3_SBY_002,Dummy OSM/POI proxy
+POI_SBY_058,Housing Complex Surabaya 58,Residential,Housing Complex,Surabaya,Sukolilo,-7.26322,112.805429,0.99,Medium,H3_SBY_022,Dummy OSM/POI proxy
+POI_SBY_059,Parking Area Surabaya 59,Fuel & Mobility,Parking Area,Surabaya,Rungkut,-7.314324,112.760782,0.36,High,H3_SBY_007,Dummy OSM/POI proxy
+POI_SBY_060,Bus Stop Surabaya 60,Transportation,Bus Stop,Surabaya,Rungkut,-7.318067,112.788054,0.41,Low,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_061,Market Surabaya 61,Commercial,Market,Surabaya,Wonokromo,-7.276438,112.754705,0.46,Medium,H3_SBY_013,Dummy OSM/POI proxy
+POI_SBY_062,Office Center Surabaya 62,Commercial,Office Center,Surabaya,Rungkut,-7.311442,112.770909,0.82,Medium,H3_SBY_007,Dummy OSM/POI proxy
+POI_SBY_063,Public Service Office Surabaya 63,Public Service,Public Service Office,Surabaya,Sukolilo,-7.273112,112.777091,0.96,Medium,H3_SBY_025,Dummy OSM/POI proxy
+POI_SBY_064,Bus Stop Surabaya 64,Transportation,Bus Stop,Surabaya,Rungkut,-7.30277,112.784154,0.45,Medium,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_065,University Surabaya 65,Education,University,Surabaya,Sukolilo,-7.31283,112.788803,0.44,Low,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_066,School Surabaya 66,Education,School,Surabaya,Tegalsari,-7.280198,112.741027,0.47,High,H3_SBY_024,Dummy OSM/POI proxy
+POI_SBY_067,Shop House Surabaya 67,Commercial,Shop House,Surabaya,Sukolilo,-7.266093,112.79749,0.4,High,H3_SBY_022,Dummy OSM/POI proxy
+POI_SBY_068,Office Center Surabaya 68,Commercial,Office Center,Surabaya,Sukolilo,-7.27091,112.796302,0.67,Medium,H3_SBY_025,Dummy OSM/POI proxy
+POI_SBY_069,Market Surabaya 69,Commercial,Market,Surabaya,Wiyung,-7.33768,112.688138,0.63,Low,H3_SBY_018,Dummy OSM/POI proxy
+POI_SBY_070,Office Center Surabaya 70,Commercial,Office Center,Surabaya,Wonokromo,-7.277276,112.767931,0.46,High,H3_SBY_013,Dummy OSM/POI proxy
+POI_SBY_071,Workshop Surabaya 71,Fuel & Mobility,Workshop,Surabaya,Tegalsari,-7.256686,112.749888,0.55,Medium,H3_SBY_028,Dummy OSM/POI proxy
+POI_SBY_072,Workshop Surabaya 72,Fuel & Mobility,Workshop,Surabaya,Rungkut,-7.313929,112.776862,0.8,High,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_073,Mall Surabaya 73,Commercial,Mall,Surabaya,Rungkut,-7.315903,112.784465,0.67,Medium,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_074,Bus Stop Surabaya 74,Transportation,Bus Stop,Surabaya,Gubeng,-7.268991,112.770921,0.38,Medium,H3_SBY_020,Dummy OSM/POI proxy
+POI_SBY_075,Workshop Surabaya 75,Fuel & Mobility,Workshop,Surabaya,Tandes,-7.258668,112.669516,0.57,Low,H3_SBY_012,Dummy OSM/POI proxy
+POI_SBY_076,Shop House Surabaya 76,Commercial,Shop House,Surabaya,Gubeng,-7.288642,112.750062,0.51,Low,H3_SBY_014,Dummy OSM/POI proxy
+POI_SBY_077,Market Surabaya 77,Commercial,Market,Surabaya,Tegalsari,-7.264564,112.738253,0.55,Medium,H3_SBY_021,Dummy OSM/POI proxy
+POI_SBY_078,University Surabaya 78,Education,University,Surabaya,Sukolilo,-7.283729,112.783113,0.62,High,H3_SBY_006,Dummy OSM/POI proxy
+POI_SBY_079,Market Surabaya 79,Commercial,Market,Surabaya,Tandes,-7.248518,112.681609,0.99,Medium,H3_SBY_029,Dummy OSM/POI proxy
+POI_SBY_080,Market Surabaya 80,Commercial,Market,Surabaya,Sukolilo,-7.278834,112.803209,0.79,Medium,H3_SBY_019,Dummy OSM/POI proxy
+POI_SBY_081,Shop House Surabaya 81,Commercial,Shop House,Surabaya,Rungkut,-7.307397,112.7891,0.98,Low,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_082,Station Surabaya 82,Transportation,Station,Surabaya,Rungkut,-7.305931,112.778449,0.54,Low,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_083,Housing Complex Surabaya 83,Residential,Housing Complex,Surabaya,Tandes,-7.264992,112.696029,0.97,High,H3_SBY_010,Dummy OSM/POI proxy
+POI_SBY_084,Shop House Surabaya 84,Commercial,Shop House,Surabaya,Tegalsari,-7.261092,112.752098,0.7,Medium,H3_SBY_028,Dummy OSM/POI proxy
+POI_SBY_085,Market Surabaya 85,Commercial,Market,Surabaya,Rungkut,-7.322601,112.758783,0.87,Medium,H3_SBY_007,Dummy OSM/POI proxy
+POI_SBY_086,Mall Surabaya 86,Commercial,Mall,Surabaya,Sukolilo,-7.268066,112.801703,0.68,High,H3_SBY_022,Dummy OSM/POI proxy
+POI_SBY_087,Market Surabaya 87,Commercial,Market,Surabaya,Sukolilo,-7.27856,112.782661,0.47,Medium,H3_SBY_025,Dummy OSM/POI proxy
+POI_SBY_088,Terminal Surabaya 88,Transportation,Terminal,Surabaya,Rungkut,-7.315266,112.76113,0.76,High,H3_SBY_007,Dummy OSM/POI proxy
+POI_SBY_089,Parking Area Surabaya 89,Fuel & Mobility,Parking Area,Surabaya,Tegalsari,-7.251097,112.740566,0.39,Low,H3_SBY_028,Dummy OSM/POI proxy
+POI_SBY_090,Mall Surabaya 90,Commercial,Mall,Surabaya,Tandes,-7.265788,112.674787,0.55,Medium,H3_SBY_012,Dummy OSM/POI proxy
+POI_SBY_091,Market Surabaya 91,Commercial,Market,Surabaya,Gubeng,-7.294635,112.740334,0.52,Medium,H3_SBY_014,Dummy OSM/POI proxy
+POI_SBY_092,Training Center Surabaya 92,Education,Training Center,Surabaya,Tegalsari,-7.271357,112.735795,0.42,Low,H3_SBY_021,Dummy OSM/POI proxy
+POI_SBY_093,Clinic Surabaya 93,Health,Clinic,Surabaya,Gubeng,-7.270328,112.76021,0.63,High,H3_SBY_001,Dummy OSM/POI proxy
+POI_SBY_094,School Surabaya 94,Education,School,Surabaya,Tandes,-7.246065,112.690587,0.86,Medium,H3_SBY_029,Dummy OSM/POI proxy
+POI_SBY_095,Market Surabaya 95,Commercial,Market,Surabaya,Sukolilo,-7.257405,112.797802,0.36,Low,H3_SBY_022,Dummy OSM/POI proxy
+POI_SBY_096,Station Surabaya 96,Transportation,Station,Surabaya,Rungkut,-7.305782,112.760048,0.59,High,H3_SBY_011,Dummy OSM/POI proxy
+POI_SBY_097,Training Center Surabaya 97,Education,Training Center,Surabaya,Tandes,-7.243434,112.685467,0.72,High,H3_SBY_029,Dummy OSM/POI proxy
+POI_SBY_098,Training Center Surabaya 98,Education,Training Center,Surabaya,Tandes,-7.238413,112.681408,0.96,Medium,H3_SBY_030,Dummy OSM/POI proxy
+POI_SBY_099,Apartment Surabaya 99,Residential,Apartment,Surabaya,Rungkut,-7.318297,112.77865,0.55,High,H3_SBY_016,Dummy OSM/POI proxy
+POI_SBY_100,Mall Surabaya 100,Commercial,Mall,Surabaya,Tegalsari,-7.274934,112.739352,0.42,Low,H3_SBY_024,Dummy OSM/POI proxy
+POI_SBY_101,Shop House Surabaya 101,Commercial,Shop House,Surabaya,Wonokromo,-7.29909,112.720691,0.7,High,H3_SBY_009,Dummy OSM/POI proxy
+POI_SBY_102,Office Center Surabaya 102,Commercial,Office Center,Surabaya,Sukolilo,-7.308845,112.789368,0.53,Low,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_103,Shop House Surabaya 103,Commercial,Shop House,Surabaya,Tandes,-7.270592,112.666274,0.98,High,H3_SBY_012,Dummy OSM/POI proxy
+POI_SBY_104,Workshop Surabaya 104,Fuel & Mobility,Workshop,Surabaya,Wonokromo,-7.293025,112.732221,0.95,High,H3_SBY_002,Dummy OSM/POI proxy
+POI_SBY_105,Clinic Surabaya 105,Health,Clinic,Surabaya,Wiyung,-7.317445,112.703527,0.59,High,H3_SBY_008,Dummy OSM/POI proxy
+POI_SBY_106,Mall Surabaya 106,Commercial,Mall,Surabaya,Sukolilo,-7.300664,112.784017,0.94,Medium,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_107,Housing Complex Surabaya 107,Residential,Housing Complex,Surabaya,Tandes,-7.249824,112.707677,0.84,Medium,H3_SBY_030,Dummy OSM/POI proxy
+POI_SBY_108,Gas Station Surabaya 108,Fuel & Mobility,Gas Station,Surabaya,Rungkut,-7.312331,112.758653,0.92,High,H3_SBY_007,Dummy OSM/POI proxy
+POI_SBY_109,Parking Area Surabaya 109,Fuel & Mobility,Parking Area,Surabaya,Gubeng,-7.27944,112.740676,0.96,Medium,H3_SBY_014,Dummy OSM/POI proxy
+POI_SBY_110,Shop House Surabaya 110,Commercial,Shop House,Surabaya,Tegalsari,-7.281299,112.72899,0.88,Low,H3_SBY_024,Dummy OSM/POI proxy
+POI_SBY_111,Hospital Surabaya 111,Health,Hospital,Surabaya,Tandes,-7.263528,112.694817,0.88,High,H3_SBY_023,Dummy OSM/POI proxy
+POI_SBY_112,Market Surabaya 112,Commercial,Market,Surabaya,Rungkut,-7.310111,112.755067,0.47,Medium,H3_SBY_011,Dummy OSM/POI proxy
+POI_SBY_113,Station Surabaya 113,Transportation,Station,Surabaya,Tandes,-7.263474,112.677512,0.55,Low,H3_SBY_026,Dummy OSM/POI proxy
+POI_SBY_114,Training Center Surabaya 114,Education,Training Center,Surabaya,Sukolilo,-7.306715,112.778675,0.77,Low,H3_SBY_004,Dummy OSM/POI proxy
+POI_SBY_115,Office Center Surabaya 115,Commercial,Office Center,Surabaya,Tegalsari,-7.258564,112.739348,0.66,High,H3_SBY_028,Dummy OSM/POI proxy
+POI_SBY_116,Pharmacy Surabaya 116,Health,Pharmacy,Surabaya,Rungkut,-7.334391,112.781158,0.53,Low,H3_SBY_005,Dummy OSM/POI proxy
+POI_SBY_117,Office Center Surabaya 117,Commercial,Office Center,Surabaya,Gubeng,-7.276603,112.738866,0.92,Low,H3_SBY_014,Dummy OSM/POI proxy
+POI_SBY_118,Apartment Surabaya 118,Residential,Apartment,Surabaya,Gubeng,-7.249315,112.749532,0.48,High,H3_SBY_001,Dummy OSM/POI proxy
+POI_SBY_119,University Surabaya 119,Education,University,Surabaya,Tegalsari,-7.26595,112.738936,0.45,Medium,H3_SBY_028,Dummy OSM/POI proxy
+POI_SBY_120,Apartment Surabaya 120,Residential,Apartment,Surabaya,Sukolilo,-7.284973,112.781717,0.85,Medium,H3_SBY_006,Dummy OSM/POI proxy
+POI_SBY_121,Station Surabaya 121,Transportation,Station,Surabaya,Tandes,-7.238891,112.687922,0.96,Medium,H3_SBY_027,Dummy OSM/POI proxy
+POI_SBY_122,Public Service Office Surabaya 122,Public Service,Public Service Office,Surabaya,Tandes,-7.259737,112.712564,0.74,Medium,H3_SBY_010,Dummy OSM/POI proxy
+POI_SBY_123,Bus Stop Surabaya 123,Transportation,Bus Stop,Surabaya,Tegalsari,-7.274293,112.750649,0.37,Medium,H3_SBY_024,Dummy OSM/POI proxy
+POI_SBY_124,Station Surabaya 124,Transportation,Station,Surabaya,Wiyung,-7.31816,112.696085,0.65,Low,H3_SBY_008,Dummy OSM/POI proxy
+POI_SBY_125,University Surabaya 125,Education,University,Surabaya,Rungkut,-7.303967,112.783749,0.49,Medium,H3_SBY_016,Dummy OSM/POI proxy

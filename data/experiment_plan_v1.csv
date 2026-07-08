@@ -1,0 +1,7 @@
+﻿experiment_id,method,input_dataset,target_or_output,evaluation,purpose
+E1,Weighted Scoring,modeling_location_grid.csv,strategic_location_score,"business validation, sensitivity analysis",baseline lokasi strategis berbasis bobot manual
+E2,AHP + TOPSIS,modeling_location_grid.csv,location ranking,"consistency ratio, sensitivity analysis, ranking stability",ranking multi-kriteria secara transparan
+E3,K-Means,modeling_location_grid.csv,cluster_label,"silhouette score, Davies-Bouldin index, interpretasi cluster",segmentasi area customer dan pasar
+E4,DBSCAN,customer_master.csv + modeling_location_grid.csv,density cluster / noise,"cluster interpretability, spatial density validation",deteksi area padat customer dan outlier spasial
+E5,Random Forest,modeling_location_grid.csv,high_potential_flag / recommendation_category,"accuracy, precision, recall, F1, ROC-AUC, feature importance",prediksi lokasi potensial dan interpretasi faktor
+E6,XGBoost or LightGBM,modeling_location_grid.csv,high_potential_flag / recommendation_category,"accuracy, precision, recall, F1, ROC-AUC, SHAP",pembanding model boosting untuk data tabular

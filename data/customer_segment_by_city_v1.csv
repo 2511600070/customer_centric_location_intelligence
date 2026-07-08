@@ -1,0 +1,26 @@
+﻿city,customer_segment,count,percentage
+Jakarta,Regular,334,27.83
+Jakarta,Loyal,326,27.17
+Jakarta,At Risk,259,21.58
+Jakarta,Inactive,146,12.17
+Jakarta,New,135,11.25
+Bandung,Regular,349,31.73
+Bandung,Loyal,269,24.45
+Bandung,At Risk,203,18.45
+Bandung,Inactive,172,15.64
+Bandung,New,107,9.73
+Semarang,Regular,340,32.38
+Semarang,Loyal,262,24.95
+Semarang,At Risk,187,17.81
+Semarang,Inactive,145,13.81
+Semarang,New,116,11.05
+Yogyakarta,Regular,298,29.8
+Yogyakarta,Loyal,228,22.8
+Yogyakarta,At Risk,197,19.7
+Yogyakarta,Inactive,154,15.4
+Yogyakarta,New,123,12.3
+Surabaya,Regular,328,28.52
+Surabaya,Loyal,292,25.39
+Surabaya,At Risk,227,19.74
+Surabaya,Inactive,158,13.74
+Surabaya,New,145,12.61

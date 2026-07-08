@@ -1,0 +1,27 @@
+﻿branch_id,branch_name,city,province,district,subdistrict,latitude,longitude,branch_type,opening_year,service_capacity_per_day,avg_daily_transaction,avg_monthly_transaction,active_customer_coverage,coverage_radius_km,branch_performance_score,status,h3_index,data_source
+BR_JKT_01,Jakarta Service Point 1,Jakarta,DKI Jakarta,Menteng,Menteng,-6.210022,106.817291,Satellite Service,2024,101,69.1,1576.6,206,7.5,93.05,Active,H3_JKT_005,Internal dummy
+BR_JKT_02,Jakarta Service Point 2,Jakarta,DKI Jakarta,Kelapa Gading,Kelapa Gading Barat,-6.17256,106.883788,Service Point,2025,95,89.1,2222.7,70,5.0,71.91,Active,H3_JKT_010,Internal dummy
+BR_JKT_03,Jakarta Service Point 3,Jakarta,DKI Jakarta,Cilandak,Lebak Bulus,-6.278872,106.794853,Dealer,2024,59,54.4,1522.3,117,7.5,86.4,Active,H3_JKT_001,Internal dummy
+BR_JKT_04,Jakarta Service Point 4,Jakarta,DKI Jakarta,Kebayoran Baru,Gandaria Utara,-6.245587,106.80636,Service Point,2016,71,51.5,1386.1,127,7.5,76.47,Active,H3_JKT_013,Internal dummy
+BR_JKT_05,Jakarta Service Point 5,Jakarta,DKI Jakarta,Duren Sawit,Duren Sawit,-6.224788,106.913687,Service Point,2016,64,53.5,1321.2,110,7.5,72.83,Active,H3_JKT_011,Internal dummy
+BR_JKT_06,Jakarta Service Point 6,Jakarta,DKI Jakarta,Pasar Minggu,Jati Padang,-6.300414,106.836443,Service Point,2023,98,75.2,1922.3,165,3.0,86.45,Active,H3_JKT_020,Internal dummy
+BR_BDG_01,Bandung Service Point 1,Bandung,Jawa Barat,Gedebage,Cisaranten Kidul,-6.92957,107.692206,Service Point,2021,96,89.9,2034.9,251,5.0,66.21,Active,H3_BDG_022,Internal dummy
+BR_BDG_02,Bandung Service Point 2,Bandung,Jawa Barat,Ujungberung,Pasirwangi,-6.931252,107.681068,Service Point,2022,73,53.2,1416.9,130,3.0,70.76,Active,H3_BDG_012,Internal dummy
+BR_BDG_03,Bandung Service Point 3,Bandung,Jawa Barat,Coblong,Sekeloa,-6.909431,107.598197,Dealer,2016,98,90.0,2428.9,174,5.0,69.54,Active,H3_BDG_006,Internal dummy
+BR_BDG_04,Bandung Service Point 4,Bandung,Jawa Barat,Cicendo,Husein,-6.907109,107.581674,Dealer,2022,106,73.1,1924.9,66,5.0,60.49,Active,H3_BDG_021,Internal dummy
+BR_BDG_05,Bandung Service Point 5,Bandung,Jawa Barat,Antapani,Antapani Tengah,-6.90293,107.662924,Satellite Service,2016,47,41.8,1089.4,104,7.5,67.02,Active,H3_BDG_020,Internal dummy
+BR_SMG_01,Semarang Service Point 1,Semarang,Jawa Tengah,Semarang Barat,Krapyak,-7.0018,110.375665,Satellite Service,2021,68,42.5,1035.9,328,5.0,79.91,Active,H3_SMG_006,Internal dummy
+BR_SMG_02,Semarang Service Point 2,Semarang,Jawa Tengah,Semarang Barat,Manyaran,-6.991605,110.362844,Satellite Service,2016,71,47.0,1196.8,137,3.0,71.53,Active,H3_SMG_018,Internal dummy
+BR_SMG_03,Semarang Service Point 3,Semarang,Jawa Tengah,Semarang Tengah,Sekayu,-6.978948,110.419054,Satellite Service,2020,107,81.4,2082.4,191,7.5,62.23,Active,H3_SMG_011,Internal dummy
+BR_SMG_04,Semarang Service Point 4,Semarang,Jawa Tengah,Semarang Tengah,Miroto,-6.973688,110.404413,Satellite Service,2019,67,58.7,1615.0,21,7.5,62.96,Active,H3_SMG_014,Internal dummy
+BR_SMG_05,Semarang Service Point 5,Semarang,Jawa Tengah,Semarang Tengah,Sekayu,-6.963178,110.390429,Dealer,2023,68,47.6,1158.1,41,7.5,72.2,Active,H3_SMG_015,Internal dummy
+BR_YGY_01,Yogyakarta Service Point 1,Yogyakarta,DI Yogyakarta,Kasihan Bantul,Bangunjiwo,-7.835487,110.328575,Service Point,2019,67,51.7,1180.9,19,5.0,80.92,Active,H3_YGY_006,Internal dummy
+BR_YGY_02,Yogyakarta Service Point 2,Yogyakarta,DI Yogyakarta,Kasihan Bantul,Bangunjiwo,-7.814544,110.340495,Service Point,2023,107,64.7,1619.6,105,5.0,83.33,Active,H3_YGY_016,Internal dummy
+BR_YGY_03,Yogyakarta Service Point 3,Yogyakarta,DI Yogyakarta,Mantrijeron,Gedongkiwo,-7.796989,110.364068,Satellite Service,2015,107,66.0,1767.2,142,5.0,59.21,Active,H3_YGY_021,Internal dummy
+BR_YGY_04,Yogyakarta Service Point 4,Yogyakarta,DI Yogyakarta,Mlati Sleman,Tlogoadi,-7.742668,110.384425,Service Point,2023,103,80.0,2005.2,184,3.0,67.91,Active,H3_YGY_018,Internal dummy
+BR_YGY_05,Yogyakarta Service Point 5,Yogyakarta,DI Yogyakarta,Gondokusuman,Baciro,-7.811602,110.387927,Service Point,2023,50,42.7,995.4,199,3.0,85.23,Active,H3_YGY_023,Internal dummy
+BR_SBY_01,Surabaya Service Point 1,Surabaya,Jawa Timur,Tegalsari,Tegalsari,-7.26206,112.739413,Dealer,2022,89,79.6,2164.5,83,3.0,65.77,Active,H3_SBY_021,Internal dummy
+BR_SBY_02,Surabaya Service Point 2,Surabaya,Jawa Timur,Sukolilo,Keputih,-7.274014,112.781768,Dealer,2018,99,61.0,1639.8,376,7.5,70.98,Active,H3_SBY_025,Internal dummy
+BR_SBY_03,Surabaya Service Point 3,Surabaya,Jawa Timur,Wiyung,Jajar Tunggal,-7.312904,112.694311,Service Point,2019,86,81.0,2060.3,76,7.5,88.16,Active,H3_SBY_008,Internal dummy
+BR_SBY_04,Surabaya Service Point 4,Surabaya,Jawa Timur,Tandes,Tandes,-7.26343,112.708951,Service Point,2025,97,89.0,2025.8,164,3.0,63.41,Active,H3_SBY_010,Internal dummy
+BR_SBY_05,Surabaya Service Point 5,Surabaya,Jawa Timur,Tegalsari,Tegalsari,-7.261277,112.747137,Satellite Service,2025,95,70.8,1671.8,66,5.0,74.72,Active,H3_SBY_028,Internal dummy

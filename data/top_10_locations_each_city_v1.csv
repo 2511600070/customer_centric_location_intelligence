@@ -1,0 +1,51 @@
+﻿rank,area_id,city,district,subdistrict,centroid_latitude,centroid_longitude,customer_count,active_customer_ratio,customer_density_score,retention_risk_score,market_share_defense_score,new_customer_potential_score,accessibility_score,competition_pressure_score,strategic_location_score,recommendation_category,high_potential_flag,business_focus,city_rank
+3,AREA_JKT_005,Jakarta,Menteng,Menteng,-6.20422,106.811835,50,0.6,55.34,27.16,65.04,69.38,76.19,78.42,60.36,Cukup Potensial,0,Balanced potential,1
+4,AREA_JKT_007,Jakarta,Pasar Minggu,Jati Padang,-6.295723,106.832265,65,0.5846,65.61,35.29,59.84,62.68,71.93,54.2,59.58,Cukup Potensial,0,Balanced potential,2
+5,AREA_JKT_015,Jakarta,Duren Sawit,Pondok Kelapa,-6.22333,106.91832,62,0.6613,65.94,20.67,62.9,61.25,77.03,57.83,58.6,Cukup Potensial,0,Balanced potential,3
+8,AREA_JKT_003,Jakarta,Cilandak,Cilandak Barat,-6.278462,106.795032,42,0.6667,50.14,24.53,64.76,54.66,81.66,79.92,56.52,Cukup Potensial,0,Balanced potential,4
+9,AREA_JKT_009,Jakarta,Kebayoran Baru,Gandaria Utara,-6.254297,106.790906,58,0.6724,61.97,19.6,50.59,76.67,71.82,29.24,56.41,Cukup Potensial,0,Acquisition,5
+11,AREA_JKT_029,Jakarta,Cilandak,Cilandak Barat,-6.310775,106.802829,58,0.7069,62.31,22.05,51.35,74.27,69.07,29.07,56.01,Cukup Potensial,0,Acquisition,6
+13,AREA_JKT_021,Jakarta,Menteng,Cikini,-6.20059,106.823281,34,0.5882,40.58,32.19,65.92,60.92,66.26,97.66,55.49,Cukup Potensial,0,Balanced potential,7
+15,AREA_JKT_001,Jakarta,Cilandak,Lebak Bulus,-6.280494,106.798506,30,0.5333,35.75,44.49,63.37,59.19,62.72,99.17,55.03,Cukup Potensial,0,Balanced potential,8
+20,AREA_JKT_008,Jakarta,Duren Sawit,Klender,-6.209801,106.910392,40,0.675,47.63,25.26,54.7,70.13,64.94,55.79,53.62,Cukup Potensial,0,Acquisition,9
+23,AREA_JKT_010,Jakarta,Kelapa Gading,Kelapa Gading Barat,-6.173616,106.880478,47,0.5957,53.36,34.58,45.39,63.68,73.32,29.11,53.37,Cukup Potensial,0,Balanced potential,10
+1,AREA_BDG_007,Bandung,Gedebage,Rancabolang,-6.931143,107.693875,74,0.6216,73.58,30.32,65.38,62.08,80.29,58.0,63.01,Cukup Potensial,0,Balanced potential,11
+12,AREA_BDG_006,Bandung,Coblong,Sekeloa,-6.911288,107.597908,44,0.6591,51.18,27.77,56.48,58.92,81.77,57.37,55.6,Cukup Potensial,0,Balanced potential,12
+16,AREA_BDG_024,Bandung,Cicendo,Husein,-6.915719,107.58635,60,0.7333,67.47,16.96,64.52,51.94,66.49,56.62,54.73,Cukup Potensial,0,Balanced potential,13
+17,AREA_BDG_017,Bandung,Coblong,Sekeloa,-6.867191,107.618791,41,0.6341,45.6,44.54,60.68,53.25,64.58,75.91,54.57,Cukup Potensial,0,Balanced potential,14
+19,AREA_BDG_022,Bandung,Gedebage,Cisaranten Kidul,-6.940598,107.689055,43,0.4884,45.42,54.72,42.51,56.99,77.23,35.95,53.86,Cukup Potensial,0,Balanced potential,15
+33,AREA_BDG_008,Bandung,Cicendo,Husein,-6.898476,107.602033,31,0.7097,44.91,18.72,54.54,61.65,78.49,56.54,52.43,Cukup Potensial,0,Balanced potential,16
+35,AREA_BDG_019,Bandung,Buahbatu,Sekejati,-6.938356,107.65647,53,0.566,54.71,38.29,46.39,66.08,57.17,31.82,52.36,Cukup Potensial,0,Balanced potential,17
+37,AREA_BDG_018,Bandung,Ujungberung,Cigending,-6.917999,107.705186,53,0.6792,58.86,23.5,52.27,66.12,56.07,36.75,52.03,Cukup Potensial,0,Balanced potential,18
+39,AREA_BDG_021,Bandung,Cicendo,Husein,-6.904492,107.58092,30,0.7,43.42,15.11,54.5,65.38,74.39,58.58,51.74,Cukup Potensial,0,Balanced potential,19
+40,AREA_BDG_004,Bandung,Cicendo,Pajajaran,-6.910209,107.618029,34,0.7353,47.34,15.41,64.53,56.45,61.96,78.79,51.39,Cukup Potensial,0,Balanced potential,20
+14,AREA_SMG_012,Semarang,Gunungpati,Patemon,-7.099864,110.369678,56,0.6786,61.18,46.9,68.54,52.49,38.68,77.04,55.28,Cukup Potensial,0,Balanced potential,21
+28,AREA_SMG_028,Semarang,Banyumanik,Banyumanik,-7.061348,110.42231,38,0.6842,46.07,42.44,61.78,51.41,58.6,75.66,53.1,Cukup Potensial,0,Balanced potential,22
+42,AREA_SMG_024,Semarang,Gunungpati,Patemon,-7.086242,110.386535,45,0.7111,55.17,36.31,59.83,56.37,41.35,59.04,51.1,Cukup Potensial,0,Balanced potential,23
+51,AREA_SMG_014,Semarang,Semarang Tengah,Miroto,-6.971042,110.400865,39,0.6667,47.75,24.18,55.93,46.54,73.85,59.33,50.2,Cukup Potensial,0,Balanced potential,24
+53,AREA_SMG_004,Semarang,Semarang Barat,Kalibanteng Kidul,-6.976791,110.370064,52,0.6731,59.18,23.58,59.23,36.7,67.6,55.04,49.77,Kurang Potensial,0,Balanced potential,25
+61,AREA_SMG_003,Semarang,Gunungpati,Sekaran,-7.092789,110.413289,33,0.7576,45.63,30.07,56.66,64.72,41.02,58.79,49.2,Kurang Potensial,0,Balanced potential,26
+62,AREA_SMG_020,Semarang,Pedurungan,Tlogosari Kulon,-6.972262,110.499702,48,0.7292,57.56,34.48,51.15,54.41,47.43,32.62,49.05,Kurang Potensial,0,Balanced potential,27
+64,AREA_SMG_002,Semarang,Semarang Barat,Manyaran,-6.989208,110.366782,50,0.7,55.54,18.93,48.41,48.19,75.09,29.16,48.79,Kurang Potensial,0,Balanced potential,28
+69,AREA_SMG_015,Semarang,Semarang Tengah,Sekayu,-6.965698,110.388125,48,0.625,52.77,30.87,57.03,33.54,64.5,58.87,48.1,Kurang Potensial,0,Balanced potential,29
+74,AREA_SMG_022,Semarang,Gunungpati,Patemon,-7.095299,110.38035,54,0.7407,62.11,32.39,63.15,43.66,29.75,58.54,47.8,Kurang Potensial,0,Balanced potential,30
+22,AREA_YGY_013,Yogyakarta,Mantrijeron,Suryodiningratan,-7.797116,110.355624,63,0.7302,68.98,14.71,56.86,49.05,77.17,34.95,53.42,Cukup Potensial,0,Balanced potential,31
+26,AREA_YGY_020,Yogyakarta,Umbulharjo,Warungboto,-7.807551,110.389993,59,0.6271,59.58,31.41,58.62,50.11,62.98,55.41,53.19,Cukup Potensial,0,Balanced potential,32
+38,AREA_YGY_005,Yogyakarta,Kotagede,Rejowinangun,-7.816642,110.40605,46,0.6087,51.84,34.13,55.34,41.65,76.63,56.29,51.83,Cukup Potensial,0,Balanced potential,33
+45,AREA_YGY_017,Yogyakarta,Depok Sleman,Maguwoharjo,-7.756699,110.413514,47,0.617,52.72,38.03,56.0,41.64,64.38,56.62,50.7,Cukup Potensial,0,Balanced potential,34
+47,AREA_YGY_025,Yogyakarta,Gondokusuman,Kotabaru,-7.76724,110.375999,66,0.6364,67.22,35.03,52.85,41.82,58.77,31.28,50.66,Cukup Potensial,0,Balanced potential,35
+49,AREA_YGY_010,Yogyakarta,Mlati Sleman,Sinduadi,-7.718058,110.362349,75,0.56,70.53,45.93,44.77,35.98,65.6,10.39,50.51,Cukup Potensial,0,Balanced potential,36
+55,AREA_YGY_008,Yogyakarta,Kotagede,Prenggan,-7.821844,110.408102,43,0.5581,46.12,38.12,45.29,53.57,66.83,38.83,49.49,Kurang Potensial,0,Balanced potential,37
+56,AREA_YGY_021,Yogyakarta,Mantrijeron,Gedongkiwo,-7.790383,110.360197,26,0.7692,43.43,8.75,55.46,56.08,78.37,57.46,49.47,Kurang Potensial,0,Balanced potential,38
+63,AREA_YGY_015,Yogyakarta,Mantrijeron,Suryodiningratan,-7.816911,110.351793,50,0.68,58.14,22.21,52.39,42.29,70.41,37.83,48.94,Kurang Potensial,0,Balanced potential,39
+79,AREA_YGY_001,Yogyakarta,Gondokusuman,Terban,-7.786471,110.363968,43,0.6744,52.4,19.27,57.71,28.98,77.2,58.46,47.42,Kurang Potensial,0,Balanced potential,40
+2,AREA_SBY_013,Surabaya,Wonokromo,Darmo,-7.275756,112.767357,67,0.5522,64.48,41.57,67.04,51.8,73.22,76.08,60.55,Cukup Potensial,0,Balanced potential,41
+6,AREA_SBY_002,Surabaya,Wonokromo,Darmo,-7.293634,112.734139,65,0.7231,67.92,26.05,57.11,72.3,64.66,37.16,58.15,Cukup Potensial,0,Acquisition,42
+7,AREA_SBY_006,Surabaya,Sukolilo,Gebang Putih,-7.292274,112.781068,36,0.6944,46.17,18.9,70.04,66.0,73.09,96.75,57.57,Cukup Potensial,0,Market defense,43
+10,AREA_SBY_020,Surabaya,Gubeng,Gubeng,-7.268377,112.769626,70,0.6143,68.98,31.73,63.55,52.17,60.15,58.67,56.33,Cukup Potensial,0,Balanced potential,44
+18,AREA_SBY_004,Surabaya,Sukolilo,Keputih,-7.304389,112.788658,38,0.6579,46.86,32.52,62.7,61.48,58.29,78.58,54.16,Cukup Potensial,0,Balanced potential,45
+21,AREA_SBY_007,Surabaya,Rungkut,Medokan Ayu,-7.319651,112.762927,62,0.7258,67.88,25.56,56.28,62.81,51.4,34.87,53.45,Cukup Potensial,0,Balanced potential,46
+24,AREA_SBY_010,Surabaya,Tandes,Tandes,-7.267817,112.703938,64,0.6562,65.54,25.25,52.6,54.65,69.29,31.45,53.3,Cukup Potensial,0,Balanced potential,47
+25,AREA_SBY_014,Surabaya,Gubeng,Airlangga,-7.286902,112.748987,17,0.5882,29.07,43.81,52.8,62.88,74.77,75.87,53.25,Cukup Potensial,0,Balanced potential,48
+29,AREA_SBY_025,Surabaya,Sukolilo,Keputih,-7.273539,112.787864,35,0.7143,48.44,20.56,48.9,66.89,78.64,37.54,52.71,Cukup Potensial,0,Balanced potential,49
+30,AREA_SBY_016,Surabaya,Rungkut,Medokan Ayu,-7.309929,112.784716,48,0.6667,57.35,31.21,51.43,53.8,71.22,36.87,52.65,Cukup Potensial,0,Balanced potential,50

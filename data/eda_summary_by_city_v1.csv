@@ -1,0 +1,6 @@
+﻿city,customer_count,active_customers,risk_customers,inactive_customers,active_ratio_pct,risk_ratio_pct,inactive_ratio_pct,avg_recency_days,avg_transaction_frequency,avg_customer_value,avg_distance_to_branch_km,branch_count,competitor_count,poi_count,grid_area_count,avg_strategic_location_score,avg_retention_risk_score,avg_new_customer_potential_score,avg_market_share_defense_score,top_customer_segment,top_segment_count
+Jakarta,1200,795,259,146,66.25,21.58,12.17,105.98,2.52,14815715.0,2.92,6,18,125,30,49.93,27.3,56.81,50.53,Regular,334
+Bandung,1100,725,203,172,65.91,18.45,15.64,117.51,2.48,15335504.0,2.53,5,18,110,30,48.93,29.54,51.95,50.82,Regular,349
+Semarang,1050,718,187,145,68.38,17.81,13.81,109.71,2.61,14437087.0,6.54,5,18,110,30,45.36,36.8,43.12,50.13,Regular,340
+Yogyakarta,1000,649,197,154,64.9,19.7,15.4,115.87,2.41,14862035.0,2.11,5,18,110,30,45.2,28.66,38.4,48.67,Regular,298
+Surabaya,1150,765,227,158,66.52,19.74,13.74,113.64,2.57,15417357.0,2.78,5,18,125,30,49.1,27.97,52.24,51.08,Regular,328

@@ -1,0 +1,151 @@
+﻿rank,area_id,city,district,subdistrict,centroid_latitude,centroid_longitude,customer_count,active_customer_ratio,customer_density_score,retention_risk_score,market_share_defense_score,new_customer_potential_score,accessibility_score,competition_pressure_score,strategic_location_score,recommendation_category,recommendation_category_original,high_potential_flag,primary_business_objective
+1,AREA_BDG_007,Bandung,Gedebage,Rancabolang,-6.931143,107.693875,74,0.6216,73.58,30.32,65.38,62.08,80.29,58.0,63.01,Sangat Strategis,Cukup Potensial,1,Market share protection
+2,AREA_SBY_013,Surabaya,Wonokromo,Darmo,-7.275756,112.767357,67,0.5522,64.48,41.57,67.04,51.8,73.22,76.08,60.55,Sangat Strategis,Cukup Potensial,1,Market share protection
+3,AREA_JKT_005,Jakarta,Menteng,Menteng,-6.20422,106.811835,50,0.6,55.34,27.16,65.04,69.38,76.19,78.42,60.36,Sangat Strategis,Cukup Potensial,1,New customer acquisition
+4,AREA_JKT_007,Jakarta,Pasar Minggu,Jati Padang,-6.295723,106.832265,65,0.5846,65.61,35.29,59.84,62.68,71.93,54.2,59.58,Sangat Strategis,Cukup Potensial,1,New customer acquisition
+5,AREA_JKT_015,Jakarta,Duren Sawit,Pondok Kelapa,-6.22333,106.91832,62,0.6613,65.94,20.67,62.9,61.25,77.03,57.83,58.6,Sangat Strategis,Cukup Potensial,1,Market share protection
+6,AREA_SBY_002,Surabaya,Wonokromo,Darmo,-7.293634,112.734139,65,0.7231,67.92,26.05,57.11,72.3,64.66,37.16,58.15,Sangat Strategis,Cukup Potensial,1,New customer acquisition
+7,AREA_SBY_006,Surabaya,Sukolilo,Gebang Putih,-7.292274,112.781068,36,0.6944,46.17,18.9,70.04,66.0,73.09,96.75,57.57,Sangat Strategis,Cukup Potensial,1,Market share protection
+8,AREA_JKT_003,Jakarta,Cilandak,Cilandak Barat,-6.278462,106.795032,42,0.6667,50.14,24.53,64.76,54.66,81.66,79.92,56.52,Sangat Strategis,Cukup Potensial,1,Market share protection
+9,AREA_JKT_009,Jakarta,Kebayoran Baru,Gandaria Utara,-6.254297,106.790906,58,0.6724,61.97,19.6,50.59,76.67,71.82,29.24,56.41,Sangat Strategis,Cukup Potensial,1,New customer acquisition
+10,AREA_SBY_020,Surabaya,Gubeng,Gubeng,-7.268377,112.769626,70,0.6143,68.98,31.73,63.55,52.17,60.15,58.67,56.33,Sangat Strategis,Cukup Potensial,1,Market share protection
+11,AREA_JKT_029,Jakarta,Cilandak,Cilandak Barat,-6.310775,106.802829,58,0.7069,62.31,22.05,51.35,74.27,69.07,29.07,56.01,Sangat Strategis,Cukup Potensial,1,New customer acquisition
+12,AREA_BDG_006,Bandung,Coblong,Sekeloa,-6.911288,107.597908,44,0.6591,51.18,27.77,56.48,58.92,81.77,57.37,55.6,Sangat Strategis,Cukup Potensial,1,New customer acquisition
+13,AREA_JKT_021,Jakarta,Menteng,Cikini,-6.20059,106.823281,34,0.5882,40.58,32.19,65.92,60.92,66.26,97.66,55.49,Sangat Strategis,Cukup Potensial,1,Market share protection
+14,AREA_SMG_012,Semarang,Gunungpati,Patemon,-7.099864,110.369678,56,0.6786,61.18,46.9,68.54,52.49,38.68,77.04,55.28,Sangat Strategis,Cukup Potensial,1,Market share protection
+15,AREA_JKT_001,Jakarta,Cilandak,Lebak Bulus,-6.280494,106.798506,30,0.5333,35.75,44.49,63.37,59.19,62.72,99.17,55.03,Sangat Strategis,Cukup Potensial,1,Market share protection
+16,AREA_BDG_024,Bandung,Cicendo,Husein,-6.915719,107.58635,60,0.7333,67.47,16.96,64.52,51.94,66.49,56.62,54.73,Strategis,Cukup Potensial,1,Market share protection
+17,AREA_BDG_017,Bandung,Coblong,Sekeloa,-6.867191,107.618791,41,0.6341,45.6,44.54,60.68,53.25,64.58,75.91,54.57,Strategis,Cukup Potensial,1,Market share protection
+18,AREA_SBY_004,Surabaya,Sukolilo,Keputih,-7.304389,112.788658,38,0.6579,46.86,32.52,62.7,61.48,58.29,78.58,54.16,Strategis,Cukup Potensial,1,Market share protection
+19,AREA_BDG_022,Bandung,Gedebage,Cisaranten Kidul,-6.940598,107.689055,43,0.4884,45.42,54.72,42.51,56.99,77.23,35.95,53.86,Strategis,Cukup Potensial,1,New customer acquisition
+20,AREA_JKT_008,Jakarta,Duren Sawit,Klender,-6.209801,106.910392,40,0.675,47.63,25.26,54.7,70.13,64.94,55.79,53.62,Strategis,Cukup Potensial,1,New customer acquisition
+21,AREA_SBY_007,Surabaya,Rungkut,Medokan Ayu,-7.319651,112.762927,62,0.7258,67.88,25.56,56.28,62.81,51.4,34.87,53.45,Strategis,Cukup Potensial,1,New customer acquisition
+22,AREA_YGY_013,Yogyakarta,Mantrijeron,Suryodiningratan,-7.797116,110.355624,63,0.7302,68.98,14.71,56.86,49.05,77.17,34.95,53.42,Strategis,Cukup Potensial,1,Market share protection
+23,AREA_JKT_010,Jakarta,Kelapa Gading,Kelapa Gading Barat,-6.173616,106.880478,47,0.5957,53.36,34.58,45.39,63.68,73.32,29.11,53.37,Strategis,Cukup Potensial,1,New customer acquisition
+24,AREA_SBY_010,Surabaya,Tandes,Tandes,-7.267817,112.703938,64,0.6562,65.54,25.25,52.6,54.65,69.29,31.45,53.3,Strategis,Cukup Potensial,1,New customer acquisition
+25,AREA_SBY_014,Surabaya,Gubeng,Airlangga,-7.286902,112.748987,17,0.5882,29.07,43.81,52.8,62.88,74.77,75.87,53.25,Strategis,Cukup Potensial,1,New customer acquisition
+26,AREA_YGY_020,Yogyakarta,Umbulharjo,Warungboto,-7.807551,110.389993,59,0.6271,59.58,31.41,58.62,50.11,62.98,55.41,53.19,Strategis,Cukup Potensial,1,Market share protection
+27,AREA_JKT_027,Jakarta,Cilandak,Cilandak Barat,-6.293733,106.814322,44,0.6591,52.09,31.33,57.15,46.64,77.49,58.12,53.1,Strategis,Cukup Potensial,1,Market share protection
+28,AREA_SMG_028,Semarang,Banyumanik,Banyumanik,-7.061348,110.42231,38,0.6842,46.07,42.44,61.78,51.41,58.6,75.66,53.1,Strategis,Cukup Potensial,1,Market share protection
+29,AREA_SBY_025,Surabaya,Sukolilo,Keputih,-7.273539,112.787864,35,0.7143,48.44,20.56,48.9,66.89,78.64,37.54,52.71,Strategis,Cukup Potensial,1,New customer acquisition
+30,AREA_SBY_016,Surabaya,Rungkut,Medokan Ayu,-7.309929,112.784716,48,0.6667,57.35,31.21,51.43,53.8,71.22,36.87,52.65,Strategis,Cukup Potensial,1,New customer acquisition
+31,AREA_SBY_017,Surabaya,Rungkut,Kalirungkut,-7.315174,112.779585,57,0.6316,61.48,36.84,51.39,52.57,62.3,34.04,52.53,Strategis,Cukup Potensial,1,New customer acquisition
+32,AREA_JKT_028,Jakarta,Menteng,Gondangdia,-6.197334,106.821421,40,0.725,53.13,14.59,50.92,66.79,74.78,37.12,52.45,Strategis,Cukup Potensial,1,New customer acquisition
+33,AREA_BDG_008,Bandung,Cicendo,Husein,-6.898476,107.602033,31,0.7097,44.91,18.72,54.54,61.65,78.49,56.54,52.43,Strategis,Cukup Potensial,1,New customer acquisition
+34,AREA_SBY_024,Surabaya,Tegalsari,Keputran,-7.278801,112.741011,33,0.6061,42.29,32.48,51.75,66.65,65.12,57.54,52.43,Strategis,Cukup Potensial,1,New customer acquisition
+35,AREA_BDG_019,Bandung,Buahbatu,Sekejati,-6.938356,107.65647,53,0.566,54.71,38.29,46.39,66.08,57.17,31.82,52.36,Strategis,Cukup Potensial,1,New customer acquisition
+36,AREA_JKT_012,Jakarta,Menteng,Cikini,-6.213656,106.828306,56,0.7321,65.28,16.47,55.77,47.28,76.71,36.08,52.28,Strategis,Cukup Potensial,1,Market share protection
+37,AREA_BDG_018,Bandung,Ujungberung,Cigending,-6.917999,107.705186,53,0.6792,58.86,23.5,52.27,66.12,56.07,36.75,52.03,Strategis,Cukup Potensial,1,New customer acquisition
+38,AREA_YGY_005,Yogyakarta,Kotagede,Rejowinangun,-7.816642,110.40605,46,0.6087,51.84,34.13,55.34,41.65,76.63,56.29,51.83,Strategis,Cukup Potensial,1,Market share protection
+39,AREA_BDG_021,Bandung,Cicendo,Husein,-6.904492,107.58092,30,0.7,43.42,15.11,54.5,65.38,74.39,58.58,51.74,Strategis,Cukup Potensial,1,New customer acquisition
+40,AREA_BDG_004,Bandung,Cicendo,Pajajaran,-6.910209,107.618029,34,0.7353,47.34,15.41,64.53,56.45,61.96,78.79,51.39,Strategis,Cukup Potensial,1,Market share protection
+41,AREA_BDG_013,Bandung,Ujungberung,Cigending,-6.904554,107.686744,40,0.675,48.13,31.38,55.26,47.92,72.11,56.7,51.19,Strategis,Cukup Potensial,1,Market share protection
+42,AREA_SMG_024,Semarang,Gunungpati,Patemon,-7.086242,110.386535,45,0.7111,55.17,36.31,59.83,56.37,41.35,59.04,51.1,Strategis,Cukup Potensial,1,Market share protection
+43,AREA_BDG_026,Bandung,Ujungberung,Pasanggrahan,-6.909351,107.696112,49,0.7143,55.7,19.66,59.72,52.8,60.79,58.0,51.0,Strategis,Cukup Potensial,1,Market share protection
+44,AREA_JKT_018,Jakarta,Kembangan,Joglo,-6.217067,106.712124,64,0.7031,68.51,39.74,42.84,59.77,49.81,0.0,50.76,Strategis,Cukup Potensial,1,New customer acquisition
+45,AREA_YGY_017,Yogyakarta,Depok Sleman,Maguwoharjo,-7.756699,110.413514,47,0.617,52.72,38.03,56.0,41.64,64.38,56.62,50.7,Strategis,Cukup Potensial,1,Market share protection
+46,AREA_JKT_002,Jakarta,Pasar Minggu,Ragunan,-6.283044,106.854733,25,0.52,33.89,46.56,46.64,53.42,74.77,57.91,50.66,Cukup Potensial,Cukup Potensial,0,New customer acquisition
+47,AREA_YGY_025,Yogyakarta,Gondokusuman,Kotabaru,-7.76724,110.375999,66,0.6364,67.22,35.03,52.85,41.82,58.77,31.28,50.66,Cukup Potensial,Cukup Potensial,0,Market share protection
+48,AREA_JKT_025,Jakarta,Pasar Minggu,Pejaten Timur,-6.269957,106.846546,40,0.775,53.63,14.19,60.68,62.44,51.76,59.62,50.51,Cukup Potensial,Cukup Potensial,0,New customer acquisition
+49,AREA_YGY_010,Yogyakarta,Mlati Sleman,Sinduadi,-7.718058,110.362349,75,0.56,70.53,45.93,44.77,35.98,65.6,10.39,50.51,Cukup Potensial,Cukup Potensial,0,Customer retention
+50,AREA_SBY_026,Surabaya,Tandes,Tandes,-7.256624,112.672579,54,0.6667,59.89,32.05,51.64,49.04,60.44,34.62,50.39,Cukup Potensial,Cukup Potensial,0,Market share protection
+51,AREA_SMG_014,Semarang,Semarang Tengah,Miroto,-6.971042,110.400865,39,0.6667,47.75,24.18,55.93,46.54,73.85,59.33,50.2,Cukup Potensial,Cukup Potensial,0,Market share protection
+52,AREA_SBY_029,Surabaya,Tandes,Manukan Kulon,-7.245857,112.689143,15,0.6,28.56,27.05,53.54,58.57,75.29,77.75,49.82,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+53,AREA_SMG_004,Semarang,Semarang Barat,Kalibanteng Kidul,-6.976791,110.370064,52,0.6731,59.18,23.58,59.23,36.7,67.6,55.04,49.77,Cukup Potensial,Kurang Potensial,0,Market share protection
+54,AREA_SBY_021,Surabaya,Tegalsari,Tegalsari,-7.266432,112.739432,41,0.5366,44.63,36.69,51.22,45.72,68.72,57.21,49.51,Cukup Potensial,Kurang Potensial,0,Market share protection
+55,AREA_YGY_008,Yogyakarta,Kotagede,Prenggan,-7.821844,110.408102,43,0.5581,46.12,38.12,45.29,53.57,66.83,38.83,49.49,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+56,AREA_YGY_021,Yogyakarta,Mantrijeron,Gedongkiwo,-7.790383,110.360197,26,0.7692,43.43,8.75,55.46,56.08,78.37,57.46,49.47,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+57,AREA_JKT_006,Jakarta,Kelapa Gading,Kelapa Gading Timur,-6.158843,106.913992,48,0.6667,57.77,27.82,50.7,56.96,52.21,34.49,49.42,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+58,AREA_BDG_029,Bandung,Ujungberung,Pasanggrahan,-6.892352,107.69828,36,0.4722,37.84,55.44,46.55,50.44,58.34,55.83,49.38,Cukup Potensial,Kurang Potensial,0,Customer retention
+59,AREA_BDG_010,Bandung,Coblong,Sekeloa,-6.886335,107.623238,35,0.5429,40.44,52.48,50.52,34.52,72.66,59.67,49.32,Cukup Potensial,Kurang Potensial,0,Customer retention
+60,AREA_BDG_025,Bandung,Gedebage,Cimincrang,-6.978309,107.720326,39,0.7436,52.11,23.68,58.26,56.66,48.28,56.58,49.24,Cukup Potensial,Kurang Potensial,0,Market share protection
+61,AREA_SMG_003,Semarang,Gunungpati,Sekaran,-7.092789,110.413289,33,0.7576,45.63,30.07,56.66,64.72,41.02,58.79,49.2,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+62,AREA_SMG_020,Semarang,Pedurungan,Tlogosari Kulon,-6.972262,110.499702,48,0.7292,57.56,34.48,51.15,54.41,47.43,32.62,49.05,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+63,AREA_YGY_015,Yogyakarta,Mantrijeron,Suryodiningratan,-7.816911,110.351793,50,0.68,58.14,22.21,52.39,42.29,70.41,37.83,48.94,Cukup Potensial,Kurang Potensial,0,Market share protection
+64,AREA_SMG_002,Semarang,Semarang Barat,Manyaran,-6.989208,110.366782,50,0.7,55.54,18.93,48.41,48.19,75.09,29.16,48.79,Cukup Potensial,Kurang Potensial,0,Market share protection
+65,AREA_JKT_016,Jakarta,Menteng,Cikini,-6.218531,106.849258,38,0.6842,48.18,31.72,43.86,56.49,66.64,26.15,48.63,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+66,AREA_BDG_012,Bandung,Ujungberung,Pasirwangi,-6.931151,107.686178,33,0.7273,45.93,13.92,48.67,57.88,73.72,39.04,48.31,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+67,AREA_SBY_011,Surabaya,Rungkut,Kalirungkut,-7.310757,112.763635,30,0.6,37.08,48.06,49.87,42.78,65.16,58.67,48.25,Cukup Potensial,Kurang Potensial,0,Market share protection
+68,AREA_BDG_027,Bandung,Antapani,Antapani Tengah,-6.898594,107.667064,41,0.6098,46.82,31.11,44.76,52.65,67.69,33.95,48.12,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+69,AREA_SMG_015,Semarang,Semarang Tengah,Sekayu,-6.965698,110.388125,48,0.625,52.77,30.87,57.03,33.54,64.5,58.87,48.1,Cukup Potensial,Kurang Potensial,0,Market share protection
+70,AREA_BDG_030,Bandung,Coblong,Sekeloa,-6.885745,107.626581,24,0.75,43.61,19.65,62.99,54.42,47.86,78.08,48.09,Cukup Potensial,Kurang Potensial,0,Market share protection
+71,AREA_JKT_024,Jakarta,Pasar Minggu,Pejaten Timur,-6.297927,106.856388,50,0.76,60.14,13.87,53.85,49.3,59.86,35.25,47.93,Cukup Potensial,Kurang Potensial,0,Market share protection
+72,AREA_JKT_013,Jakarta,Kebayoran Baru,Gandaria Utara,-6.251943,106.805275,37,0.6757,45.16,20.49,44.23,64.3,64.83,30.91,47.89,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+73,AREA_BDG_028,Bandung,Buahbatu,Margasari,-6.953141,107.645788,36,0.6667,45.34,39.39,54.5,48.48,47.87,58.21,47.8,Cukup Potensial,Kurang Potensial,0,Market share protection
+74,AREA_SMG_022,Semarang,Gunungpati,Patemon,-7.095299,110.38035,54,0.7407,62.11,32.39,63.15,43.66,29.75,58.54,47.8,Cukup Potensial,Kurang Potensial,0,Market share protection
+75,AREA_JKT_011,Jakarta,Duren Sawit,Duren Sawit,-6.222796,106.9159,28,0.7857,44.92,4.82,49.08,54.98,83.34,38.16,47.66,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+76,AREA_SMG_027,Semarang,Gunungpati,Patemon,-7.08897,110.395528,54,0.7037,60.25,43.2,53.09,41.81,40.6,36.08,47.63,Cukup Potensial,Kurang Potensial,0,Market share protection
+77,AREA_SBY_001,Surabaya,Gubeng,Gubeng,-7.262836,112.758494,35,0.6286,44.72,29.63,45.46,54.98,63.98,37.12,47.59,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+78,AREA_JKT_022,Jakarta,Pasar Minggu,Ragunan,-6.278272,106.816306,39,0.5897,47.49,34.01,45.07,50.89,62.09,35.08,47.51,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+79,AREA_YGY_001,Yogyakarta,Gondokusuman,Terban,-7.786471,110.363968,43,0.6744,52.4,19.27,57.71,28.98,77.2,58.46,47.42,Cukup Potensial,Kurang Potensial,0,Market share protection
+80,AREA_SBY_008,Surabaya,Wiyung,Jajar Tunggal,-7.311938,112.689429,47,0.6383,53.36,33.54,41.72,42.44,72.88,17.23,47.2,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+81,AREA_BDG_002,Bandung,Buahbatu,Margasari,-6.948588,107.653379,33,0.7273,47.14,20.05,55.89,40.05,70.05,56.7,47.19,Cukup Potensial,Kurang Potensial,0,Market share protection
+82,AREA_JKT_019,Jakarta,Cengkareng,Duri Kosambi,-6.142108,106.751301,46,0.6087,51.4,51.97,54.82,48.59,24.87,55.41,47.18,Cukup Potensial,Kurang Potensial,0,Market share protection
+83,AREA_SBY_015,Surabaya,Sukolilo,Gebang Putih,-7.281809,112.791772,38,0.7105,49.49,16.15,57.18,36.5,73.01,58.37,47.12,Cukup Potensial,Kurang Potensial,0,Market share protection
+84,AREA_YGY_016,Yogyakarta,Kasihan Bantul,Bangunjiwo,-7.821084,110.347864,41,0.6098,47.8,32.22,53.58,40.27,57.63,56.08,46.78,Cukup Potensial,Kurang Potensial,0,Market share protection
+85,AREA_BDG_005,Bandung,Gedebage,Cisaranten Kidul,-6.945156,107.696881,39,0.6154,46.21,33.94,44.19,48.33,63.68,32.83,46.65,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+86,AREA_YGY_006,Yogyakarta,Kasihan Bantul,Bangunjiwo,-7.843562,110.33307,20,0.5,27.96,46.5,33.64,54.15,79.05,31.32,46.56,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+87,AREA_SBY_019,Surabaya,Sukolilo,Gebang Putih,-7.279821,112.805781,29,0.5862,39.46,44.9,41.18,54.63,55.28,33.91,46.39,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+88,AREA_BDG_016,Bandung,Sukajadi,Sukabungah,-6.89132,107.605504,21,0.7143,34.94,19.26,42.75,66.1,67.23,36.29,46.25,Cukup Potensial,Kurang Potensial,0,New customer acquisition
+89,AREA_SMG_029,Semarang,Gunungpati,Sekaran,-7.070298,110.378987,34,0.5294,40.58,64.43,40.07,51.9,38.14,32.74,45.99,Cukup Potensial,Kurang Potensial,0,Customer retention
+90,AREA_SMG_018,Semarang,Semarang Barat,Manyaran,-6.98682,110.358826,52,0.7692,62.45,7.03,52.61,38.27,69.07,28.95,45.94,Cukup Potensial,Kurang Potensial,0,Market share protection
+91,AREA_YGY_023,Yogyakarta,Gondokusuman,Baciro,-7.799787,110.391208,44,0.6591,50.73,26.69,47.61,34.56,72.7,34.54,45.69,Kurang Potensial,Kurang Potensial,0,Market share protection
+92,AREA_JKT_030,Jakarta,Duren Sawit,Klender,-6.248055,106.916182,34,0.5882,40.58,30.73,38.85,55.53,66.45,26.44,45.67,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+93,AREA_YGY_002,Yogyakarta,Mantrijeron,Mantrijeron,-7.827799,110.355889,24,0.5,30.27,44.72,52.46,35.23,63.21,78.29,45.67,Kurang Potensial,Kurang Potensial,0,Market share protection
+94,AREA_SMG_030,Semarang,Banyumanik,Srondol Kulon,-7.086629,110.43548,30,0.5,35.42,74.39,53.76,35.53,27.05,76.0,45.59,Kurang Potensial,Kurang Potensial,0,Customer retention
+95,AREA_BDG_015,Bandung,Buahbatu,Sekejati,-6.948843,107.640232,23,0.5217,30.32,61.01,38.03,36.95,68.57,39.12,45.02,Kurang Potensial,Kurang Potensial,0,Customer retention
+96,AREA_SMG_025,Semarang,Genuk,Terboyo Wetan,-6.976936,110.490921,31,0.6129,38.78,49.4,42.04,46.45,52.98,35.5,45.0,Kurang Potensial,Kurang Potensial,0,Customer retention
+97,AREA_SBY_030,Surabaya,Tandes,Tandes,-7.245398,112.694309,35,0.7429,47.01,17.14,48.87,50.2,59.86,37.54,44.98,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+98,AREA_BDG_001,Bandung,Ujungberung,Pasanggrahan,-6.909225,107.703822,34,0.7059,45.87,21.4,47.6,49.55,59.34,37.41,44.94,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+99,AREA_SMG_005,Semarang,Genuk,Karangroto,-6.95323,110.462484,43,0.7442,54.03,25.87,59.39,31.99,48.37,57.41,44.85,Kurang Potensial,Kurang Potensial,0,Market share protection
+100,AREA_SMG_016,Semarang,Banyumanik,Banyumanik,-7.078105,110.409084,39,0.6923,49.55,36.55,47.84,41.87,49.85,34.7,44.78,Kurang Potensial,Kurang Potensial,0,Market share protection
+101,AREA_SBY_022,Surabaya,Sukolilo,Menur Pumpungan,-7.264147,112.799363,24,0.75,40.27,14.81,44.51,48.81,77.24,33.16,44.77,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+102,AREA_YGY_012,Yogyakarta,Umbulharjo,Muja Muju,-7.821872,110.387071,15,0.6667,30.56,18.28,63.03,37.59,61.54,97.0,44.58,Kurang Potensial,Kurang Potensial,0,Market share protection
+103,AREA_SMG_007,Semarang,Pedurungan,Tlogosari Kulon,-7.017839,110.464866,23,0.6957,39.02,31.98,52.28,44.03,50.96,57.83,44.35,Kurang Potensial,Kurang Potensial,0,Market share protection
+104,AREA_SBY_012,Surabaya,Tandes,Balongsari,-7.271129,112.66739,28,0.6786,39.57,32.12,52.47,41.64,52.35,58.62,44.28,Kurang Potensial,Kurang Potensial,0,Market share protection
+105,AREA_SBY_028,Surabaya,Tegalsari,Tegalsari,-7.259957,112.744424,34,0.7647,45.87,9.34,47.52,42.05,76.98,34.12,44.18,Kurang Potensial,Kurang Potensial,0,Market share protection
+106,AREA_JKT_026,Jakarta,Kelapa Gading,Kelapa Gading Timur,-6.165595,106.89826,15,0.6667,26.56,17.63,46.54,52.05,74.93,58.04,44.13,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+107,AREA_SMG_009,Semarang,Tembalang,Tembalang,-7.060454,110.436675,24,0.6667,36.11,48.4,50.95,38.51,44.9,59.08,43.92,Kurang Potensial,Kurang Potensial,0,Market share protection
+108,AREA_YGY_004,Yogyakarta,Mantrijeron,Suryodiningratan,-7.797911,110.364783,27,0.7407,40.84,7.57,53.83,36.94,76.61,57.54,43.91,Kurang Potensial,Kurang Potensial,0,Market share protection
+109,AREA_YGY_019,Yogyakarta,Mantrijeron,Gedongkiwo,-7.827067,110.356801,25,0.8,42.29,9.7,56.1,36.6,68.55,58.79,43.6,Kurang Potensial,Kurang Potensial,0,Market share protection
+110,AREA_SMG_021,Semarang,Semarang Barat,Krapyak,-6.994883,110.351039,45,0.7111,55.17,19.61,46.48,26.88,73.68,23.9,43.28,Kurang Potensial,Kurang Potensial,0,Market share protection
+111,AREA_SBY_003,Surabaya,Kenjeran,Sidotopo Wetan,-7.239773,112.806228,30,0.6667,42.42,34.44,51.54,34.78,51.85,53.66,43.27,Kurang Potensial,Kurang Potensial,0,Market share protection
+112,AREA_SBY_009,Surabaya,Wonokromo,Darmo,-7.300416,112.722236,24,0.7083,38.19,15.88,41.92,51.14,70.17,30.82,43.21,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+113,AREA_YGY_030,Yogyakarta,Umbulharjo,Muja Muju,-7.805573,110.401253,27,0.6667,37.14,23.96,44.01,39.51,74.1,39.67,43.2,Kurang Potensial,Kurang Potensial,0,Market share protection
+114,AREA_SMG_013,Semarang,Genuk,Genuksari,-6.96104,110.483919,8,0.375,16.25,71.34,35.65,43.73,54.78,56.12,43.15,Kurang Potensial,Kurang Potensial,0,Customer retention
+115,AREA_BDG_003,Bandung,Cicendo,Husein,-6.875495,107.572669,23,0.6957,34.67,33.26,38.13,52.83,61.09,25.4,43.09,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+116,AREA_SMG_008,Semarang,Banyumanik,Pudakpayung,-7.065127,110.406086,30,0.7,40.75,38.7,42.92,42.94,53.87,31.07,43.04,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+117,AREA_YGY_018,Yogyakarta,Mlati Sleman,Tlogoadi,-7.743188,110.381165,36,0.6667,47.56,23.01,41.14,29.41,81.47,20.6,42.9,Kurang Potensial,Kurang Potensial,0,Market share protection
+118,AREA_BDG_020,Bandung,Antapani,Antapani Tengah,-6.908984,107.661178,21,0.7619,39.22,16.82,43.22,42.92,73.17,30.28,42.49,Kurang Potensial,Kurang Potensial,0,Market share protection
+119,AREA_YGY_011,Yogyakarta,Kotagede,Purbayan,-7.848993,110.422338,32,0.6875,39.79,35.48,52.66,22.27,63.32,58.42,42.49,Kurang Potensial,Kurang Potensial,0,Market share protection
+120,AREA_YGY_009,Yogyakarta,Kasihan Bantul,Bangunjiwo,-7.821765,110.352068,15,0.8,34.56,6.87,60.11,33.13,69.1,77.87,42.45,Kurang Potensial,Kurang Potensial,0,Market share protection
+121,AREA_BDG_014,Bandung,Sukajadi,Sukabungah,-6.879863,107.608443,23,0.7826,39.02,20.43,45.74,53.65,51.04,36.04,42.37,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+122,AREA_SMG_001,Semarang,Pedurungan,Tlogosari Kulon,-6.984602,110.465435,29,0.6897,40.5,30.59,42.09,50.34,49.37,29.7,42.33,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+123,AREA_YGY_026,Yogyakarta,Kasihan Bantul,Bangunjiwo,-7.842262,110.358234,13,0.5385,24.5,39.11,50.59,40.33,51.88,77.71,42.33,Kurang Potensial,Kurang Potensial,0,Market share protection
+124,AREA_SBY_023,Surabaya,Tandes,Manukan Kulon,-7.258663,112.688283,26,0.8077,46.13,9.56,49.16,41.06,63.97,35.87,42.23,Kurang Potensial,Kurang Potensial,0,Market share protection
+125,AREA_JKT_023,Jakarta,Menteng,Menteng,-6.202791,106.838776,32,0.6562,41.35,29.05,42.24,41.3,59.37,30.91,42.07,Kurang Potensial,Kurang Potensial,0,Market share protection
+126,AREA_BDG_011,Bandung,Buahbatu,Margasari,-6.962728,107.650962,26,0.6538,36.89,33.5,42.68,36.93,63.99,37.12,42.02,Kurang Potensial,Kurang Potensial,0,Market share protection
+127,AREA_YGY_014,Yogyakarta,Umbulharjo,Warungboto,-7.807696,110.378486,8,0.625,23.75,34.26,37.25,43.7,75.87,38.87,41.87,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+128,AREA_BDG_009,Bandung,Gedebage,Rancabolang,-6.968072,107.699623,31,0.6452,39.75,34.44,40.63,42.24,56.14,29.03,41.86,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+129,AREA_JKT_020,Jakarta,Pasar Minggu,Jati Padang,-6.291423,106.836817,20,0.7,39.96,13.16,44.32,48.71,61.23,35.62,41.78,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+130,AREA_BDG_023,Bandung,Antapani,Antapani Kidul,-6.914151,107.6535,30,0.7,44.75,20.12,42.69,34.34,71.23,26.03,41.71,Kurang Potensial,Kurang Potensial,0,Market share protection
+131,AREA_SBY_005,Surabaya,Rungkut,Kalirungkut,-7.329933,112.784107,20,0.75,34.46,21.11,39.95,51.85,63.13,27.57,41.67,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+132,AREA_YGY_029,Yogyakarta,Kotagede,Rejowinangun,-7.833685,110.415226,20,0.6,30.96,49.0,38.43,30.12,68.26,35.33,41.57,Kurang Potensial,Kurang Potensial,0,Customer retention
+133,AREA_YGY_003,Yogyakarta,Mantrijeron,Mantrijeron,-7.820168,110.356391,15,0.4667,19.22,59.81,32.61,36.19,69.89,40.0,41.51,Kurang Potensial,Kurang Potensial,0,Customer retention
+134,AREA_SMG_011,Semarang,Semarang Tengah,Sekayu,-6.97959,110.417194,14,0.6429,28.05,28.22,46.0,42.2,61.22,56.2,41.47,Kurang Potensial,Kurang Potensial,0,Market share protection
+135,AREA_SBY_018,Surabaya,Wiyung,Jajar Tunggal,-7.339133,112.688584,31,0.7742,46.84,22.17,38.01,50.3,53.4,7.51,41.21,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+136,AREA_YGY_027,Yogyakarta,Mlati Sleman,Sinduadi,-7.740953,110.368495,34,0.6765,44.99,26.07,40.37,39.37,59.16,20.9,41.1,Kurang Potensial,Kurang Potensial,0,Market share protection
+137,AREA_SMG_006,Semarang,Semarang Barat,Krapyak,-7.002264,110.371615,21,0.7143,33.99,8.36,37.39,44.81,85.27,23.23,41.06,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+138,AREA_SMG_010,Semarang,Tembalang,Sendangmulyo,-7.06711,110.441522,26,0.7308,43.05,37.7,46.5,35.46,41.83,36.33,40.6,Kurang Potensial,Kurang Potensial,0,Market share protection
+139,AREA_YGY_022,Yogyakarta,Kotagede,Prenggan,-7.832872,110.379815,22,0.6818,35.45,27.77,42.44,25.89,72.94,36.62,39.81,Kurang Potensial,Kurang Potensial,0,Market share protection
+140,AREA_SBY_027,Surabaya,Tandes,Manukan Kulon,-7.239536,112.68393,17,0.6471,32.01,27.96,40.91,46.58,51.2,38.21,39.74,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+141,AREA_SMG_019,Semarang,Banyumanik,Srondol Kulon,-7.089717,110.413963,14,0.7143,33.05,45.01,50.76,23.79,46.27,59.46,39.68,Kurang Potensial,Kurang Potensial,0,Market share protection
+142,AREA_YGY_024,Yogyakarta,Depok Sleman,Condongcatur,-7.753265,110.425378,23,0.7826,39.02,20.68,45.58,38.53,54.36,35.62,39.6,Kurang Potensial,Kurang Potensial,0,Market share protection
+143,AREA_SMG_026,Semarang,Pedurungan,Gemah,-6.986294,110.497437,18,0.7778,34.13,27.46,41.4,53.82,37.39,30.28,39.06,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+144,AREA_SMG_017,Semarang,Tembalang,Tembalang,-7.047757,110.455674,34,0.5882,42.34,48.77,40.67,33.27,31.17,29.28,38.52,Kurang Potensial,Kurang Potensial,0,Customer retention
+145,AREA_SMG_023,Semarang,Gunungpati,Patemon,-7.08663,110.394031,18,0.6667,30.8,46.87,40.41,37.92,37.67,37.21,38.16,Kurang Potensial,Kurang Potensial,0,Customer retention
+146,AREA_JKT_014,Jakarta,Kebayoran Baru,Gandaria Utara,-6.216109,106.793694,17,0.6471,30.84,30.72,38.45,37.9,56.02,33.03,38.13,Kurang Potensial,Kurang Potensial,0,Market share protection
+147,AREA_JKT_004,Jakarta,Kembangan,Meruya Utara,-6.211778,106.741564,26,0.7692,42.66,21.48,37.61,45.27,44.4,11.35,37.67,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+148,AREA_YGY_028,Yogyakarta,Mlati Sleman,Sinduadi,-7.748244,110.379752,25,0.64,35.89,33.07,36.55,30.19,59.54,22.82,37.67,Kurang Potensial,Kurang Potensial,0,Market share protection
+149,AREA_JKT_017,Jakarta,Kembangan,Meruya Utara,-6.216611,106.742329,15,0.6,28.56,42.74,28.31,52.77,41.89,11.35,37.52,Kurang Potensial,Kurang Potensial,0,New customer acquisition
+150,AREA_YGY_007,Yogyakarta,Gondokusuman,Terban,-7.783968,110.381459,16,0.8125,34.1,7.41,42.97,26.82,77.17,32.62,37.07,Kurang Potensial,Kurang Potensial,0,Market share protection

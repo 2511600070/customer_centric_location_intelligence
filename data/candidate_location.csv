@@ -1,0 +1,41 @@
+﻿candidate_id,candidate_name,city,district,subdistrict,latitude,longitude,location_type,rent_cost_estimation,road_access_level,parking_availability,visibility_score,h3_index,status
+LOC_JKT_001,Kandidat Jakarta 1,Jakarta,Menteng,Menteng,-6.207073,106.812537,Service Point,255000000,Medium,High,88.83,H3_JKT_005,Candidate
+LOC_JKT_002,Kandidat Jakarta 2,Jakarta,Duren Sawit,Klender,-6.214512,106.909126,Mobile Service Hub,209000000,Low,High,61.38,H3_JKT_008,Candidate
+LOC_JKT_003,Kandidat Jakarta 3,Jakarta,Pasar Minggu,Ragunan,-6.276835,106.816531,New Branch,93000000,High,High,60.3,H3_JKT_022,Candidate
+LOC_JKT_004,Kandidat Jakarta 4,Jakarta,Kelapa Gading,Kelapa Gading Timur,-6.1598,106.891443,New Branch,82000000,Low,Low,80.91,H3_JKT_026,Candidate
+LOC_JKT_005,Kandidat Jakarta 5,Jakarta,Cilandak,Lebak Bulus,-6.280411,106.797579,Mobile Service Hub,130000000,Low,High,50.51,H3_JKT_001,Candidate
+LOC_JKT_006,Kandidat Jakarta 6,Jakarta,Pasar Minggu,Jati Padang,-6.288946,106.83797,New Branch,143000000,High,High,72.61,H3_JKT_020,Candidate
+LOC_JKT_007,Kandidat Jakarta 7,Jakarta,Pasar Minggu,Pejaten Timur,-6.304593,106.855763,Service Point,186000000,High,Medium,69.13,H3_JKT_024,Candidate
+LOC_JKT_008,Kandidat Jakarta 8,Jakarta,Menteng,Cikini,-6.196662,106.82244,Mobile Service Hub,111000000,Medium,High,56.99,H3_JKT_021,Candidate
+LOC_BDG_001,Kandidat Bandung 1,Bandung,Buahbatu,Sekejati,-6.935099,107.656765,Mobile Service Hub,311000000,Medium,Low,90.55,H3_BDG_019,Candidate
+LOC_BDG_002,Kandidat Bandung 2,Bandung,Ujungberung,Pasanggrahan,-6.910826,107.696929,New Branch,185000000,High,Medium,79.94,H3_BDG_026,Candidate
+LOC_BDG_003,Kandidat Bandung 3,Bandung,Ujungberung,Pasanggrahan,-6.892581,107.706304,Mobile Service Hub,287000000,Medium,High,58.02,H3_BDG_029,Candidate
+LOC_BDG_004,Kandidat Bandung 4,Bandung,Cicendo,Husein,-6.874295,107.574077,New Branch,83000000,Medium,Medium,45.71,H3_BDG_003,Candidate
+LOC_BDG_005,Kandidat Bandung 5,Bandung,Coblong,Sekeloa,-6.912451,107.59694,Service Point,133000000,High,Low,56.47,H3_BDG_006,Candidate
+LOC_BDG_006,Kandidat Bandung 6,Bandung,Buahbatu,Margasari,-6.961976,107.651408,Mobile Service Hub,102000000,Medium,Low,76.62,H3_BDG_028,Candidate
+LOC_BDG_007,Kandidat Bandung 7,Bandung,Antapani,Antapani Tengah,-6.90078,107.666271,Service Point,85000000,High,Medium,58.85,H3_BDG_027,Candidate
+LOC_BDG_008,Kandidat Bandung 8,Bandung,Antapani,Antapani Tengah,-6.916581,107.66487,Service Point,138000000,High,High,72.97,H3_BDG_020,Candidate
+LOC_SMG_001,Kandidat Semarang 1,Semarang,Genuk,Karangroto,-6.95375,110.455585,Service Point,226000000,Low,High,77.34,H3_SMG_005,Candidate
+LOC_SMG_002,Kandidat Semarang 2,Semarang,Banyumanik,Srondol Kulon,-7.090497,110.429538,Mobile Service Hub,136000000,Medium,High,48.09,H3_SMG_030,Candidate
+LOC_SMG_003,Kandidat Semarang 3,Semarang,Tembalang,Tembalang,-7.03582,110.451751,New Branch,190000000,Low,Low,70.57,H3_SMG_017,Candidate
+LOC_SMG_004,Kandidat Semarang 4,Semarang,Tembalang,Sendangmulyo,-7.069416,110.430905,Service Point,316000000,Medium,Low,83.2,H3_SMG_010,Candidate
+LOC_SMG_005,Kandidat Semarang 5,Semarang,Semarang Barat,Manyaran,-6.995616,110.370661,New Branch,106000000,Medium,Low,75.52,H3_SMG_002,Candidate
+LOC_SMG_006,Kandidat Semarang 6,Semarang,Gunungpati,Sekaran,-7.081921,110.414996,Service Point,315000000,Low,High,65.83,H3_SMG_003,Candidate
+LOC_SMG_007,Kandidat Semarang 7,Semarang,Gunungpati,Patemon,-7.090948,110.387879,Service Point,276000000,High,High,92.08,H3_SMG_027,Candidate
+LOC_SMG_008,Kandidat Semarang 8,Semarang,Tembalang,Tembalang,-7.051819,110.445167,Service Point,237000000,High,High,73.39,H3_SMG_009,Candidate
+LOC_YGY_001,Kandidat Yogyakarta 1,Yogyakarta,Gondokusuman,Terban,-7.792587,110.382404,Mobile Service Hub,292000000,High,High,50.26,H3_YGY_007,Candidate
+LOC_YGY_002,Kandidat Yogyakarta 2,Yogyakarta,Kotagede,Prenggan,-7.832818,110.380055,New Branch,294000000,Low,Low,67.97,H3_YGY_022,Candidate
+LOC_YGY_003,Kandidat Yogyakarta 3,Yogyakarta,Mantrijeron,Gedongkiwo,-7.796374,110.355192,Service Point,230000000,Medium,Medium,48.5,H3_YGY_021,Candidate
+LOC_YGY_004,Kandidat Yogyakarta 4,Yogyakarta,Kotagede,Prenggan,-7.818329,110.409633,New Branch,127000000,High,Low,66.79,H3_YGY_008,Candidate
+LOC_YGY_005,Kandidat Yogyakarta 5,Yogyakarta,Mantrijeron,Mantrijeron,-7.82259,110.352049,Mobile Service Hub,219000000,Medium,Low,65.79,H3_YGY_002,Candidate
+LOC_YGY_006,Kandidat Yogyakarta 6,Yogyakarta,Mlati Sleman,Sinduadi,-7.73637,110.370892,New Branch,199000000,Medium,High,63.88,H3_YGY_027,Candidate
+LOC_YGY_007,Kandidat Yogyakarta 7,Yogyakarta,Mantrijeron,Gedongkiwo,-7.823891,110.356413,Mobile Service Hub,215000000,High,Low,87.37,H3_YGY_019,Candidate
+LOC_YGY_008,Kandidat Yogyakarta 8,Yogyakarta,Gondokusuman,Kotabaru,-7.769566,110.37637,Service Point,142000000,Low,Medium,71.95,H3_YGY_025,Candidate
+LOC_SBY_001,Kandidat Surabaya 1,Surabaya,Rungkut,Kalirungkut,-7.308937,112.755687,Mobile Service Hub,231000000,Medium,Low,65.47,H3_SBY_011,Candidate
+LOC_SBY_002,Kandidat Surabaya 2,Surabaya,Tandes,Manukan Kulon,-7.262007,112.682905,Service Point,284000000,Low,Low,94.93,H3_SBY_023,Candidate
+LOC_SBY_003,Kandidat Surabaya 3,Surabaya,Tegalsari,Tegalsari,-7.261886,112.738292,New Branch,249000000,Medium,Medium,67.91,H3_SBY_021,Candidate
+LOC_SBY_004,Kandidat Surabaya 4,Surabaya,Rungkut,Medokan Ayu,-7.311702,112.778744,Mobile Service Hub,249000000,Low,Medium,90.01,H3_SBY_016,Candidate
+LOC_SBY_005,Kandidat Surabaya 5,Surabaya,Wiyung,Jajar Tunggal,-7.342414,112.698517,New Branch,188000000,High,High,94.84,H3_SBY_018,Candidate
+LOC_SBY_006,Kandidat Surabaya 6,Surabaya,Sukolilo,Keputih,-7.275364,112.786604,Service Point,133000000,Medium,Low,93.16,H3_SBY_025,Candidate
+LOC_SBY_007,Kandidat Surabaya 7,Surabaya,Kenjeran,Sidotopo Wetan,-7.235447,112.80566,Service Point,115000000,Medium,High,83.43,H3_SBY_003,Candidate
+LOC_SBY_008,Kandidat Surabaya 8,Surabaya,Wonokromo,Darmo,-7.303839,112.740476,Service Point,225000000,Medium,Medium,70.82,H3_SBY_002,Candidate

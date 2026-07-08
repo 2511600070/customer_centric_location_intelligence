@@ -1,0 +1,6 @@
+city,area_count,avg_strategic_location_score,top_area_id,top_district,top_subdistrict,top_score,dominant_objective,high_potential_area_count,avg_customer_density_score,avg_retention_risk_score,avg_new_customer_potential_score
+Jakarta,30,49.93,AREA_JKT_005,Menteng,Menteng,60.36,New customer acquisition,14,49.02,27.3,56.81
+Surabaya,30,49.1,AREA_SBY_013,Wonokromo,Darmo,60.55,New customer acquisition,12,47.88,27.97,52.24
+Bandung,30,48.93,AREA_BDG_007,Gedebage,Rancabolang,63.01,New customer acquisition,12,46.24,29.54,51.95
+Semarang,30,45.36,AREA_SMG_012,Gunungpati,Patemon,55.28,Market share protection,3,45.24,36.8,43.12
+Yogyakarta,30,45.2,AREA_YGY_013,Mantrijeron,Suryodiningratan,53.42,Market share protection,4,42.94,28.66,38.4

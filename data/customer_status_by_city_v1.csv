@@ -1,0 +1,16 @@
+﻿city,customer_status,count,percentage
+Jakarta,Active,795,66.25
+Jakarta,Risk,259,21.58
+Jakarta,Inactive,146,12.17
+Bandung,Active,725,65.91
+Bandung,Risk,203,18.45
+Bandung,Inactive,172,15.64
+Semarang,Active,718,68.38
+Semarang,Risk,187,17.81
+Semarang,Inactive,145,13.81
+Yogyakarta,Active,649,64.9
+Yogyakarta,Risk,197,19.7
+Yogyakarta,Inactive,154,15.4
+Surabaya,Active,765,66.52
+Surabaya,Risk,227,19.74
+Surabaya,Inactive,158,13.74

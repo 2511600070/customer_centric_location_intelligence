@@ -1,0 +1,41 @@
+﻿candidate_id,candidate_name,city,district,subdistrict,latitude,longitude,location_type,rent_cost_estimation,visibility_score,nearest_area_id,nearest_area_district,nearest_area_subdistrict,strategic_location_score_proxy,recommendation_category_proxy,business_focus_proxy,candidate_rank
+LOC_JKT_001,Kandidat Jakarta 1,Jakarta,Menteng,Menteng,-6.207073,106.812537,Service Point,255000000,88.83,AREA_JKT_005,Menteng,Menteng,60.36,Cukup Potensial,Balanced potential,1
+LOC_SBY_008,Kandidat Surabaya 8,Surabaya,Wonokromo,Darmo,-7.303839,112.740476,Service Point,225000000,70.82,AREA_SBY_002,Wonokromo,Darmo,58.15,Cukup Potensial,Acquisition,2
+LOC_BDG_005,Kandidat Bandung 5,Bandung,Coblong,Sekeloa,-6.912451,107.59694,Service Point,133000000,56.47,AREA_BDG_006,Coblong,Sekeloa,55.6,Cukup Potensial,Balanced potential,3
+LOC_JKT_005,Kandidat Jakarta 5,Jakarta,Cilandak,Lebak Bulus,-6.280411,106.797579,Mobile Service Hub,130000000,50.51,AREA_JKT_001,Cilandak,Lebak Bulus,55.03,Cukup Potensial,Balanced potential,4
+LOC_JKT_002,Kandidat Jakarta 2,Jakarta,Duren Sawit,Klender,-6.214512,106.909126,Mobile Service Hub,209000000,61.38,AREA_JKT_008,Duren Sawit,Klender,53.62,Cukup Potensial,Acquisition,5
+LOC_YGY_003,Kandidat Yogyakarta 3,Yogyakarta,Mantrijeron,Gedongkiwo,-7.796374,110.355192,Service Point,230000000,48.5,AREA_YGY_013,Mantrijeron,Suryodiningratan,53.42,Cukup Potensial,Balanced potential,6
+LOC_SBY_006,Kandidat Surabaya 6,Surabaya,Sukolilo,Keputih,-7.275364,112.786604,Service Point,133000000,93.16,AREA_SBY_025,Sukolilo,Keputih,52.71,Cukup Potensial,Balanced potential,7
+LOC_SBY_004,Kandidat Surabaya 4,Surabaya,Rungkut,Medokan Ayu,-7.311702,112.778744,Mobile Service Hub,249000000,90.01,AREA_SBY_017,Rungkut,Kalirungkut,52.53,Cukup Potensial,Balanced potential,8
+LOC_JKT_008,Kandidat Jakarta 8,Jakarta,Menteng,Cikini,-6.196662,106.82244,Mobile Service Hub,111000000,56.99,AREA_JKT_028,Menteng,Gondangdia,52.45,Cukup Potensial,Balanced potential,9
+LOC_BDG_001,Kandidat Bandung 1,Bandung,Buahbatu,Sekejati,-6.935099,107.656765,Mobile Service Hub,311000000,90.55,AREA_BDG_019,Buahbatu,Sekejati,52.36,Cukup Potensial,Balanced potential,10
+LOC_SMG_007,Kandidat Semarang 7,Semarang,Gunungpati,Patemon,-7.090948,110.387879,Service Point,276000000,92.08,AREA_SMG_024,Gunungpati,Patemon,51.1,Cukup Potensial,Balanced potential,11
+LOC_BDG_002,Kandidat Bandung 2,Bandung,Ujungberung,Pasanggrahan,-6.910826,107.696929,New Branch,185000000,79.94,AREA_BDG_026,Ujungberung,Pasanggrahan,51.0,Cukup Potensial,Balanced potential,12
+LOC_YGY_008,Kandidat Yogyakarta 8,Yogyakarta,Gondokusuman,Kotabaru,-7.769566,110.37637,Service Point,142000000,71.95,AREA_YGY_025,Gondokusuman,Kotabaru,50.66,Cukup Potensial,Balanced potential,13
+LOC_SBY_003,Kandidat Surabaya 3,Surabaya,Tegalsari,Tegalsari,-7.261886,112.738292,New Branch,249000000,67.91,AREA_SBY_021,Tegalsari,Tegalsari,49.51,Kurang Potensial,Balanced potential,14
+LOC_YGY_004,Kandidat Yogyakarta 4,Yogyakarta,Kotagede,Prenggan,-7.818329,110.409633,New Branch,127000000,66.79,AREA_YGY_008,Kotagede,Prenggan,49.49,Kurang Potensial,Balanced potential,15
+LOC_BDG_003,Kandidat Bandung 3,Bandung,Ujungberung,Pasanggrahan,-6.892581,107.706304,Mobile Service Hub,287000000,58.02,AREA_BDG_029,Ujungberung,Pasanggrahan,49.38,Kurang Potensial,Balanced potential,16
+LOC_SBY_001,Kandidat Surabaya 1,Surabaya,Rungkut,Kalirungkut,-7.308937,112.755687,Mobile Service Hub,231000000,65.47,AREA_SBY_011,Rungkut,Kalirungkut,48.25,Kurang Potensial,Balanced potential,17
+LOC_BDG_007,Kandidat Bandung 7,Bandung,Antapani,Antapani Tengah,-6.90078,107.666271,Service Point,85000000,58.85,AREA_BDG_027,Antapani,Antapani Tengah,48.12,Kurang Potensial,Balanced potential,18
+LOC_JKT_007,Kandidat Jakarta 7,Jakarta,Pasar Minggu,Pejaten Timur,-6.304593,106.855763,Service Point,186000000,69.13,AREA_JKT_024,Pasar Minggu,Pejaten Timur,47.93,Kurang Potensial,Balanced potential,19
+LOC_JKT_003,Kandidat Jakarta 3,Jakarta,Pasar Minggu,Ragunan,-6.276835,106.816531,New Branch,93000000,60.3,AREA_JKT_022,Pasar Minggu,Ragunan,47.51,Kurang Potensial,Balanced potential,20
+LOC_SMG_002,Kandidat Semarang 2,Semarang,Banyumanik,Srondol Kulon,-7.090497,110.429538,Mobile Service Hub,136000000,48.09,AREA_SMG_030,Banyumanik,Srondol Kulon,45.59,Kurang Potensial,Balanced potential,21
+LOC_SMG_001,Kandidat Semarang 1,Semarang,Genuk,Karangroto,-6.95375,110.455585,Service Point,226000000,77.34,AREA_SMG_005,Genuk,Karangroto,44.85,Kurang Potensial,Balanced potential,22
+LOC_SMG_006,Kandidat Semarang 6,Semarang,Gunungpati,Sekaran,-7.081921,110.414996,Service Point,315000000,65.83,AREA_SMG_016,Banyumanik,Banyumanik,44.78,Kurang Potensial,Balanced potential,23
+LOC_JKT_004,Kandidat Jakarta 4,Jakarta,Kelapa Gading,Kelapa Gading Timur,-6.1598,106.891443,New Branch,82000000,80.91,AREA_JKT_026,Kelapa Gading,Kelapa Gading Timur,44.13,Kurang Potensial,Balanced potential,24
+LOC_SMG_004,Kandidat Semarang 4,Semarang,Tembalang,Sendangmulyo,-7.069416,110.430905,Service Point,316000000,83.2,AREA_SMG_009,Tembalang,Tembalang,43.92,Kurang Potensial,Balanced potential,25
+LOC_YGY_007,Kandidat Yogyakarta 7,Yogyakarta,Mantrijeron,Gedongkiwo,-7.823891,110.356413,Mobile Service Hub,215000000,87.37,AREA_YGY_019,Mantrijeron,Gedongkiwo,43.6,Kurang Potensial,Balanced potential,26
+LOC_SBY_007,Kandidat Surabaya 7,Surabaya,Kenjeran,Sidotopo Wetan,-7.235447,112.80566,Service Point,115000000,83.43,AREA_SBY_003,Kenjeran,Sidotopo Wetan,43.27,Kurang Potensial,Balanced potential,27
+LOC_BDG_004,Kandidat Bandung 4,Bandung,Cicendo,Husein,-6.874295,107.574077,New Branch,83000000,45.71,AREA_BDG_003,Cicendo,Husein,43.09,Kurang Potensial,Balanced potential,28
+LOC_BDG_008,Kandidat Bandung 8,Bandung,Antapani,Antapani Tengah,-6.916581,107.66487,Service Point,138000000,72.97,AREA_BDG_020,Antapani,Antapani Tengah,42.49,Kurang Potensial,Balanced potential,29
+LOC_YGY_005,Kandidat Yogyakarta 5,Yogyakarta,Mantrijeron,Mantrijeron,-7.82259,110.352049,Mobile Service Hub,219000000,65.79,AREA_YGY_009,Kasihan Bantul,Bangunjiwo,42.45,Kurang Potensial,Balanced potential,30
+LOC_SBY_002,Kandidat Surabaya 2,Surabaya,Tandes,Manukan Kulon,-7.262007,112.682905,Service Point,284000000,94.93,AREA_SBY_023,Tandes,Manukan Kulon,42.23,Kurang Potensial,Balanced potential,31
+LOC_BDG_006,Kandidat Bandung 6,Bandung,Buahbatu,Margasari,-6.961976,107.651408,Mobile Service Hub,102000000,76.62,AREA_BDG_011,Buahbatu,Margasari,42.02,Kurang Potensial,Balanced potential,32
+LOC_JKT_006,Kandidat Jakarta 6,Jakarta,Pasar Minggu,Jati Padang,-6.288946,106.83797,New Branch,143000000,72.61,AREA_JKT_020,Pasar Minggu,Jati Padang,41.78,Kurang Potensial,Balanced potential,33
+LOC_SBY_005,Kandidat Surabaya 5,Surabaya,Wiyung,Jajar Tunggal,-7.342414,112.698517,New Branch,188000000,94.84,AREA_SBY_018,Wiyung,Jajar Tunggal,41.21,Kurang Potensial,Balanced potential,34
+LOC_YGY_006,Kandidat Yogyakarta 6,Yogyakarta,Mlati Sleman,Sinduadi,-7.73637,110.370892,New Branch,199000000,63.88,AREA_YGY_027,Mlati Sleman,Sinduadi,41.1,Kurang Potensial,Balanced potential,35
+LOC_SMG_005,Kandidat Semarang 5,Semarang,Semarang Barat,Manyaran,-6.995616,110.370661,New Branch,106000000,75.52,AREA_SMG_006,Semarang Barat,Krapyak,41.06,Kurang Potensial,Balanced potential,36
+LOC_YGY_002,Kandidat Yogyakarta 2,Yogyakarta,Kotagede,Prenggan,-7.832818,110.380055,New Branch,294000000,67.97,AREA_YGY_022,Kotagede,Prenggan,39.81,Kurang Potensial,Balanced potential,37
+LOC_SMG_003,Kandidat Semarang 3,Semarang,Tembalang,Tembalang,-7.03582,110.451751,New Branch,190000000,70.57,AREA_SMG_017,Tembalang,Tembalang,38.52,Kurang Potensial,Balanced potential,38
+LOC_SMG_008,Kandidat Semarang 8,Semarang,Tembalang,Tembalang,-7.051819,110.445167,Service Point,237000000,73.39,AREA_SMG_017,Tembalang,Tembalang,38.52,Kurang Potensial,Balanced potential,39
+LOC_YGY_001,Kandidat Yogyakarta 1,Yogyakarta,Gondokusuman,Terban,-7.792587,110.382404,Mobile Service Hub,292000000,50.26,AREA_YGY_007,Gondokusuman,Terban,37.07,Kurang Potensial,Balanced potential,40

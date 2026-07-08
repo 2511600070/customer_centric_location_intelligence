@@ -1,0 +1,91 @@
+﻿competitor_id,competitor_name,competitor_type,city,district,latitude,longitude,distance_to_nearest_branch_km,estimated_strength,rating,review_count,h3_index,data_source
+COMP_JKT_001,Competitor Jakarta 1,Sparepart Store,Jakarta,Menteng,-6.19775,106.813412,1.43,High,4.4,775,H3_JKT_021,Dummy OSM/manual proxy
+COMP_JKT_002,Competitor Jakarta 2,Dealer,Jakarta,Duren Sawit,-6.218246,106.916677,0.8,High,3.4,958,H3_JKT_015,Dummy OSM/manual proxy
+COMP_JKT_003,Competitor Jakarta 3,Dealer,Jakarta,Menteng,-6.203493,106.818433,0.74,High,3.9,899,H3_JKT_021,Dummy OSM/manual proxy
+COMP_JKT_004,Competitor Jakarta 4,Multi-brand Workshop,Jakarta,Cilandak,-6.292607,106.818931,2.12,Medium,4.1,287,H3_JKT_027,Dummy OSM/manual proxy
+COMP_JKT_005,Competitor Jakarta 5,Dealer,Jakarta,Cengkareng,-6.135764,106.742843,11.66,Low,3.4,961,H3_JKT_019,Dummy OSM/manual proxy
+COMP_JKT_006,Competitor Jakarta 6,Sparepart Store,Jakarta,Cilandak,-6.272077,106.806843,1.53,Medium,3.3,896,H3_JKT_001,Dummy OSM/manual proxy
+COMP_JKT_007,Competitor Jakarta 7,Multi-brand Workshop,Jakarta,Pasar Minggu,-6.282579,106.831909,2.05,Low,4.6,581,H3_JKT_007,Dummy OSM/manual proxy
+COMP_JKT_008,Competitor Jakarta 8,Multi-brand Workshop,Jakarta,Cilandak,-6.281032,106.791271,0.46,High,4.7,358,H3_JKT_003,Dummy OSM/manual proxy
+COMP_JKT_009,Competitor Jakarta 9,Service,Jakarta,Pasar Minggu,-6.287119,106.857839,2.79,Medium,4.3,214,H3_JKT_002,Dummy OSM/manual proxy
+COMP_JKT_010,Competitor Jakarta 10,Service,Jakarta,Cilandak,-6.279943,106.80086,0.67,High,4.3,39,H3_JKT_001,Dummy OSM/manual proxy
+COMP_JKT_011,Competitor Jakarta 11,Sparepart Store,Jakarta,Cilandak,-6.284201,106.788086,0.95,High,3.5,165,H3_JKT_001,Dummy OSM/manual proxy
+COMP_JKT_012,Competitor Jakarta 12,Dealer,Jakarta,Duren Sawit,-6.217013,106.916908,0.93,Low,3.8,632,H3_JKT_008,Dummy OSM/manual proxy
+COMP_JKT_013,Competitor Jakarta 13,Service,Jakarta,Menteng,-6.212362,106.819223,0.34,High,4.8,312,H3_JKT_005,Dummy OSM/manual proxy
+COMP_JKT_014,Competitor Jakarta 14,Service,Jakarta,Cilandak,-6.27923,106.794883,0.04,Medium,3.8,456,H3_JKT_003,Dummy OSM/manual proxy
+COMP_JKT_015,Competitor Jakarta 15,Sparepart Store,Jakarta,Menteng,-6.200737,106.8098,1.32,Low,3.4,225,H3_JKT_021,Dummy OSM/manual proxy
+COMP_JKT_016,Competitor Jakarta 16,Sparepart Store,Jakarta,Menteng,-6.204097,106.803828,1.63,Medium,4.7,664,H3_JKT_005,Dummy OSM/manual proxy
+COMP_JKT_017,Competitor Jakarta 17,Dealer,Jakarta,Kelapa Gading,-6.162511,106.90198,2.3,Low,4.1,603,H3_JKT_026,Dummy OSM/manual proxy
+COMP_JKT_018,Competitor Jakarta 18,Multi-brand Workshop,Jakarta,Pasar Minggu,-6.268652,106.846041,3.69,Low,4.1,1063,H3_JKT_025,Dummy OSM/manual proxy
+COMP_BDG_001,Competitor Bandung 1,Dealer,Bandung,Gedebage,-6.931211,107.688853,0.41,Low,4.0,250,H3_BDG_007,Dummy OSM/manual proxy
+COMP_BDG_002,Competitor Bandung 2,Dealer,Bandung,Cicendo,-6.906531,107.602054,0.53,Medium,4.7,290,H3_BDG_008,Dummy OSM/manual proxy
+COMP_BDG_003,Competitor Bandung 3,Multi-brand Workshop,Bandung,Ujungberung,-6.899566,107.680776,2.01,High,4.3,984,H3_BDG_013,Dummy OSM/manual proxy
+COMP_BDG_004,Competitor Bandung 4,Dealer,Bandung,Gedebage,-6.971151,107.72386,5.8,Medium,3.6,143,H3_BDG_025,Dummy OSM/manual proxy
+COMP_BDG_005,Competitor Bandung 5,Sparepart Store,Bandung,Ujungberung,-6.913302,107.69906,1.96,Medium,4.4,188,H3_BDG_026,Dummy OSM/manual proxy
+COMP_BDG_006,Competitor Bandung 6,Multi-brand Workshop,Bandung,Cicendo,-6.912576,107.579029,0.67,Low,3.8,1067,H3_BDG_021,Dummy OSM/manual proxy
+COMP_BDG_007,Competitor Bandung 7,Multi-brand Workshop,Bandung,Coblong,-6.882585,107.637014,3.65,Medium,4.2,155,H3_BDG_030,Dummy OSM/manual proxy
+COMP_BDG_008,Competitor Bandung 8,Service,Bandung,Coblong,-6.889412,107.61403,2.83,Low,3.7,909,H3_BDG_010,Dummy OSM/manual proxy
+COMP_BDG_009,Competitor Bandung 9,Multi-brand Workshop,Bandung,Cicendo,-6.918079,107.620403,2.63,High,4.4,379,H3_BDG_004,Dummy OSM/manual proxy
+COMP_BDG_010,Competitor Bandung 10,Dealer,Bandung,Cicendo,-6.90696,107.618288,2.23,Low,4.0,730,H3_BDG_004,Dummy OSM/manual proxy
+COMP_BDG_011,Competitor Bandung 11,Multi-brand Workshop,Bandung,Coblong,-6.878283,107.617586,4.07,Low,3.9,570,H3_BDG_017,Dummy OSM/manual proxy
+COMP_BDG_012,Competitor Bandung 12,Dealer,Bandung,Cicendo,-6.907926,107.579602,0.25,Medium,4.5,577,H3_BDG_024,Dummy OSM/manual proxy
+COMP_BDG_013,Competitor Bandung 13,Dealer,Bandung,Coblong,-6.858472,107.622491,6.27,Medium,4.0,757,H3_BDG_017,Dummy OSM/manual proxy
+COMP_BDG_014,Competitor Bandung 14,Multi-brand Workshop,Bandung,Buahbatu,-6.95635,107.653398,4.14,Low,3.7,230,H3_BDG_002,Dummy OSM/manual proxy
+COMP_BDG_015,Competitor Bandung 15,Service,Bandung,Ujungberung,-6.900945,107.693975,3.19,High,4.1,110,H3_BDG_029,Dummy OSM/manual proxy
+COMP_BDG_016,Competitor Bandung 16,Sparepart Store,Bandung,Buahbatu,-6.950213,107.642379,4.76,Medium,3.9,327,H3_BDG_028,Dummy OSM/manual proxy
+COMP_BDG_017,Competitor Bandung 17,Sparepart Store,Bandung,Coblong,-6.900535,107.592943,1.15,Low,3.8,872,H3_BDG_006,Dummy OSM/manual proxy
+COMP_BDG_018,Competitor Bandung 18,Dealer,Bandung,Coblong,-6.886631,107.621891,3.64,High,3.9,1048,H3_BDG_030,Dummy OSM/manual proxy
+COMP_SMG_001,Competitor Semarang 1,Dealer,Semarang,Gunungpati,-7.09222,110.37817,10.06,Medium,3.4,972,H3_SMG_022,Dummy OSM/manual proxy
+COMP_SMG_002,Competitor Semarang 2,Multi-brand Workshop,Semarang,Banyumanik,-7.063683,110.433655,9.4,Low,4.1,36,H3_SMG_028,Dummy OSM/manual proxy
+COMP_SMG_003,Competitor Semarang 3,Multi-brand Workshop,Semarang,Gunungpati,-7.097507,110.377039,10.64,High,4.2,970,H3_SMG_012,Dummy OSM/manual proxy
+COMP_SMG_004,Competitor Semarang 4,Service,Semarang,Gunungpati,-7.105732,110.365866,11.61,High,4.7,522,H3_SMG_012,Dummy OSM/manual proxy
+COMP_SMG_005,Competitor Semarang 5,Service,Semarang,Genuk,-6.947071,110.462731,5.98,High,3.8,39,H3_SMG_005,Dummy OSM/manual proxy
+COMP_SMG_006,Competitor Semarang 6,Multi-brand Workshop,Semarang,Semarang Tengah,-6.970809,110.417275,0.93,Low,3.6,507,H3_SMG_011,Dummy OSM/manual proxy
+COMP_SMG_007,Competitor Semarang 7,Service,Semarang,Semarang Tengah,-6.973148,110.400971,0.38,High,3.7,109,H3_SMG_014,Dummy OSM/manual proxy
+COMP_SMG_008,Competitor Semarang 8,Sparepart Store,Semarang,Banyumanik,-7.085282,110.446997,12.17,High,4.6,958,H3_SMG_030,Dummy OSM/manual proxy
+COMP_SMG_009,Competitor Semarang 9,Service,Semarang,Gunungpati,-7.083926,110.387903,9.23,High,4.5,173,H3_SMG_024,Dummy OSM/manual proxy
+COMP_SMG_010,Competitor Semarang 10,Service,Semarang,Banyumanik,-7.095555,110.411313,11.14,Low,3.7,665,H3_SMG_019,Dummy OSM/manual proxy
+COMP_SMG_011,Competitor Semarang 11,Multi-brand Workshop,Semarang,Banyumanik,-7.083704,110.426631,10.7,Medium,4.0,498,H3_SMG_030,Dummy OSM/manual proxy
+COMP_SMG_012,Competitor Semarang 12,Dealer,Semarang,Gunungpati,-7.089745,110.412162,10.58,Low,3.5,940,H3_SMG_003,Dummy OSM/manual proxy
+COMP_SMG_013,Competitor Semarang 13,Multi-brand Workshop,Semarang,Semarang Tengah,-6.96689,110.390926,0.42,Low,4.0,968,H3_SMG_015,Dummy OSM/manual proxy
+COMP_SMG_014,Competitor Semarang 14,Multi-brand Workshop,Semarang,Tembalang,-7.058886,110.434586,9.05,High,4.3,102,H3_SMG_009,Dummy OSM/manual proxy
+COMP_SMG_015,Competitor Semarang 15,Dealer,Semarang,Pedurungan,-7.01509,110.460279,6.07,High,3.7,748,H3_SMG_007,Dummy OSM/manual proxy
+COMP_SMG_016,Competitor Semarang 16,Multi-brand Workshop,Semarang,Genuk,-6.97003,110.483157,7.14,Low,3.3,848,H3_SMG_013,Dummy OSM/manual proxy
+COMP_SMG_017,Competitor Semarang 17,Service,Semarang,Banyumanik,-7.070865,110.425257,9.43,Low,4.0,306,H3_SMG_028,Dummy OSM/manual proxy
+COMP_SMG_018,Competitor Semarang 18,Service,Semarang,Semarang Barat,-6.965521,110.370912,2.17,Low,3.6,840,H3_SMG_004,Dummy OSM/manual proxy
+COMP_YGY_001,Competitor Yogyakarta 1,Dealer,Yogyakarta,Umbulharjo,-7.82738,110.374056,2.33,High,4.2,173,H3_YGY_012,Dummy OSM/manual proxy
+COMP_YGY_002,Competitor Yogyakarta 2,Sparepart Store,Yogyakarta,Gondokusuman,-7.782489,110.363897,1.61,Low,3.4,699,H3_YGY_001,Dummy OSM/manual proxy
+COMP_YGY_003,Competitor Yogyakarta 3,Service,Yogyakarta,Mantrijeron,-7.791479,110.366551,0.67,High,3.9,828,H3_YGY_004,Dummy OSM/manual proxy
+COMP_YGY_004,Competitor Yogyakarta 4,Service,Yogyakarta,Kasihan Bantul,-7.812142,110.34954,1.03,Medium,3.6,403,H3_YGY_016,Dummy OSM/manual proxy
+COMP_YGY_005,Competitor Yogyakarta 5,Dealer,Yogyakarta,Kasihan Bantul,-7.824085,110.364289,2.83,High,4.2,523,H3_YGY_009,Dummy OSM/manual proxy
+COMP_YGY_006,Competitor Yogyakarta 6,Sparepart Store,Yogyakarta,Mantrijeron,-7.792112,110.366134,0.59,Low,3.4,804,H3_YGY_021,Dummy OSM/manual proxy
+COMP_YGY_007,Competitor Yogyakarta 7,Service,Yogyakarta,Kotagede,-7.824165,110.410233,2.83,High,4.8,1133,H3_YGY_005,Dummy OSM/manual proxy
+COMP_YGY_008,Competitor Yogyakarta 8,Multi-brand Workshop,Yogyakarta,Kasihan Bantul,-7.836415,110.358955,3.17,Medium,4.1,1012,H3_YGY_026,Dummy OSM/manual proxy
+COMP_YGY_009,Competitor Yogyakarta 9,Sparepart Store,Yogyakarta,Umbulharjo,-7.815824,110.383374,0.69,Medium,3.6,673,H3_YGY_012,Dummy OSM/manual proxy
+COMP_YGY_010,Competitor Yogyakarta 10,Multi-brand Workshop,Yogyakarta,Umbulharjo,-7.805083,110.402511,1.76,Low,4.5,986,H3_YGY_020,Dummy OSM/manual proxy
+COMP_YGY_011,Competitor Yogyakarta 11,Service,Yogyakarta,Depok Sleman,-7.761665,110.419718,4.43,Low,3.5,513,H3_YGY_017,Dummy OSM/manual proxy
+COMP_YGY_012,Competitor Yogyakarta 12,Dealer,Yogyakarta,Kasihan Bantul,-7.832148,110.349837,2.21,Low,4.2,815,H3_YGY_009,Dummy OSM/manual proxy
+COMP_YGY_013,Competitor Yogyakarta 13,Service,Yogyakarta,Umbulharjo,-7.80485,110.379731,1.17,Low,3.7,671,H3_YGY_012,Dummy OSM/manual proxy
+COMP_YGY_014,Competitor Yogyakarta 14,Dealer,Yogyakarta,Kasihan Bantul,-7.842684,110.352593,2.76,High,4.4,1182,H3_YGY_026,Dummy OSM/manual proxy
+COMP_YGY_015,Competitor Yogyakarta 15,Sparepart Store,Yogyakarta,Mantrijeron,-7.817905,110.368178,2.29,High,3.8,1024,H3_YGY_019,Dummy OSM/manual proxy
+COMP_YGY_016,Competitor Yogyakarta 16,Service,Yogyakarta,Mantrijeron,-7.824116,110.358235,2.23,Low,4.1,21,H3_YGY_002,Dummy OSM/manual proxy
+COMP_YGY_017,Competitor Yogyakarta 17,Service,Yogyakarta,Kotagede,-7.845492,110.420353,5.19,Medium,4.4,682,H3_YGY_011,Dummy OSM/manual proxy
+COMP_YGY_018,Competitor Yogyakarta 18,Service,Yogyakarta,Mantrijeron,-7.819899,110.356984,1.91,Low,4.6,767,H3_YGY_002,Dummy OSM/manual proxy
+COMP_SBY_001,Competitor Surabaya 1,Sparepart Store,Surabaya,Kenjeran,-7.249805,112.816439,4.68,High,3.5,638,H3_SBY_003,Dummy OSM/manual proxy
+COMP_SBY_002,Competitor Surabaya 2,Sparepart Store,Surabaya,Rungkut,-7.308458,112.766291,4.19,High,4.7,669,H3_SBY_011,Dummy OSM/manual proxy
+COMP_SBY_003,Competitor Surabaya 3,Multi-brand Workshop,Surabaya,Sukolilo,-7.294323,112.773636,2.43,Low,4.3,379,H3_SBY_006,Dummy OSM/manual proxy
+COMP_SBY_004,Competitor Surabaya 4,Service,Surabaya,Wonokromo,-7.278959,112.775943,0.85,Low,4.4,1193,H3_SBY_013,Dummy OSM/manual proxy
+COMP_SBY_005,Competitor Surabaya 5,Dealer,Surabaya,Wonokromo,-7.269663,112.759054,1.61,Low,4.2,472,H3_SBY_013,Dummy OSM/manual proxy
+COMP_SBY_006,Competitor Surabaya 6,Service,Surabaya,Tegalsari,-7.279349,112.733789,2.02,Medium,4.4,507,H3_SBY_021,Dummy OSM/manual proxy
+COMP_SBY_007,Competitor Surabaya 7,Dealer,Surabaya,Tandes,-7.267514,112.666988,4.65,High,4.3,707,H3_SBY_012,Dummy OSM/manual proxy
+COMP_SBY_008,Competitor Surabaya 8,Dealer,Surabaya,Sukolilo,-7.277703,112.792066,1.21,Medium,3.7,241,H3_SBY_015,Dummy OSM/manual proxy
+COMP_SBY_009,Competitor Surabaya 9,Sparepart Store,Surabaya,Tegalsari,-7.272876,112.741059,1.22,Low,4.6,1029,H3_SBY_024,Dummy OSM/manual proxy
+COMP_SBY_010,Competitor Surabaya 10,Dealer,Surabaya,Tandes,-7.251312,112.694349,2.1,Medium,4.5,481,H3_SBY_029,Dummy OSM/manual proxy
+COMP_SBY_011,Competitor Surabaya 11,Dealer,Surabaya,Sukolilo,-7.302526,112.784308,3.18,Medium,3.3,554,H3_SBY_006,Dummy OSM/manual proxy
+COMP_SBY_012,Competitor Surabaya 12,Sparepart Store,Surabaya,Sukolilo,-7.301116,112.790305,3.16,Low,4.4,1140,H3_SBY_004,Dummy OSM/manual proxy
+COMP_SBY_013,Competitor Surabaya 13,Sparepart Store,Surabaya,Tandes,-7.24046,112.688394,3.42,High,3.3,357,H3_SBY_029,Dummy OSM/manual proxy
+COMP_SBY_014,Competitor Surabaya 14,Dealer,Surabaya,Gubeng,-7.265678,112.767386,1.84,Medium,3.6,409,H3_SBY_020,Dummy OSM/manual proxy
+COMP_SBY_015,Competitor Surabaya 15,Multi-brand Workshop,Surabaya,Gubeng,-7.290029,112.73991,3.11,High,3.7,506,H3_SBY_014,Dummy OSM/manual proxy
+COMP_SBY_016,Competitor Surabaya 16,Sparepart Store,Surabaya,Sukolilo,-7.296952,112.791056,2.75,Low,3.4,27,H3_SBY_004,Dummy OSM/manual proxy
+COMP_SBY_017,Competitor Surabaya 17,Sparepart Store,Surabaya,Gubeng,-7.277372,112.754837,1.98,Low,3.4,443,H3_SBY_014,Dummy OSM/manual proxy
+COMP_SBY_018,Competitor Surabaya 18,Sparepart Store,Surabaya,Sukolilo,-7.302926,112.768486,3.53,Low,3.8,834,H3_SBY_006,Dummy OSM/manual proxy
